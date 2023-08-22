@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Waves/Waves Hooks.md",
+                "file": "SB.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Теория категорий.md",
+                "file": "SB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Теория категорий.md",
+                "file": "SB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Теория категорий.md"
+                "file": "SB.md"
               }
             }
           }
@@ -231,7 +231,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,16 +244,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78ccdbd41e1e9648",
+  "active": "a0c9643497ee8c53",
   "lastOpenFiles": [
+    "Dev/Http4s.md",
+    "Waves/Waves Hooks.md",
+    "SB.md",
     "Dev/Теория категорий.md",
     "remote/test.md",
     "remote",
-    "Waves/Waves Hooks.md",
-    "SB.md",
     "gRPC.md",
     "Waves/PQC.md",
-    "Dev/Http4s.md",
     "Dev/Cats effects/Cats-effect.md",
     "Waves/Развертывание окружения.md",
     "Dev/SBT.md",

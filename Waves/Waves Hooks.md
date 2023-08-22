@@ -29,4 +29,3 @@ https://gitlab.web3tech.ru/development/we/node/open-source-we-core/-/jobs/478854
 
 - пометь ссылку на тег/образ: containers - image: reg.web3tech.ru/development/we/node/corporate-node:WE-8554-post-metrics-404-instead-400
 
-**
