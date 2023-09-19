@@ -1,7 +1,16 @@
 ## nc / netcat
 ```
 nc localhost 8888
-echo -n "GET /hello/A HTTP/1.0\r\n\r\n" | nc localhost 8080
+echo -n "GET /p/1 HTTP/1.0\r\n\r\n" | nc localhost 9000
+```
+## curl
+```
+curl http://localhost:6862/blocks/height
+```
+
+## Check port usage
+```
+lsof -w -n -i tcp:8080
 ```
 
 ## Block sleep mode
@@ -9,6 +18,13 @@ echo -n "GET /hello/A HTTP/1.0\r\n\r\n" | nc localhost 8080
 caffeinate -u -t 3600 // time in sec / an hour
 ```
 
+# Base64
+```
+base64 <<< string
+base64 -i filename
+
+base64 -d <<< string
+```
 ## Path 
 .zshrc
 
@@ -24,11 +40,6 @@ export PATH=$PATH:$M2_HOME/bin:$CATALINA_HOME/bin:$PIP_HOME
 
 alias java8='export JAVA_HOME=$JAVA_8_HOME'
 alias java11='export JAVA_HOME=$JAVA_11_HOME'
-```
-
-## Check port usage
-```
-lsof -w -n -i tcp:8080
 ```
 
 ## Show the full Path in the Finder Title Bar
@@ -74,4 +85,16 @@ Finder > Settings, then click Advanced. Select or deselect “Show all filename 
 
 Mobile File Transfer
 https://www.android.com/filetransfer/
+```
+
+Расположение приложения
+```bash
+which ls
+```
+
+# Tgz
+```
+tar -czf LotsOfFiles.tgz LotsOfFiles // create tgz
+
+tar -zxf LotsOfFiles.tgz // unpack tgz
 ```

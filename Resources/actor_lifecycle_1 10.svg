@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="691px"
+     height="179px" viewBox="-0.5 -0.5 691 179">
+    <defs>
+        <filter x="0" y="0" width="1" height="1" id="solid">
+            <feFlood flood-color="#ffffff" result="bg" />
+            <feMerge>
+                <feMergeNode in="bg"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+    </defs>
+    <g filter="url(#solid)">
+        <ellipse cx="15" cy="15" rx="15" ry="15" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <rect x="130" y="0" width="100" height="30" rx="4.5" ry="4.5" fill="#ffffff" stroke="#000000"
+              pointer-events="all"/>
+        <text x="180" y="20" fill="#000000" font-family="Helvetica" font-size="15px" text-anchor="middle">
+            started
+        </text>
+        <rect x="380" y="0" width="100" height="30" rx="4.5" ry="4.5" fill="#ffffff" stroke="#000000"
+              pointer-events="all"/>
+        <text x="430" y="19" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">
+            stopped
+        </text>
+        <rect x="590" y="0" width="100" height="30" rx="4.5" ry="4.5" fill="#ffffff" stroke="#000000"
+              pointer-events="all"/>
+        <text x="640" y="19" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">
+            terminated
+        </text>
+        <rect x="130" y="140" width="100" height="30" rx="4.5" ry="4.5" fill="#ffffff" stroke="#000000"
+              pointer-events="all"/>
+        <text x="180" y="159" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">
+            restarting
+        </text>
+        <rect x="380" y="140" width="100" height="30" rx="4.5" ry="4.5" fill="#ffffff" stroke="#000000"
+              pointer-events="all"/>
+        <text x="430" y="159" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">
+            faulty
+        </text>
+        <path d="M 30 15 L 123.63 15" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 128.88 15 L 121.88 18.5 L 123.63 15 L 121.88 11.5 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="all"/>
+        <text filter="url(#solid)" x="80" y="19" fill="#0000CC" font-family="Courier New" font-size="14px" text-anchor="middle">
+            preStart
+        </text>
+        <path d="M 230 15 L 373.63 15" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 378.88 15 L 371.88 18.5 L 373.63 15 L 371.88 11.5 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="all"/>
+        <text x="305" y="29" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle"
+              font-weight="bold">stop
+        </text>
+        <path d="M 180 140 L 180 36.37" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 180 31.12 L 183.5 38.12 L 180 36.37 L 176.5 38.12 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="all"/>
+        <text filter="url(#solid)" x="180" y="89" fill="#0000CC" font-family="Courier New" font-size="14px" text-anchor="middle">
+            postRestart
+        </text>
+        <path d="M 380 155 L 236.37 155" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 231.12 155 L 238.12 151.5 L 236.37 155 L 238.12 158.5 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="all"/>
+        <text x="305" y="170" fill="#0000CC" font-family="Courier New" font-size="14px" text-anchor="middle">
+            preRestart
+        </text>
+        <text x="301" y="145" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle"
+              font-weight="bold">restart
+        </text>
+        <path d="M 430 140 L 430 36.37" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 430 31.12 L 433.5 38.12 L 430 36.37 L 426.5 38.12 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="all"/>
+        <text x="430" y="89" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle"
+              font-weight="bold">stop
+        </text>
+        <path d="M 480 15 L 583.63 15" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 588.88 15 L 581.88 18.5 L 583.63 15 L 581.88 11.5 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="all"/>
+        <text filter="url(#solid)"  x="535" y="19" fill="#0000CC" font-family="Courier New" font-size="14px" text-anchor="middle">
+            postStop
+        </text>
+        <path d="M 405 140 L 235.29 26.05" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 230.93 23.12 L 238.69 24.12 L 235.29 26.05 L 234.79 29.93 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="all"/>
+        <text filter="url(#solid)" x="318" y="78" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle"
+              font-weight="bold">resume
+        </text>
+        <path d="M 205 30 L 374.71 143.95" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 379.07 146.88 L 371.31 145.88 L 374.71 143.95 L 375.21 140.07 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="all"/>
+    </g>
+</svg>

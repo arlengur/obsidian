@@ -8,91 +8,91 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c2d549f485ecfcd9",
+            "id": "e2683462865c9028",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Теория категорий.md",
+                "file": "Dev/ZIO/ZIO.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "643d1dce5ef4f1ec",
+            "id": "672a9b3f996b8ebb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Idea.md",
+                "file": "Заметки.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8a8af982a2fc6a17",
+            "id": "a67c390e1aa7cdc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/FS2.md",
+                "file": "Mac.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e46c28ac999da973",
+            "id": "382ec885a61ba35f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Http4s.md",
+                "file": "Waves/PKI.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8c401df8511e7cc3",
+            "id": "ee40d609db9e8261",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Cats effects/Cats-effect.md",
+                "file": "Dev/Vim.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cecf60b9edf82fb1",
+            "id": "a1cb2d923902d65f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker.md",
+                "file": "Dev/Grep.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c7fb0cc5695ee0db",
+            "id": "acc26a2c78e9388f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Waves/Развертывание окружения.md",
+                "file": "ИСККОН/Slokas.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d8c7c3e806cf8323",
+            "id": "6b81085def4ae397",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -102,21 +102,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a0c9643497ee8c53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -145,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#THIS",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SB.md",
+                "file": "ИСККОН/Slokas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SB.md",
+                "file": "ИСККОН/Slokas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +210,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SB.md"
+                "file": "ИСККОН/Slokas.md"
+              }
+            }
+          },
+          {
+            "id": "83c6074118ae3944",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -231,8 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,47 +241,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0c9643497ee8c53",
+  "active": "acc26a2c78e9388f",
   "lastOpenFiles": [
-    "Dev/Http4s.md",
     "Waves/Waves Hooks.md",
-    "SB.md",
-    "Dev/Теория категорий.md",
-    "remote/test.md",
-    "remote",
-    "gRPC.md",
-    "Waves/PQC.md",
-    "Dev/Cats effects/Cats-effect.md",
-    "Waves/Развертывание окружения.md",
     "Dev/SBT.md",
-    "What to watch.md",
-    "Docker.md",
-    "Mac.md",
-    "Dev/FS2.md",
-    "Resources/streamStructure.png",
-    "Dev/Monix.md",
-    "Waves/Контракты и транзакции.md",
-    "Resources/category.png",
-    "Resources/cats-type-classes-hierarhy.png",
-    "Dev",
-    "Dev/Idea.md",
-    "Resources/ZioSupervisionModel.png",
-    "Waves",
-    "Dev/ZIO/ZIO-test, Schedule, Ref.md",
-    "Dev/Cats effects",
-    "Dev/ZIO/ZLayer, ZIO сервисы.md",
-    "Resources/mixCompositionLayer.png",
-    "Resources/gorizontalCompositionLayer.png",
-    "Resources/verticalCompositionLayer.png",
-    "Resources/girizontalCompositionZlayer.png",
-    "Resources/verticalCompositionZlayer.png",
+    "Waves/Стенд.md",
+    "Waves/PKI.md",
+    "Dev/Vim.md",
+    "Dev/ZIO/ZIO.md",
     "Dev/ZIO/ZIO Environment и его место в DI.md",
-    "Dev/ZIO/ZIO работа с ресурсами.md",
-    "Dev/ZIO/ZIO асинхронность и паралеллизм.md",
+    "Dev/Python.md",
+    "Waves/CSC Test.md",
+    "ИСККОН/Slokas.md",
+    "Dev/Scala.md",
+    "Заметки.md",
+    "Waves/Развертывание окружения.md",
+    "Mac.md",
+    "Dev/Git&Gitlab.md",
+    "Dev/Docker.md",
+    "Dev/Docker image.md",
+    "Dev/Grep.md",
+    "Grep 1.md",
+    "What to watch.md",
+    "Waves/kubernetes.md",
+    "ИСККОН/Физиогномика.md",
+    "Waves/Rest ручки.md",
+    "Waves/gRPC.md",
+    "Waves/Ролевая система в ноде.md",
+    "ИСККОН/SB.md",
+    "Resources/Scala_type_system.svg",
+    "Resources/akkaPersistence.png",
+    "Resources/balancedGraph.png",
+    "Resources/graphWithTwoSink.png",
+    "Resources/graphDSL.png",
+    "Resources/Pasted image 20230903123333.png",
+    "Resources/AkkaStreamsPipeline.png",
+    "Resources/actor_lifecycle_1 10.svg",
+    "Resources/actor_lifecycle_1 9.svg",
+    "Resources/actor_lifecycle_1 8.svg",
+    "ИСККОН",
+    "remote",
+    "Dev",
+    "Waves",
+    "Dev/Cats effects",
     "Dev/ZIO",
     "Untitled.canvas",
-    "Resources/ZioFiberModel.png",
-    "Resources",
-    "Pasted image 20230810150109.png width=200.md"
+    "Resources"
   ]
 }

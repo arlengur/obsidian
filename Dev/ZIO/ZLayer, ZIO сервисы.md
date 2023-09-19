@@ -33,11 +33,13 @@ val services: DBService with EmailService = new DBService with EmailService {
 - Возможность строить комбинации сервисов 
 - Возможность частично избавляться от зависимостей
 
+```scala
 type RLayer[-RIn, +ROut] = ZLayer[RIn, Throwable, ROut] 
 type URLayer[-RIn, +ROut] = ZLayer[RIn, Nothing, ROut] 
 type Layer[+E, +ROut] = ZLayer[Any, E, ROut] 
 type ULayer[+ROut] = ZLayer[Any, Nothing, ROut] 
 type TaskLayer[+ROut] = ZLayer[Any, Throwable, ROut]
+```
 
 U - Nothing в канале ошибки
 ## Has 
