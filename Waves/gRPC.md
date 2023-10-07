@@ -1,3 +1,4 @@
+https://confluence.web3tech.ru/pages/viewpage.action?pageId=1836186
 - Открыть Postman
 - Создать Workspace
 - Создать gRPC request, в нем

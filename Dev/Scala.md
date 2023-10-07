@@ -143,3 +143,59 @@ def count(list: List[Int], f: Int => Boolean): Int = list.foldLeft(0) {
     (acc, v) => if (f(v)) acc + 1 else acc
 }
 ```
+
+# Задачки
+
+1.  Функцию batch traverse которая будет для `Seq[Int], f: Int => Future[Int]`выдавать `Future[Seq[Int]]` в которой Future над элементами будут запускаться не сразу а батчами размера size
+```scala
+object BatchTraverse extends App {  
+implicit val ec = ExecutionContext.global  
+  
+def batchTraverse1(in: Seq[Int], size: Int)(f: Int => Future[Int]): Future[Seq[Int]] =  
+	in.grouped(size).toSeq.foldLeft(Future.successful(Seq.empty[Int])){  
+		case (acc, l) => acc.flatMap(x => Future.sequence(l.map(f)).map(y => x ++ y) )  
+}  
+  
+def batchTraverse2(in: Seq[Int], size: Int)(f: Int => Future[Int]): Future[Seq[Int]] =  
+	in.grouped(size).toSeq.foldLeft(Future.successful(Seq.empty[Int])) {  
+		case (acc, l) => for {  
+			y <- acc  
+			x <- Future.sequence(l.map(f))  
+		} yield y ++ x  
+}  
+ 
+def func(i: Int): Future[Int] = Future {  
+	println(s"running func($i)")  
+	Thread.sleep(1500)  
+	i * 100  
+}  
+  
+val in = 1 to 12  
+  
+val res = Await.result(batchTraverse1(in, 3)(func), Duration.Inf)  
+println(res)  
+}
+```
+
+2. Бинарное дерево (имплементировать fold и подсчитать сумму в узлах)
+```scala
+object BinaryTreeFold extends App {  
+	sealed trait Tree  
+	case class Node(v: Int, left: Tree, right: Tree) extends Tree  
+	case object Nil extends Tree  
+	  
+	object Tree {  
+		def fold[B](tree: Tree, zero: B)(f: (Int, B, B) => B): B = tree match {  
+			case Node(v, left, right) => f(v, fold(left, zero)(f), fold(right, zero)(f))  
+			case Nil => zero  
+		}  
+	}  
+	import Tree._  
+	val in = Node(1, Node(3, Nil, Node(1, Nil, Nil)), Node(2, Nil, Nil))  
+	val sum = fold(in, 1){  
+		(v, l, r) => v * l * r  
+	}  
+	println(in)  
+	println(sum)  
+}
+```

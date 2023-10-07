@@ -13,6 +13,20 @@
 # Создать submodule
 - `git submodule add git@gitlab.web3tech.ru:development/we/toolchain/transactions-factory.git`
 
+# Tag
+```
+git tag // вывести все теги
+git tag -l 'v1.8*' // вывести все теги с шаблоном
+
+git tag 1.0 <hash> // создание легковесного тега
+
+git tag -a <tag> -m "message" // создание аннотированного тега
+
+git show <tag> // вывести коммит на который указывает тег
+
+git checkout <tag> // сместить указатель на коммит с указанным тегом
+
+git tag -d <tag> // удалить тег
 
 ```
 git --version
@@ -212,22 +226,6 @@ git diff // сравнит конфликтующие коммиты
   
 
 git cherry-pick <hash> // копирует коммит (с новым hash) в текущую ветку
-
-  
-
-git tag // вывести все теги
-
-git tag 1.0 <hash> // создание легковесного тега
-
-git tag -a <tag> -m "message" // создание аннотированного тега
-
-git show <tag> // вывести коммит на который указывает тег
-
-git checkout <tag> // сместить указатель на коммит с указанным тегом
-
-git tag -d <tag> // удалить тег
-
-  
 
 git remote add origin URL // создаем соединение с удаленным репозиторием, где origin - алиас ссылки на удаленный репозиторий, URL - адрес репозитория на сервере
 

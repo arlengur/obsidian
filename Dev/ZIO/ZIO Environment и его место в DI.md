@@ -136,7 +136,7 @@ def e2: ZIO[MyEnv, Nothing, Unit]
 
 Пример:
 ```java
-lazy val e1: ZIO[Random with Clock with Console, Nothing, Unit] = for{  
+lazy val e1: ZIO[Random with Clock with Console, Nothing, Unit] = for{ 
 	console <- ZIO.environment[Console].map(_.get)  
 	clock <- ZIO.environment[Clock].map(_.get)  
 	random <- ZIO.environment[Random].map(_.get)  

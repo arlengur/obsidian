@@ -52,6 +52,7 @@ val e = for{
 } yield ???
 ```
 
+```scala
 Has[DBService] 
 Map[DBServiceType -> DBServiceImpl] 
 
@@ -60,6 +61,7 @@ Map(
 	DBServiceType -> DBServiceImpl, 
 	EmailServiceType -> EmailServiceImpl 
 )
+```
 ### ZLayer конструкторы 
 - succeed - создает заведомо непадающий слой
 - fromService - когда при создании слоя он зависит от другого (UserService зависит от EmailService)
@@ -104,7 +106,7 @@ object EmailService {
 // боевой слой описывающий работу сервиса  
 	val live = ZLayer.succeed(new Service {  
 		override def sendMail(email: Email): URIO[Console, Unit] = zio.console.putStrLn(email.toString).orDie  
-})
+	})
 }
 }
 case class Email(to: EmailAddress, body: Html)  

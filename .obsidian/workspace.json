@@ -8,103 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e2683462865c9028",
+            "id": "88e9c02308883535",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/ZIO/ZIO.md",
+                "file": "Waves/Rest ручки.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "672a9b3f996b8ebb",
+            "id": "3c6ea1e2c1638e07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заметки.md",
+                "file": "Waves/Rest ручки.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a67c390e1aa7cdc6",
+            "id": "64e48223233e543c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mac.md",
+                "file": "ИСККОН/SB.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "382ec885a61ba35f",
+            "id": "2b9e1a03bf437d1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Waves/PKI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee40d609db9e8261",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Vim.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1cb2d923902d65f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Grep.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acc26a2c78e9388f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ИСККОН/Slokas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b81085def4ae397",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Waves/Waves Hooks.md",
+                "file": "Мриданга.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "co",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ИСККОН/Slokas.md",
+                "file": "Мриданга.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ИСККОН/Slokas.md",
+                "file": "Мриданга.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ИСККОН/Slokas.md"
+                "file": "Мриданга.md"
               }
             }
           },
@@ -229,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,34 +194,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acc26a2c78e9388f",
+  "active": "2b9e1a03bf437d1a",
   "lastOpenFiles": [
-    "Waves/Waves Hooks.md",
-    "Dev/SBT.md",
-    "Waves/Стенд.md",
-    "Waves/PKI.md",
-    "Dev/Vim.md",
-    "Dev/ZIO/ZIO.md",
-    "Dev/ZIO/ZIO Environment и его место в DI.md",
-    "Dev/Python.md",
-    "Waves/CSC Test.md",
-    "ИСККОН/Slokas.md",
-    "Dev/Scala.md",
     "Заметки.md",
-    "Waves/Развертывание окружения.md",
     "Mac.md",
+    "Waves/Rest ручки.md",
+    "VsCode.md",
+    "Мриданга.md",
+    "Стихи ШБ наизусть.md",
+    "Waves/PKI.md",
+    "Waves/kubernetes.md",
+    "Waves/Waves Hooks.md",
+    "Waves/Стенд.md",
+    "Waves/gRPC.md",
+    "ИСККОН/Bhakti-Vaibhava.md",
+    "ИСККОН/SB.md",
+    "ИСККОН/Slokas.md",
+    "ИСККОН/Структуры глав ШБ.md",
+    "ИСККОН/Физиогномика.md",
     "Dev/Git&Gitlab.md",
+    "Monix.md",
+    "Dev/Scala.md",
+    "Davinci.md",
+    "English.md",
+    "Dev/Http4s.md",
     "Dev/Docker.md",
     "Dev/Docker image.md",
-    "Dev/Grep.md",
-    "Grep 1.md",
-    "What to watch.md",
-    "Waves/kubernetes.md",
-    "ИСККОН/Физиогномика.md",
-    "Waves/Rest ручки.md",
-    "Waves/gRPC.md",
-    "Waves/Ролевая система в ноде.md",
-    "ИСККОН/SB.md",
+    "Dev/FS2.md",
+    "Dev/Cats-effect.md",
     "Resources/Scala_type_system.svg",
     "Resources/akkaPersistence.png",
     "Resources/balancedGraph.png",

@@ -1,3 +1,8 @@
+Реджистри
+```
+default-registry-domain = "registry.wavesenterprise.com/waves-enterprise-public"
+default-registry-domain = "registry.wvservices.com"
+```
 
 - Высота ноды
 ```
@@ -78,3 +83,6 @@ git push origin v1.12.4
 - Сделать мерж в релизную ветку
 - Поставить в гиттлабе тег `v1.8.6-RC1`
 - В publish-docker-images найти строку `Successfully tagged reg.web3tech.ru/development/we/node/legacy-vostok-public:v1.8.6-RC1` ссылкой будет `reg.web3tech.ru/development/we/node/legacy-vostok`
+
+https://repo1.maven.org/maven2/com/wavesenterprise/we-crypto/1.8.5/we-crypto-1.8.5.pom
+https://artifacts.wavesenterprise.com/repository/we-releases/com/wavesenterprise/we-crypto/1.8.4-RC1/we-crypto-1.8.4…

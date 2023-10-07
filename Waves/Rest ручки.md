@@ -3,7 +3,56 @@
 - `Authorization error. Missing authorization` metadata говорит о том что нужно авторизоваться
 # POST `transactions/signAndBroadcast`
 ## Создать контракт (103)
+https://docs.wavesenterprise.com/ru/latest/description/transactions/tx-list.html#createcontract-transaction
 ```json
+// version 2
+{
+  "type": 103,
+  "version": 2,
+  "sender": "3JMPZvdm6JHDCFHhuDfRVcWc7QoL8nSusVv",
+  "password": "sato",
+  "image": "vostok-sc/grpc-contract-example:v3.0",
+  "contractName": "grpc-contract-example-v3",
+  "imageHash": "a5d55175718e0de512847d199459295bc5dc22aa9090a64ecd551586eba671cc",
+  "params": [
+    {
+      "type": "string",
+      "key": "accounts",
+      "value": "[{\"accountNumber\":\"1119810\"}]"
+    }
+  ],
+  "fee": 100000000,
+  "timestamp": 1651487626477,
+  "feeAssetId": null
+}
+
+// version 4|5
+{
+  "type": 103,
+  "version": 4,
+  "sender": "3JMPZvdm6JHDCFHhuDfRVcWc7QoL8nSusVv",
+  "password": "sato",
+  "image": "vostok-sc/grpc-contract-example:v3.0",
+  "contractName": "grpc-contract-example-v3",
+  "imageHash": "a5d55175718e0de512847d199459295bc5dc22aa9090a64ecd551586eba671cc",
+  "params": [
+    {
+      "type": "string",
+      "key": "accounts",
+      "value": "[{\"accountNumber\":\"1119810\"}]"
+    }
+  ],
+  "fee": 100000000,
+  "timestamp": 1696411953991,
+  "feeAssetId": null,
+  "atomicBadge": null,
+  "validationPolicy": {
+    "type": "any"
+  },
+  "apiVersion": "1.0"
+}
+
+// version 6
 {  
 "apiVersion": "1.0",  
 "contractName": "grpc-increment-contract-csc here meet",  
@@ -72,7 +121,7 @@
 }
 ```
 ## Дать роль ноде (102)
-```scala
+```json
 {
   "type": 102,
   "sender": "3JMPZvdm6JHDCFHhuDfRVcWc7QoL8nSusVv",
@@ -86,17 +135,40 @@
   "version": 2
 }
 ```
+## Вызвать контракт (104)
+```json
+{
+  "type": 104,
+  "version": 2,
+  "contractId": "7HYWWYQgrqaqts8bGrjnFncbSmJdBFGwbyxSeizgXWrU",
+  "fee": 10000000,
+  "sender": "3JMPZvdm6JHDCFHhuDfRVcWc7QoL8nSusVv",
+  "password": "sato",
+  "params": [
+    {
+      "type": "integer",
+      "key": "a",
+      "value": 1
+    }
+  ],
+  "contractVersion": 2
+}
+```
+
 # GET /contracts/{contractId} 
 получить состояние контракта
 
 # GET /contracts/info/{contractId}
 получить информацию о контракте
 
+# GET ​/contracts​/executed-tx-for​/{id}
+результат выполнения транзакции
+
 # GET /confidential-contracts/tx/{executable-tx-id}
 получить состояние КСК
 
 # POST /confidential-contracts/call
-выполнить запрос к КСК
+## Call запрос (104)
 ```json
 {  
 "sender": "3JMPZvdm6JHDCFHhuDfRVcWc7QoL8nSusVv",  
