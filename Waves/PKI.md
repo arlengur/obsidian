@@ -1,5 +1,4 @@
 Подписание и проверка подписи
-
 # Для подписи CAdES-BES или sigType = 1
 1. Скачать corporate-generator из репозитория: corporate-generator-1.13.0-Dev.jar
 2. Конфиг для генерации ключевой пары  (generator.conf):
@@ -29,7 +28,7 @@ pki-key-pair-generator {
 3. Запустить генератор:
 
 ```
-java -cp "corporate-generator-1.13.0-Dev.jar:<corporate-node-path>/lib/*" com.wavesenterprise.generator.pki.PkiKeyPairGenerator generator.conf 
+java -cp "corporate-generator-1.13.0-Dev.jar:java-csp-5.0.44122-A/*" com.wavesenterprise.generator.pki.PkiKeyPairGenerator generator.conf 
 ```
 В результате будет создан 
 - запрос на сертификат вида 3MqFWYnVcBndh3Nc8gz9Ar5LEjnFQFjZX5u.req 
@@ -45,11 +44,13 @@ base64 -i out/3MqFWYnVcBndh3Nc8gz9Ar5LEjnFQFjZX5u.req
 5. Подписать реквест https://testgost2012.cryptopro.ru/certsrv/certrqxt.asp и скачать клиентский сертификат .crt
 
 6. Положить клиентский сертификат в keystore:
-
 ```
-/opt/cprocsp/bin/csptest -keyset -container 3MqFWYnVcBndh3Nc8gz9Ar5LEjnFQFjZX5u -keytype signature -impcert user.crt
+/opt/cprocsp/bin/csptest -keyset -container 3Hk6XCqafgmxePGgXHq1MWBdU4Kc8T1Z55a -keytype signature -impcert user.crt
 ```
-7. Скачать корневой сертификат: http://testgost2012.cryptopro.ru/CertEnroll/root2023-2.crt (НО бывает он не работает и работает сертификат ЦС отсюда https://testgost2012.cryptopro.ru/certsrv/certcarc.asp)
+7. Скачать корневой сертификат:
+	1. https://testgost2012.cryptopro.ru/certsrv/certcarc.asp или
+	2. http://testgost2012.cryptopro.ru/CertEnroll/root2023-2.crt или 
+	3. https://testgost2012.cryptopro.ru/certsrv/certcarc.asp)
 8. Положить keystore на ноду (https://vault-dev.welocal.dev/ui/vault/secrets/we/list/sato/node-0/wallet/)
 - Create secret (имя аналогичное имени в п.3 (3MqFWYnV.000))
 - Имя соответствует имени в папке (header.key, masks.key, masks2.key, name.key, primary.key, primary2.key)

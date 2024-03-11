@@ -1,21 +1,27 @@
+Asset - токен или монета
+Account - кошелек пользователя с балансом
+
+TimeSheet:
+https://confluence.web3tech.ru/pages/viewpage.action?pageId=27328837
+
+Документация:
+https://confluence.web3tech.ru/pages/viewpage.action?spaceKey=VO&title=Circuit+Breaker
+
+Заявки на отпуска, дэй-офф, ДМС и пр. пишем сюда:
+https://jira.web3tech.ru/servicedesk/customer/portals
+Чтобы воспользоваться сервисом, обязательно нужно быть авторизованным на [https://jira.web3tech.ru/](https://jira.web3tech.ru/ "https://jira.web3tech.ru/") По всем возникающим вопросам пишите нашему сисадмину Косте Мялкину @Konstantin Myalkin
+
+sha256 = 32bytes
+
+Валидация комиссии fee зависит от настройки feature-check-blocks-period и работает когда высота ноды выше значения указанного там.
+
+Про `feature-check-blocks-period`
+https://docs.wavesenterprise.com/en/latest/description/soft-forks.html?highlight=features
+
 Реджистри
 ```
 default-registry-domain = "registry.wavesenterprise.com/waves-enterprise-public"
 default-registry-domain = "registry.wvservices.com"
-```
-
-- Высота ноды
-```
-curl http://localhost:6862/blocks/height
-```
-
-для стенда
-```
-curl -X GET "https://clinton.welocal.dev/node-0/blocks/height" -H "accept: application/json" -H "X-API-Key: vostok"
-```
-
-```
-curl -X GET "localhost:6862/blocks/seq/865/874" -H "accept: application/json" -H "X-API-Key: vostok"
 ```
 
 - Ручки
@@ -39,7 +45,7 @@ https://gitlab.web3tech.ru/development/we/node/open-source-we-core/-/jobs/478854
 - JCSP https://cryptopro.ru/products/csp/downloads#latest_csp50r3_jcsp
 - JCP https://cryptopro.ru/products/csp/jcp/downloads
 
-# Waves repo
+# Waves repo (nexus)
 - https://artifacts.wavesenterprise.com/
 
 # Гитлаб репо

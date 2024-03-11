@@ -289,7 +289,7 @@ def getUserName[F[_]: Database: Http: Monad](id: UserId): F[String] = ???
 Нужны для композирования однородных эффектов
 
 ## OptionT
-OptionT[F, A] ~ F[Option[A]]
+`OptionT[F, A] ~ F[Option[A]]`
 Добавляет возможность завершения с отсутствующим значением
 ```scala
 def getUserName: IO[Option[String]] = IO.pure(Some("username"))  
@@ -323,7 +323,7 @@ println(res.value.unsafeRunSync)
 ```
 
 ## EitherT
-EitherT[F, E, A] ~ F[Either[E, A]]
+`EitherT[F, E, A] ~ F[Either[E, A]]`
 Добавляет возможность завершения с ошибкой
 ```scala
 sealed trait UserServiceError  
@@ -341,8 +341,72 @@ def getProfile(id: Int) = for {
 println(getProfile(2).value.unsafeRunSync())
 ```
 ## ReaderT (Kleisli)
-[F, A, B] ~ A => F[B] 
+`[F, A, B] ~ A => F[B] `
 - Композирует функции, которые возвращают монадические значения (является функцией одного аргумента)
 - Монада
 - Может делать композицию функций flatMap
 
+# Методы
+## sequence
+последовательно выполняет конкурентный код
+```scala
+object Main extends IOApp {  
+	override def run(args: List[String]): IO[ExitCode] = {  
+		val io1 = IO{Thread.sleep(1000); 42}  
+		val io2 = IO{Thread.sleep(500); 2}  
+		List(io1, io2).sequence.flatMap(r => IO(println(r)))  
+	}.as(ExitCode.Success)  
+}
+```
+
+Можно применять sequence на обычных контейнерах, где для Option 
+- будет возвращено  None, если хотя бы один элемент контейнера None,
+- либо все элементы контейнера, если среди них нет None
+sequence применяется для контейнеров которые являются Applicative, nonEmptySequence применяется для контейнеров которые имеют Apply
+```scala
+List[Option[String]](Some("hello"), Some("world"), None, Some("again")).sequence // None
+
+List[Option[String]](Some("hello"), Some("world"), Some("again")).sequence // Some(List(hello, world, again))
+
+List[Either[String, Int]](Right(42), Left("err1"), Left("err2"), Right(14)).sequence // Left(err1)
+
+List[Either[String, Int]](Right(42), Right(14)).sequence // Right(List(42, 14))
+
+List[Validated[NonEmptyList[String], Int]](Valid(42), "err1".invalidNel, "err2".invalidNel, Valid(14)).sequence // Invalid(NonEmptyList(err1, err2))
+
+List[Validated[NonEmptyList[String], Int]](Valid(42), Valid(14)).sequence // Valid(List(42, 14))
+
+val nel: NonEmptyList[Map[Int, String]] = NonEmptyList.of(  
+	Map(  
+		1 -> "one",  
+		2 -> "two",  
+		3 -> "three"
+	),  
+	Map(  
+		1 -> "one",  
+		3 -> "second three",  
+		4 -> "four"
+	),  
+)  
+nel.nonEmptySequence // Map(1 -> NonEmptyList(one, one), 3 -> NonEmptyList(three, second three))
+```
+## traverse
+Берет каждый элемент контейнера, применяет на нем функцию и возвращает контейнер/эффект с полученными результатами (последовательно применение map и sequence)
+```scala
+object Main extends IOApp {  
+	override def run(args: List[String]): IO[ExitCode] = {  
+		def action(i: Int) = IO.sleep(500.millis).map(_ => i.toString) 
+		List.range(1, 10).map(action).sequence.flatMap(r => IO(println(r)))  
+		// or
+		List.range(1, 10).traverse(action).flatMap(r => IO(println(r)))
+		// or
+		Option(42).traverse(action).flatMap(r => IO(println(r)))
+	}.as(ExitCode.Success)  
+}
+```
+
+## flattenOption
+возвращает все ненулевые элементы контейнера
+```scala
+List[Option[String]](Some("hello"), Some("world"), None, Some("again")).flattenOption // List(hello, world, again)
+```

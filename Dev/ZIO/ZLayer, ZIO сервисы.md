@@ -22,7 +22,7 @@ val services: DBService with EmailService = new DBService with EmailService {
 	override def sendEmail(email: Email): Task[Unit] = emailService.sendEmail(email) 
 }
 ```
-## ZLayer[-RIn, +E, +ROut]
+## `ZLayer[-RIn, +E, +ROut]`
 Функциональный эффект для узкой предметной области. 
 
 - Описывает слой приложения 

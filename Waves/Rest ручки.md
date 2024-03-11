@@ -2,6 +2,22 @@
 Ошибки:
 - `Authorization error. Missing authorization` metadata говорит о том что нужно авторизоваться
 # POST `transactions/signAndBroadcast`
+
+## Перевод (4)
+Адрес sender должен совпадать с адресом ноды
+```json
+{
+  "type": 4,
+  "version": 2,
+  "sender": "3JMPZvdm6JHDCFHhuDfRVcWc7QoL8nSusVv",
+  "password": "sato",
+  "recipient": "3JabCA2bX4qEnPn8ceMpNLeJRPadjjBnzPa",
+  "amount": 10,
+  "fee": 0
+}
+
+curl -X GET "localhost:6862/addresses/balance/3JabCA2bX4qEnPn8ceMpNLeJRPadjjBnzPa" -H "accept: application/json" -H "X-API-Key: vostok"
+```
 ## Создать контракт (103)
 https://docs.wavesenterprise.com/ru/latest/description/transactions/tx-list.html#createcontract-transaction
 ```json
@@ -168,6 +184,12 @@ https://docs.wavesenterprise.com/ru/latest/description/transactions/tx-list.html
 получить состояние КСК
 
 # POST /confidential-contracts/call
+
+# GET ​/confidential-contracts/{contractId}
+получить состояние конфиденциального контракта
+```
+curl -X GET "localhost:6862/confidential-contracts/GdbHkuTkarVUQ2D7vqKHNMYJy4i7RU6ubbU8rVKGMZ7F" -H "accept: application/json" -H "X-API-Key: vostok"
+```
 ## Call запрос (104)
 ```json
 {  
@@ -185,3 +207,18 @@ https://docs.wavesenterprise.com/ru/latest/description/transactions/tx-list.html
 вывести блоки с 97 по 101
 # GET /blocks/ at/97
 вывести блок 97
+```
+curl -X GET "localhost:6862/blocks/seq/865/874" -H "accept: application/json" -H "X-API-Key: vostok"
+```
+
+# GET /blocks/height
+высота ноды
+
+```
+curl http://localhost:6862/blocks/height
+
+curl -X GET "https://clinton.welocal.dev/node-0/blocks/height" -H "accept: application/json" -H "X-API-Key: vostok"
+```
+
+# GET /addresses/balance/{address}
+узнать баланс ноды

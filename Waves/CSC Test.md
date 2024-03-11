@@ -16,6 +16,37 @@ api {
 {  
 	"apiVersion": "1.0",  
 	"contractName": "grpc-increment-contract-csc here meet",  
+	"fee": 1000000,  
+	"feeAssetId": null,  
+	"groupOwners": [  
+		"3NoqQ88SuVBYuUimRWp3zeKLAYT66xLn5s3",  
+		"3NqNVU8XpEWLR86zvGAyZ6QL4xSse1EDb7K",  
+		"3NqmRauaV87hhJPz1wzS6wx8kqWD5i7coCM"  
+	],  
+	"groupParticipants": [  
+		"3NqmRauaV87hhJPz1wzS6wx8kqWD5i7coCM",  
+		"3NqNVU8XpEWLR86zvGAyZ6QL4xSse1EDb7K",  
+		"3NoqQ88SuVBYuUimRWp3zeKLAYT66xLn5s3"   
+	],  
+	"image": "reg.web3tech.ru/development/we/node/corporate-node/grpc-increment-contract-csc:latest",  
+	"imageHash": "7a8a3a69825d47e6fdf376257bd822c70ffcdbd7e52636aeb1cf6812ac2af610",  
+	"isConfidential": true,  
+	"params": [],  
+	"password": "H7lsPbOVkRKX7CUh",  
+	"payments": [],  
+	"sender": "3NqmRauaV87hhJPz1wzS6wx8kqWD5i7coCM",  
+	"type": 103,  
+	"validationPolicy": {  
+		"type": "any"  
+	},  
+	"version": 6  
+}
+```
+
+```json
+{  
+	"apiVersion": "1.0",  
+	"contractName": "grpc-increment-contract-csc here meet",  
 	"fee": 100000000,  
 	"feeAssetId": null,  
 	"groupOwners": [  
@@ -46,18 +77,22 @@ api {
 6. Дернуть ручку POST​ /confidential-contracts​/call которая вызывает контракт
 	```json
 {  
-	"sender": "3JMPZvdm6JHDCFHhuDfRVcWc7QoL8nSusVv",  
-	"password": "sato",  
-	"contractId": "<id from /transactions/signAndBroadcast>",  
+	"sender": "3NqmRauaV87hhJPz1wzS6wx8kqWD5i7coCM",  
+	"contractId": "GdbHkuTkarVUQ2D7vqKHNMYJy4i7RU6ubbU8rVKGMZ7F",  
 	"contractVersion": 1,  
 	"params": [
 		{  
-			"key": "COUNTERS_COUNT",  
+			"key": "test",  
 			"type": "integer",  
-			"value": 2  
+			"value": 2
 		}  
 	],  
-	"timestamp": "<timestamp>",  
+	"participantsForAtomic": [  
+		"3JMPZvdm6JHDCFHhuDfRVcWc7QoL8nSusVv",  
+		"3JabCA2bX4qEnPn8ceMpNLeJRPadjjBnzPa",  
+		"3JLNysbvrhUouzupPUES1tPux3z5MJ19FXS"  
+	],
+	"timestamp": 1706947478997,  
 	"fee": 10000000,  
 	"certificatesBytes": []  
 }

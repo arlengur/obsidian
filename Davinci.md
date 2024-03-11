@@ -1,5 +1,8 @@
 Lessons https://www.youtube.com/c/TimesaverVFX/playlists
 
+Ниламбара:
+- Лого: 846x-291x0.17
+- Youtube thumbnail: 1280x720
 # Settings (Системные настройки)
 Cmd+, - settings
 - System

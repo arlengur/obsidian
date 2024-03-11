@@ -144,6 +144,97 @@ def count(list: List[Int], f: Int => Boolean): Int = list.foldLeft(0) {
 }
 ```
 
+# Алгебраические типы данных (ADT)
+
+Типы ADT:
+- Sum ADT (тип суммы)
+- Product ADT (тип произведения)
+- Hybrid ADT (гибридный тип)
+
+## Sum ADT
+Sum ADT применяется тогда, когда мы можем просто перечислить все возможные варианты типа.
+
+Например, необходимо организовать работу с днями недели. Мы точно знаем, что всего существует семь дней недели, которые вполне возможно перечислить:
+```scala
+sealed trait WeekDay
+case object Mon extends WeekDay
+case object Tue extends WeekDay
+case object Wed extends WeekDay
+case object Thu extends WeekDay
+case object Fri extends WeekDay
+case object Sun extends WeekDay
+case object Sat extends WeekDay
+
+val day: WeekDay = Mon
+println(s"Today is $day") // Today is Mon
+```
+
+## Product ADT
+В случае Product ADT становится невозможно перечислить все возможные значения т.к. их слишком много. Раз просто перечислить нельзя - значит, нельзя для каждого возможного значения предоставить отдельный конструктор и придется организовывать код так, чтобы ограничится одним конструктором.
+
+Если бы перед нами была поставлена задача закодировать все возможные значения RGB цветов посредством Sum ADT, нам бы потребовалось 256^3 различных конструкторов. 
+
+```scala
+  sealed case class RGB(red: Int, green: Int, blue: Int)
+
+  val whiteRGB = RGB(255, 255, 255)
+  println(s"White: $whiteRGB") // White: RGB(255,255,255)
+```
+
+## Hybrid ADT
+Наиболее часто работа все же происходит с Hybrid ADT.
+UnexpectedValueForFieldCoproductHint(Unquoted("PoS"))
+UnexpectedValueForFieldCoproductHint(Quoted("PoS"))
+Как можно догадаться, Hybrid ADT объединяет Sum ADT и Product ADT:
+  sealed trait Platform
+  case class IOS(appId: String) extends Platform
+  case class Android(packageId: String, sha1Cert: String) extends Platform
+В данном случае мы имеем дело с гибридным типом, т.к.
+
+работа идет с платформой iOS или Android ("или" указывает на Sum ADT);
+Product ADT был задействован при описании того же Android т.к. пришлось создавать универсальный конструктор, учитывающий различные значения для packageId и sha1Cert.
+
+
+Еще примеры
+
+Фиксированная схема данных и произвольные операции, тогда Pattern Matching:
+Product - тип можно разобрать на пары, а потом обратно собрать.
+sealed trait Expr extends Product with Serializable
+final case class Number(value: Int) extends Expr
+final case class Plus(l: Expr, r: Expr) extends Expr
+final case class Minus(l: Expr, r: Expr) extends Expr
+def value(expr: Expr): Int = expr match {
+  case Number(v) => v
+  case Plus(l, r) => value(l) + value(r)
+  case Minus(l, r) => value(l) - value(r)
+}
+val res = value(Plus(Number(1), Number(4)))
+
+Конструкция Product with Serializable необходимо чтобы была возможность добавить такой элемент в Buffer.
+
+Пример:
+val number = Number(3)
+val expr = Plus(Number(2), Number(3))
+val buf = ArrayBuffer(Number(2), expr)
+buf += number
+
+Конструкция final case class запрещает наследование помогает компилятору не искать что-то где-то еще.
+
+или полиморфизм, когда фиксированные операции и большое разнообразие объектов:
+
+trait Expr {
+  def eval: Int
+}
+case class Number(value: Int) extends Expr {
+  override def eval = value
+}
+case class Plus(l: Expr, r: Expr) extends Expr {
+  override def eval = l.eval + r.eval
+}
+case class Minus(l: Expr, r: Expr) extends Expr {
+  override def eval = l.eval - r.eval
+}
+Plus(Number(1),Number(4)).eval
 # Задачки
 
 1.  Функцию batch traverse которая будет для `Seq[Int], f: Int => Future[Int]`выдавать `Future[Seq[Int]]` в которой Future над элементами будут запускаться не сразу а батчами размера size

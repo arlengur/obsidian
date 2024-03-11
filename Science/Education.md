@@ -1,0 +1,17 @@
+- Теория категорий - https://youtu.be/qyfh4Fjx3-4?list=PLcsjsqLLSfNDCuWtrjj6M7VucQjD-VVv4
+- Матан
+	- https://youtu.be/XHuS6YMVqpI?list=PLcsjsqLLSfNCqt362BPlvI3PH5LlcCk1a
+	- Солодов https://youtu.be/4x8d2_j-D88?list=PLcsjsqLLSfNDH_g2-t4p4YvZhnTeoFC3P
+	- ВМК https://youtu.be/w3h8pmcBo0g?list=PLaAvemBr_UoBGp9G5WDxClzpYSVV1QSvn
+	- https://youtu.be/eSukRvIpHNE?list=PLcsjsqLLSfNAaBOYcMeFadx1umySUy7hF
+	- https://youtu.be/HpzLe-ExB_4?list=PLcsjsqLLSfNBZFDimBDLt8FfDbFHFiArX
+- Машинное обучение
+	- https://youtu.be/60E0sUp7HNY?list=PLcsjsqLLSfNDtyvBOndmAX_l4bDqA3uGB
+	- https://youtu.be/lbO_5agM9vo?list=PLcsjsqLLSfNAri43suoDrZBVrUsqDIonL
+	- https://youtu.be/1_X9nULrmz4?list=PLcsjsqLLSfNBcm-uMR3cmsQH_dLz8gB40
+	- https://youtu.be/YL8X85HWvTw?list=PLcsjsqLLSfNAlDDbL03EZ3aHjQesv1FSC
+	- https://youtu.be/Yn17rGSwkaY?list=PLcsjsqLLSfNDgb5cau6OjutZo-jwd8Z1l
+	- https://youtu.be/60E0sUp7HNY?list=PLcsjsqLLSfNDtyvBOndmAX_l4bDqA3uGB
+	- https://youtu.be/uxU_ys3T4Ak?list=PLcsjsqLLSfNBO1Y7lj-KI9uLz7YyV6Iqg
+	- вмк https://youtu.be/KPxMI8MIhlQ?list=PLaAvemBr_UoBd1kNiDgVHTtn28ASR3y4v
+

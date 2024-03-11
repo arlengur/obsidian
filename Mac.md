@@ -1,13 +1,16 @@
+Сброс параметров контроллера управления системой (SMC)
+- Одновременно нажмите клавиши Shift, Control и Option и, не отпуская их, нажмите кнопку питания.
+- Отпустите клавиши и еще раз нажмите кнопку питания, чтобы включить ноутбук Mac.
+
+# Мониторинг системы
+```
+top -o cpu
+```
 ## nc / netcat
 ```
 nc localhost 8888
 echo -n "GET /p/1 HTTP/1.0\r\n\r\n" | nc localhost 9000
 ```
-## curl
-```
-curl http://localhost:6862/blocks/height
-```
-
 ## Check port usage
 ```
 lsof -w -n -i tcp:8080
