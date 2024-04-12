@@ -1,3 +1,125 @@
+
+- leash - поводок
+- rusty - ржавый, застаревший
+- my english is rusty - 
+- I don't do much fiction reading myself - я собственно не читаю много биллетристку
+- I'm a big fan
+- I read a tweet - я прочитал твит
+- he left - он ушел
+- Spill it! - рассказывай, выкладывай 
+	- spill the beans - раскрывать секрет
+	- show down
+	- spit it out
+- foul /faʊl/ play - нарушение правил, законов, нечестная игра, криминал 
+	- the referee sent off two players for foul play. 
+	- The police have no evidence of foul play.
+	- dishonest play
+- irish courage - напился для храбрости
+- I tend to do that - я склоняюсь делать это
+- commit suicide
+- commit adultery/a crime/murder
+- committed to my spouse - предан своей супруге
+- commitment
+- affair - роман
+- you're early - ты рано
+	- you came early - ты рано пришел
+- I'm early bird
+- we gotta do this more often - нам надо чаще так делать
+
+
+
+
+- Sloppy – небрежный, неряшливый, неаккуратный
+	- to be a sloppy dresser
+	- to use sloppy English
+	- Sloppy acting – неубедительная игра актеров;
+- to build (smth/smb) into smth/smb – встроить, вписать, сделать неотъемлимой частью чего-либо 
+	- Inequalities are often built into society.
+- consistently - постоянно
+- draw - привлечь, нарисовать
+- polished acting - безупречная игра
+	- brilliant acting
+- dubbing - дубляж
+- cast list - актерский состав
+- series - сериал
+- audiences - аудитория
+- main character - главный персонаж
+- actor - актер
+- standout - выдающийся
+	- standout special effects - выдающиеся/оттличные спецэффекты
+- tangle - запутывать
+- untangle - распутать
+	- unravel
+	- She carefully untangled the child’s hair
+- untangling - распутывание
+- find the answer - найти ответ
+- conjecture - предположение, догадка, предполагать
+	- guess
+	- assumption
+	- to suppose
+	- guesswork
+	- What she said was pure conjecture. 
+	- We’ll never know exactly how she died, we can only conjecture
+- assumption - предположение
+- eventually - в конце концов
+- survey - обзор, исследование
+- comprehensive - всесторонний
+- latency - задержка
+- outage - сбой
+- partition - раздел
+- fall apart - разваливаться
+- converge - приближаться
+- sleep deprived - лишенный сна
+- fall asleep - заснуть 
+	- fall asleep very hardly
+- take a nap - вздремнуть
+- justify - оправдать
+- run time - время работы
+- renown - известность, слава
+	- a man of great / of high renown – знаменитый человек 
+	- Her renown spread across the country. 
+	- He has won (achieved, earned) world renown for his films.
+	- a great renown - 
+- glory - слава
+- fame - слава
+- demise - кончина, смерть 
+	- his untimely/imminent/sudden/sad demise
+- bait - наживка, приманка, вылавливать на приманку, провоцировать, дразнить
+	- You can bait fish with worms. 
+	- He is just trying to bait you.
+	- are you baiting me - вы ловите меня на наживку
+- thorough - тщательный, обстоятельный
+	- The police carried out a thorough investigation. 
+	- You will need a thorough understanding of the subject.
+	-  investigation was thorough
+	- you're thorough
+- lattice - решетка
+- seamlessly - плавно
+- tradeoff - компромисс
+- To jump around – перескакивать с темы на тему
+	- He kept jumping around during the meeting, discussing things completely out of order
+	- The film jumps around in time, playing with and ultimately subverting the audience’s expectations.
+	- Don't jump around
+- subverting - разрушать
+- movie series - серия фильма
+- got to know - познакомился
+- acquainted - познакомился
+- Highlight 
+	- (n) основной, кульминационный, острый момент (факт) (the highlight of the performance); 
+	- (v) выделять, выдвигать на первый план;
+- Cheesy
+	- (разг.) слащавый, слишком милый, сентиментальный; That film was so cheesy that I couldn’t finish it.
+	- (разг.) устаревший, безвкусный, дешёвый, низкого качества; Did you see the dress she was wearing? It was so cheesy!
+- To feature – показывать (на экране), выводить в главной роли;
+	- A western is a film set in 19th century America, often featuring cowboys.
+- Setting – время и место действия пьесы, фильма, романа;
+	- the film is set… - действие фильма происходит…
+	- The film is set in Africa. 
+	- The film is set sometime between 1995 and the present.
+- Plot - сюжет (главная идея)
+- Rave (about, of, over) – бредить, восторгаться, восхищаться (кем-л., чем-л.)
+	- Movie lovers have raved about the ‘must see’ film that was released on Netflix.
+
 - to question - здесь - сомневаться в чем-то, подвергать сомнению 
 	- At times I question the wisdom of that decision. 
 	- People openly/seriously question whether he is right for the job.
@@ -6,6 +128,82 @@
 	- If you go on like this you'll end up in prison.
 - over‐narrowing - чрезмерное сужение
 - waste - мусор
+- flesh out - конкретизировать
+- dummy - фиктивный
+- accommodate - учитывать, разместить
+- retain - сохранить
+- seal - запечатывать
+- disparate - несопоставимый
+- read on - читай дальше
+- short‐circuit - короткое замыкание
+- run into - столкнуться с
+- strive - стремиться
+- adhere to - придерживаться
+- momentarily - на мгновение
+- tidying - приведение в порядок
+- judicious - разумный
+- justifiable - оправданный, обоснованный
+- disguise - маскировка
+- otherwise - иным образом
+- reduction - сокращение
+- seed - начальный, посеять
+- distribute - распределять
+- sit - находиться
+- up‐close - вблизи, крупным планом
+- viewpoint - точка зрения
+- notion - понятие
+- constituent - составной
+- bother - беспокоиться
+- cartesian product - декартово произведение
+- zip - сжать
+- concern - заниматься
+- lawful - законный
+- trade‐off - компромисс
+- sweet spot - золотая середина
+- Thai food - тайская еда
+- coherent - связный, согласованный
+- on top of - на вершине, помимо
+- a set of - ряд, набор
+- arity - арность (количество аргументов)
+- shorthand - сокращение
+- a trick of the light - игра света
+- even - даже
+- in the unlikely event - в маловероятном случае
+- concession - уступка
+- wrinkle - особенность
+- immense - безмерный
+- exploit - использовать
+- acquire - получить
+- waist - талия
+- bloat - раздувать
+- tedious - утомительный
+- hit - столкнуться, достигать
+- a variety of - множество
+- compose - составлять, складывать
+- combine - объединять
+- bolt - соединять
+- in favour of - в пользу
+- shenanigans - махинация
+- subject - подвергать
+- stubborn - упорный
+- stack - пачка, сложить
+- concretely - конкретно
+- mammoth - мамонт
+- reassure - успокоить
+- confirm - подтвердить
+- fuse - соединить
+- expose - показать
+- one-size-fits-all - унверсальный
+- roll out - развернуть
+- disguise - маскировать
+- devastate - разрушать
+- transmission - передача
+- viscous - вязкий
+- satellite - спутник
+- malfunction - неисправность
+- sabotage - диверсия, саботаж
+- pesky - надоедливый
+- ally - союзник
 - boil down to - сводится к
 - post‐order expression - когда оператор пишем после операнда, то есть 1 + 2 запишется как 1 2 +
 - downside - недостаток
@@ -17,11 +215,10 @@
 - alongside - вместе с
 - interleav - чередовать
 - preserve - сохранить
-- host - принимать
+- host - принимать, множество
 - afford - позволить
 - get back - вернуться
 - reliably - надежно
-- sequence - упорядочивать
 - a number of - ряд
 - generalise - обобщать
 - thread - нить, связывать, передавать
@@ -60,7 +257,7 @@
 - ground things - разобраться
 	- Let’s ground things by looking at some examples
 - subsequent - следующий
-- sequence - упорядочивать, последовательность
+- sequence - упорядочивать, последовательность, цепочка
 - encounter - сталкиваться, встречать
 - reinforce - укрепить
 - permutations - перестановка
@@ -92,6 +289,7 @@
 	- profound questions about life and death 
 	- profound changes in the earth’s climate 
 	- My father's death had a profound effect on us all.
+	- I feel profound happiness after that encounters
 - to talk someone's ear off - утомлять разговорами 
 	- That guy on the plane talked my ear off – I couldn’t wait to land.  
     - How was your date? - Eh, not great. She just talked my ears off about politics all night
@@ -126,11 +324,9 @@ I'm in the programming/building
 I'll do ... - я буду
 I do facebook - я разбираюсь в фейсбуке
 
-down the street - недалеко по улице
-down thew bar - неподалеку от барной стойки
-
-make eyes at someone - строить кому-то глазки
-
+- down the street - недалеко по улице
+- down thew bar - неподалеку от барной стойки
+- make eyes at someone - строить кому-то глазки
 - overshot - перестарался
 - expression - выражение (лица)
 - tear - рвать
@@ -147,11 +343,8 @@ make eyes at someone - строить кому-то глазки
 - you can do better - ты достоин лучшего
 - Compliments of - в подарок, в знак признательности от
 	- Compliments of the gentleman
-- overshot - перестарался
 - early/late in life - с раннего/позднего возраста
-
-here she is/comes - вот и она
-
+- here she is/comes - вот и она
 - I never actually wished to get out of the cave - я не желал вообщем-то из пещеры
 - You did it on your own - ты сделал это по своей воле (did смысловой так как после него нет глагола в 0 форме)
 - No one's asked me that before - никто не задавал мне такой вопрос до этого (тут has)
@@ -162,7 +355,7 @@ here she is/comes - вот и она
 	- wish me out - захоти меня на свободе 
 - variety - разнообразие
 - off - срываться с места, разделять одно от другого
-- either - любой
+- either - любой, также
 - elimination - устранение
 - bias - предвзятость
 - widow - вдова
@@ -197,14 +390,12 @@ here she is/comes - вот и она
 - extent - степень
 - traverse - двигаться
 - ensures - гарантирует
-- sequence - упорядочивать, цепочка
 - extract - извлечь
 - majority - большинство
 - vast - огромный
 - vast majority - подавляющее большинство
 - reconcile - согласовать
 - milestone - рубеж, этап
-- hit - достигать
 - reconciliation - согласование
 - consistency - согласованность
 - conversely - наоборот
@@ -784,7 +975,7 @@ come over - пригласить
 17. be prone to something/do something 
 18. Aren't we all?
 19. give or take
-20. expose
+
 21. be flawed
 22. concur 
 23. look into something
@@ -879,7 +1070,8 @@ nuisance - досада
     
 - be prone to something - склонный к чему-то, обычно негативному, напр. болезни 
 	- I've always been prone to headaches. 
-	- Teens are more prone  to impulsive and risky behaviors.)
+	- Teens are more prone  to impulsive and risky behaviors.
+	- prone to bugs
 - someone freaks out / something freaks them out - психовать, сходить с ума / сводить с ума 
 	- I think our music freaks people out sometimes. 
 	- We had a fight, I freaked out and left home.)
@@ -1075,3 +1267,547 @@ Fix phrases
 	- have an issue
 - challenge
 	- take a challenge - принять на себя
+
+
+
+keep up - справляться 
+
+devastated - опустошенный
+
+I would go there
+If I had 1 000 000 $ I would ...
+
+When I went to school / When I was a child
+
+excuse - отговорки, отмазки  I will excuse ...
+
+I will get a notification - я бывает получаю уведомление - настоящее повторяемое время
+
+if you are running late - если вы опаздываете но можете успеть
+if you are late - если вы опоздали
+
+I am zoned out / I zone out - залипать / чем то поглощен
+memorized - зачарован
+
+stare off into space - пялиться в космос / улететь мыслями в пространство
+
+if my phone died
+
+buzzing - жужжание
+
+reasonable - взвешанный
+
+out of sight and out of mind - с глаз долой из сердца вон
+
+put your phone on vibrate
+my phone was on vibrate
+
+compliction / side effect - осложнение
+
+I can multi-task - я могу делать несколько дел одно временно
+
+head out the door - направиться за дверь
+I'm heading - я направляюсь
+
+gross! - противно/гадость
+
+sweat - пот
+
+why would it? - с чего бы
+
+pings - пинькует телефон
+
+you might wanna work on that - может быть тебе надо поработать над этим
+
+teeny-weeny - крошечный
+
+I am a fly in the web - я муха в паутине / я залип в интернете
+
+put on silent
+
+run something - управлять чем-то
+
+you are detail oriented - внимательный к деталям
+details - детальки
+
+I'm addIcted to you - я к тебе привязался (как к наркотику) / я зависим от тебя
+Addict - наркоман
+
+record / recOrd глаг
+progress / progrEss 
+present / presEnt
+
+access
+
+I ll keep you posted/informed - буду вас информировать
+
+--
+stop/bring by  - остановиться / забросить
+
+by/over
+
+brought him over - принесла его в гости
+
+come across - ??
+
+and just like that - и таким образом/итак/
+
+he is cheating around - тут и там
+
+be around - общаться с человеком
+
+I'd rather you did it - я бы предпочел чтобы ты сделал это
+I'd rather do it - я бы предпочел сделать это
+
+do drinks/drugs - пить принимать наркотики
+
+hook up - подключиться к интернету
+
+hook up - пересечься, встречаться
+get it done - сделать это
+afford - позволять себе ч-л
+
+
+abandoned - заброшенный, abandon - покидать, оставлять. /əˈbæn.dən/
+fudge/dodge - увиливать 
+dodge inconvenient question - уходить от неприятных вопросов
+
+I'll be done to travel with you - соглашусь на путешествие с тобой
+
+I'm done/finished - я все
+Can I be done? - можно я все?
+
+settle down - успокоиться
+pathetic - жалкий
+run out - закончиться
+scent - запах
+ornaments - украшения
+
+no better than the best - лучшее враг хорошего
+
+--
+Who am I - кто я есть?
+It's who I am - это кто я есть.
+
+embedded question - встроенные вопросы
+
+exhilarating - волнующе/захватывающе - 
+
+haggard blisters - водяные мозоли
+
+trophies - 
+
+lay it all out - выложить - upload
+
+and she's like "that was so awesome" - и она такая говорит
+
+late in life - я начал этим заниматься в зрелом возрасте
+
+blew my nose - высморкаться
+
+feed - лента
+follow my friends - я подписан на моих друзей
+follow me - подписаны на меня
+
+barbecue (BBQ)
+
+joint - объединение, соединение
+
+BBQ joint - a barbecue restaurant - ресторан
+
+refer to places - ссылаться
+
+My friend referred me to you - мой друг направил меня к вам
+
+on the go - на ходу, по ходу
+
+notifies me - напоминают мне
+
+review - отзыв
+reviewed the place - оставили отзыв о месте
+
+let's go (and|to) check out - давай пойдем заценим/поглядим что-то
+
+come visit us - приезжай
+
+lose track of - потерять связь/перестать отслеживать
+keep track of - отслеживать
+
+life-changing/game-changing - это все изменит
+
+I'm stack/ there - я залип там
+I am zoned out/I zone out - я завис
+
+
+I text = I prefer text messaging
+I call = I make a phone call
+I vace call
+I face time 
+I skype - call by skype
+I zoom - call by zoom
+Facebook me = accept me aas frind on facebook
+
+DM me - напиши мне в личку / He DMed me / would you DM me?
+
+text me on the telegram / on the internet
+
+---
+When do you use text msgs?
+Can texting lead to miscommunication?
+
+tone of voice - это про эмоции/настроение - ласковый/грубый
+pitch - подача голоса
+
+spit it out
+
+привыкнутть
+to get use to / it takes time to gey use to it
+I need some getting use to
+
+ let's take for a break out rooms
+
+I'll look it up
+
+
+
+make a plan - составить план
+ask someone a quick question - спросить по быстрому
+it takes longer - уходит больше времени
+you might not use punctuation correctly - правильно (use то нареч)
+
+если стате то прил She was correct / 
+
+I end up spending a lot of time щon the phone - в итоге вышло так
+It was annoying - это раздражало (от чел или предмета исходит)
+inconvenient неудобно / uncomfortable
+
+I'm runnnig out of money - у меня кончаются деньги
+We are out of money - у нас закончились деньги
+
+how's you work/the situation with your work?
+
+I'm empowered - наделен силой
+It's empowering - это наделяет силой
+
+it's liberating - это освобождает
+
+I feel like I'm on drugs
+
+unconventional medicine - нетрадиционная медицина
+
+I have your best interest at heart - я только добра тебе желаю/действую только из твоих интересов
+
+headshrinkers/shrinks - мозгоправ
+therapist/therapy- вежливо
+
+It's a breakthrough - прорыв
+
+to dub - озвучивать
+dubbing - дубляж
+
+Film was dubbed - фильм был озвучен
+
+scene - сцена из фильма
+episode - серия сериала
+series - сериал
+film series - фильм часть 1, фильм часть 2
+
+eye candy meaning - приятно для глаз но не так полезно или интересно
+music for my ears - приятно слушать
+
+supporting actor - роль второго плана
+
+twentyish - двадцатилетний
+
+
+some pitfalls - ловушка
+anticipate - предвидеть
+you should never ever use it - вы никогда не должны использовать это
+preserve - сохранить
+shallow copy - поверхностное копирование
+stick with it - придерживаться этого
+
+
+
+
+It was amazing!
+It had great acting and interesting action.
+
+It was awful.
+The dialogue sounded fake, the soundtrack didn't fit the scenes, and the acting looked sloppy.
+answer with your opinion
+
+synopsis - краткий обзор
+sci-fi - science fiction
+plot - сюжет
+highlights - основные моменты
+Dystopia - антиутопия
+
+? keep in mind - иметьввиду
+? lonely - одинокий
+? bold -
+? mean - 
+? mischievous - озорной/вредный
+? sneaky - 
+? helpful - полезный
+? sweet - 
+? hopeful - подающий надежды
+? confused - 
+? humorous -
+? cooperative - 
+? persuasive - убедительный
+daring - 
+he has a lot of humor -
+
+
+1. Could - 'реально' (физ/интеллектуально/материально/..) мог/была возможность/умел/имел способность тогда
+I was able to =0 - смог
+I was capable of =4
+I managed to =0 - смог
+
+My grandma could speak 3 languages - моя бабушка знала 3 языка
+My grandma couldn't understand men - моя бабушка не понимала мужчин
+
+I was capable of starting my own business myself - я был способен начать свой бизнесс сам
+I wasn't capable of doing anything back then because I was at my lowest
+
+2. Could - 'теоретически' мог бы, но ... (70%) (предположения/возможности)
+
+Простые: мог бы в принципе это сделать
+could =0 - I could learn 3 languages (but I don't want to)
+could be ~ - I could be a director
+could be =3(, if =2) - It could be done within/in 3 days, if you wanted - это могло быть сделано за/через 3 дня если бы ты захотел
+could be =4 - She could be sleeping in her room - она могла бы спать в своей комнате
+She could be catching up with her sleep - она могла бы догонять часы которые не доспала
+She could be sleeping - она может сейчас спать
+
+How could I? - как я могу
+How could he? - да как он может
+If you could see the look of his face - видел бы ты выражение его лица
+You could say so - можно и так сказать
+
+We could get in big trouble - мы можем попасть в неприятности
+
+We could use some cash - нам не помешает немного налички
+We could use some coffee - нам не повредит немного кофе
+I could use some sleep - мне не повредит немного сна
+
+How could it possibly be better? - да как это вообще может быть лучше (понятно что это хуже)
+How could it possibly be something good? - да как это вообще может быть чем-то хорошим (понятно что это хуже)
+
+Change your perspective/angle how you see the thing.
+
+Don't forget the intestines. How could I? - да как я могу забыть (как тебе это в голову смогло прийти) (теоретически)
+How can I? - да как я могу забыть (физически) 
+
+What could be more beautiful/virtuous/importan? - что может быть прекраснее 
+
+This could be while - это может занять приличное количество часов (теоретически)
+
+
+
+Сложные: мог в принципе это сделать тогда
+could have =3 (if he had/would've =3) - He could've gotten that position if he graduated from college - он мог получить эту позицию если бы закончил колледж / She could have gone to sleep
+could have been ~ - I could've been happier/ He could've been set for life - он мог бы быть упакован по жизни
+could have been =3 - My dissertation could have been defended - моя диссертация могла бы быть защищена
+His work could've been published, but it wasn't / 
+could have been =4 - She could have been sleeping - она могла все это время спать (вчера)
+She could have been reading instead of watching youtube
+
+3. Просьбы
+Could you/I =0?
+
+4. Согласование времен
+I thought you could - Я подумал что ты можешь
+
+
+thanks - thx/
+thank you - tu
+see you - see ya/ cu
+see you later - cul8r
+kiss - keep it simple stupid
+shakin' my head - smh
+by the way - btw
+as soon as possible - asap
+kiss hug kiss - xox
+laughing out loud - lol
+--
+
+spring clean - генеральная уборка
+do you spring clean?
+do spring clean/ing
+
+tomorrow night could work - завтра ночью может сработает
+
+is it that good? - настолько хорошо
+
+nsfw - лучше чтобы кто-то не увидел / запретный материал
+
+break a habit / 
+
+get rid of/stop/break/kick/quit the habit (of ..)
+
+embrace your quirks - принимай свои причуды/странности - and live freely
+
+land line phone / answering machine - стационарный тел / автоответтчик
+
+wrong, incorrect, erroneous - 
+
+to error to human / we are human to error
+
+a slave / slavery - 
+
+I'm a slave to phone - 
+I'm a sister to her
+I'm married to a good man - я замужем за хорошим человеком
+I'm addicted to smth
+
+and he'd be like
+and you'd be like
+
+when I was a kid/little boy/school boy - в детстве я ...
+
+back stage - за кулисами
+
+the first thing - первым делом
+the last thing - последняя вещь
+
+we run things - мы управляем вещами
+
+piece of advice - совет
+
+wrist watch - ручные часы
+
+your phone buzzes/pings - жжужать/пинькать
+
+sometime it distracts me/it doesn't let me be/live - мешает мне жить
+
+I'm addicted .. smth
+
+every other (hour/day) через час/день
+
+
+employer - employee
+selector (кто выбирает) - selectees (кого выбирают)
+interviewer (кто берет интервью) - interviewee (у кого берут интервью)
+
+by any means necessary - любыми средствами
+feel stuck - чувствуешь что застрял
+within reason - в пределах разумного
+
+гетерогенная - типы разные
+
+To commit a suicide ... / 
+
+She died by suicide ...
+
+get along - соглашаться с кем-то
+
+I am fed up with - я сыт с чем-то
+I am stuck in a rut - застрял в колее
+
+chores = housework = household chores - что-то внуктри дома и около дома
+
+I have errands to run - 
+
+act up - плохо работает
+
+behave - хор вести
+misbehave - плохо вести
+
+
+I feel you in this way
+
+почему бы не ...
+
+to stop to think - задуматься о чем-то
+
+check in on smb - проверить что-то
+
+
+come across an article - наткнуться на статью
+chores - дела по дому
+run errands - бегать по делам
+gleam - блеск
+astonishing - удивительный
+startle - испуг
+hesitation - нерешительность
+ambulance - скорая помощь
+motionless - неподвижный
+
+grief - горе
+grief-stricken - убитый горем
+senseless - бессмысленный
+laid to rest - похоронен
+pay respect - выражать уважение
+corporate ladder - карьерная лестница
+humiliated - униженный
+act up - капризничать
+let's get it over with - покончим с этим
+tears well up in eyes - слезы наворачиваются на глаза
+considerably - значительно
+
+necklace - ожерелье
+convertible - кабриолет
+stare - глазеть
+decent meal - приличная еда
+lipstick - помада
+
+handbook - справочник
+philanderer - бабник
+
+punch - ударить кулаком
+
+desperation - отчаяние
+conscience - совесть
+
+acquaint - знакомить
+
+spoil, ruin, mess up, screw up, fuck up 
+
+come have invite go ->over - заходить в гости
+
+stop by - забежать
+
+ask out - позвать на свидание
+go out - провести время вне дома
+eat out - есть вне дома
+hang out - зависать с кем-то
+
+Are you angry with me?
+Are you mad at/with me?
+
+объектная конструкция - коузвтив
+
+I saw my N come in …. - завершили 
+I saw my N coming in …. в процессе
+
+renovation - ремонт
+
+nobody can tell - никто не может распознать/понять/различить
+
+
+
+
+screw up - испортить/облажаться - разговорное - spoil | ruin |> mess up | fuck up (swear word)
+ease up - успокойся
+Get over here - иди сюда
+stop by - зайти
+made over - заработал
+
+undercooked - недоваренный
+next door - по соседству/рядом
+across the street - через дорогу
+clog - засор
+at a wake - на поминках
+swimsuit - купальник
+backyard - задний двор
+taxi - рулить
+eligible - подходящий
+bachelor - холостяк
+conquest - завоевание
+slut - шлюха
+rivalry - соперничество
+
+progress and progrees
+record and recoord

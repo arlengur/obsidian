@@ -1,11 +1,7 @@
 Asset - токен или монета
 Account - кошелек пользователя с балансом
 
-TimeSheet:
-https://confluence.web3tech.ru/pages/viewpage.action?pageId=27328837
 
-Документация:
-https://confluence.web3tech.ru/pages/viewpage.action?spaceKey=VO&title=Circuit+Breaker
 
 Заявки на отпуска, дэй-офф, ДМС и пр. пишем сюда:
 https://jira.web3tech.ru/servicedesk/customer/portals

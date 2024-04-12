@@ -101,3 +101,8 @@ tar -czf LotsOfFiles.tgz LotsOfFiles // create tgz
 
 tar -zxf LotsOfFiles.tgz // unpack tgz
 ```
+
+Найти JAVA_HOME
+```
+java -XshowSettings:properties -version 2>&1 > /dev/null | grep 'java.home'
+```

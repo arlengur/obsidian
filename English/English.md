@@ -32,6 +32,7 @@ She could've been killed.
 	- Can you explain the route to me? – Могли ли бы вы объяснить мне маршрут?
 - to listen to (someone/something)  - слушать кого-то . что-то
 	- What kind of music do you listen to? – Какую музыку ты слушаешь?
+	- I have a favourite soundtrack which I often listen to
 - to respond to (someone/something) – отвечать кому-то / на что-то
 	- The police responded right away to the riot call. – Полиция сразу ответила на призыв к беспорядкам.
 - to apologize to (someone) for ((doing) something) – извиниться перед кем-то за что-то 
@@ -81,11 +82,6 @@ bizarre
 
 beauty sleep - сон в течении дня или спать по раньше чтобы хор выглядеть
 hot mess - в совершеннейшем беспорядке
-
-sleep deprived - лишенный сна
-
-fall asleep - заснуть (fall asleep very hardly)
-take a nap - вздремнуть
 
 angry about that - ситуация
 

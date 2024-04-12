@@ -134,3 +134,16 @@ Shutter speed:
 - 50 fps - shutter speed 1/100
 - 60 fps - shutter speed 1/125
 - 120 fps - shutter speed 1/250
+
+Сохранить скриншот
+- перейти на вкладку color
+- ПКМ "grab still
+- Media Pool - Export as jpeg
+
+4x+3y=114
+3x+4y=110
+
+x-y=4
+y=x-4
+
+3x+4x-16=110=126

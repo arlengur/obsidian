@@ -6,7 +6,10 @@
 - work out - тренироваться
 - frown upon - осуждать
 - set about - приступать к
--
+- give away - отдавать
+- live up to - соответствовать
+	- a movie that lived up to your expectations
+- carry out - проводить
 
 extra mile
 are you high? - on the drugs - ты что под кайфом?
@@ -43,6 +46,17 @@ I majored in biology
 sorry for the short noitce - позднее предупреждение
 
 moment's notice - притяжательное
-noitce-  напоминание
+noitce - напоминание
 
 pause po:z
+
+discourage - отговаривать
+inconsistency - несоответствие
+
+камелот гостиница
+жд вокзал 
+
+кр рено 459
+
+370
+150

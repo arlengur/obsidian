@@ -4,335 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8cb89b4e95709b5c",
+        "id": "98c59a4d0b4e19fa",
         "type": "tabs",
         "children": [
           {
-            "id": "85a9678b4320a10e",
+            "id": "a91be87b0ed87a36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Grammar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac11bd46370ab2d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science/Эстетика.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36288377c064b03b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ИСККОН/Аюрведа.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75021a029ed48dde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Waves/Waves Hooks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8dcb14ccb6a47cb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Errors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "685c4687c47ca81c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ИСККОН/Аюрведа.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cddf2958889a70f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/ZIO/ZIO асинхронность и паралеллизм.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91a2bbd66636ddde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Vocab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d816349aba81e34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Rules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64e838d51323ebbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Phasal verb.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02b4d4604129c7d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Тайп классы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8a0c405cc69ec8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Заметки.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ae96528591aa940",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Тайп классы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec8a90c3e8403d47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science/Deep learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ee5ce6af2c7d7fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science/ML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d269fa06d38a0c2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science/Математка.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8482247aa4e433ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Waves/Развертывание окружения.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eba12e69836d82ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science/Механика.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69488b247b23dbef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/R.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78e162556941fb34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science/Механика.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af47feec4c868fef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science/Квантовая (волновая) механика.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26428379035736ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science/Теория поля.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8694f1f03286aaa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science/Теория поля.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9176adeb7c76ccdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science/Теория поля.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c95253176b78e12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science/Теория вероятностей.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d34e60ed03c8b47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science/Комбинаторика.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7a77c384a9be056",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Vocab.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -345,6 +28,18 @@
         "id": "df1f8eb05f1ecc7f",
         "type": "tabs",
         "children": [
+          {
+            "id": "8f3dfb18995029d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ИСККОН/Вишну-сахасранама.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
           {
             "id": "78ccdbd41e1e9648",
             "type": "leaf",
@@ -361,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "traversal",
+                "query": "imply",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -378,11 +73,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 246.5
   },
   "right": {
     "id": "2b32c5b70a2301f6",
@@ -398,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Тайп классы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -415,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Тайп классы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -437,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dev/Тайп классы.md"
-              }
+              "state": {}
             }
           },
           {
@@ -472,34 +164,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ae96528591aa940",
+  "active": "a91be87b0ed87a36",
   "lastOpenFiles": [
-    "English/Vocab.md",
-    "Dev/Тайп классы.md",
-    "Dev/Akka Streams.md",
-    "ДЮШС.md",
-    "English/Grammar.md",
-    "Dev/Доступ к БД.md",
-    "ИСККОН/LInks.md",
-    "Dev/Теория категорий.md",
-    "ИСККОН/Стихи ШБ наизусть.md",
-    "Рецепты.md",
-    "Waves/Waves Hooks.md",
+    "Waves/Topics.md",
+    "Dev/Kafka.md",
     "Заметки.md",
-    "Waves/Развертывание окружения.md",
-    "English/English.md",
-    "English/Повелительные конструкции.md",
-    "English/Ideomas.md",
-    "Waves/Стенд.md",
-    "Waves/PQC.md",
-    "Mac.md",
+    "Waves/Waves Hooks.md",
     "Obsidian.md",
-    "Waves/Rest ручки.md",
-    "Waves/Ролевая система в ноде.md",
+    "Waves/Errors.md",
+    "Untitled.md",
+    "Книги.md",
+    "Dev/Scala.md",
+    "ИСККОН/Вишну-сахасранама.md",
+    "English/Vocab.md",
+    "English/Film genres.md",
+    "English/Phasal verb.md",
+    "English/Rules.md",
+    "Waves/Стенд.md",
+    "Science/Алгоритмы.md",
+    "ИСККОН/Бхакти-веданта.md",
+    "English/English.md",
     "English/Концовочки.md",
-    "Dev/Future.md",
-    "Dev/FS2.md",
-    "Dev/Cats-effect.md",
+    "English/Начиналки.md",
+    "English/Grammar.md",
+    "Dev/Тайп классы.md",
+    "Dev/Tasks Scala.md",
+    "ИСККОН/LInks.md",
+    "ИСККОН/Бхакта-програм.md",
+    "Science/ML.md",
+    "Resources/TypeClassesHierarhy.png",
     "Resources/Pasted image 20240212163825.png",
     "Resources/Pasted image 20240212163753.png",
     "Resources/vect_projection.png",
@@ -509,7 +202,6 @@
     "Resources/xyz_axis.png",
     "Resources/xy_axis.png",
     "Resources/Pasted image 20240119155930.png",
-    "Resources/point_m_out_of_axis.png",
     "Science",
     "English",
     "Crypto",
