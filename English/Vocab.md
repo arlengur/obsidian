@@ -1,3 +1,26 @@
+- boar - вепрь
+- lament - сожалеть, сокрушаться, причитать
+- inquired - спросил
+- envious of - завидовал
+- staunch - ярый
+- rage - ярость
+- gaze - смотреть
+- blaze - полыхать
+- anger - гнев
+- inimical - враждебный
+- devastate - опустошить, разрушить
+- fierce - свирепый
+- eyebrows брови
+- frowning - нахмуренный
+- terrible - страшный
+	- terrible to see - страшно смотреть
+- trident - трезубец
+- associates - соратники
+- kindly - пожалуйста
+- combine - объединить
+- obedient - послушный, покорный
+- namely - а именно
+
 
 - leash - поводок
 - rusty - ржавый, застаревший
@@ -245,7 +268,7 @@
 	- it has been posed in blogs
 - tour - экскурсия, обходить
 	- we’ll tour some interesting monads
-- proceed - приступить
+- proceed - приступить, происходить
 	- We’ll proceed to their definition - Приступим к их формальному определению.
 - deep dive - глубокое погружение
 	- to take a deep dive - углубиться

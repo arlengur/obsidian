@@ -8,14 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a91be87b0ed87a36",
+            "id": "b3c541e442ea49c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Scala.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6c984ca60596205",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ИСККОН/Бхакти-веданта.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "imply",
+                "query": "constrain",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ИСККОН/Бхакти-веданта.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ИСККОН/Бхакти-веданта.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ИСККОН/Бхакти-веданта.md"
+              }
             }
           },
           {
@@ -164,19 +185,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a91be87b0ed87a36",
+  "active": "e6c984ca60596205",
   "lastOpenFiles": [
+    "Dev/FP.md",
+    "Dev/Scala.md",
+    "Заметки.md",
+    "English/Vocab.md",
+    "Waves/Развертывание окружения.md",
+    "Dev/FS2.md",
     "Waves/Topics.md",
     "Dev/Kafka.md",
-    "Заметки.md",
     "Waves/Waves Hooks.md",
     "Obsidian.md",
     "Waves/Errors.md",
-    "Untitled.md",
     "Книги.md",
-    "Dev/Scala.md",
     "ИСККОН/Вишну-сахасранама.md",
-    "English/Vocab.md",
     "English/Film genres.md",
     "English/Phasal verb.md",
     "English/Rules.md",
@@ -190,8 +213,6 @@
     "Dev/Тайп классы.md",
     "Dev/Tasks Scala.md",
     "ИСККОН/LInks.md",
-    "ИСККОН/Бхакта-програм.md",
-    "Science/ML.md",
     "Resources/TypeClassesHierarhy.png",
     "Resources/Pasted image 20240212163825.png",
     "Resources/Pasted image 20240212163753.png",
