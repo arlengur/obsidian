@@ -1,3 +1,4 @@
+Answers: https://github.com/ruivalentemaia/fpscala
 
 - premise - предпосылка
 - lead - приводить
@@ -44,29 +45,45 @@
 - governing - управляющий
 - composable - компануемый
 - obtain - получить
-- 
-- that we have committed to using only pure functions
-- a question naturally emerges
-- Immersion
-- dive in
-- we need to know to get going
-- brain-bending
-- it's not crucial
-- you internalize every single concept
-- occurence
-- as long as it doesn’t crash or hang
-- code that spans multiple lines
-- it permeates the functional pro- gramming style
-- we’ll see how useful this capability really is
-- how it permeates
-- convention
-- To advance to the next iteration
-- it hinders good style.
-- so long as the recursive call
-- likewise
-- it connotes
-- may be elided
-- this is something of a wart inherited from Java
+- wart - бородавка
+- commit - обязаться
+	- we have committed to using functions - мы обязались использовать функции
+- emerge - появляться, возникать
+	- a question naturally emerges - естественно возникает вопрос
+- Immersion - погружение
+- dive in - погружаться в
+- get going - начинать
+- brain-bending - головокружительный
+- crucial - киритческий
+	- it's not crucial - это не критично
+- internalize - усваивать
+	- you internalize every single concept
+- occurence - явление, частота
+- as long as - до тех пор пока
+	- as long as it doesn’t crash or hang - пока он не упадет или зависнет
+- so long as - так как, пока
+	- so long as the recursive call
+- span - охватывать
+	- code that spans multiple lines - код, занимающий несколько строк
+- permeate - пронизывать
+- convention - соглашение
+- advance - продвигаться
+	- To advance to the next iteration - Чтобы перейти к следующей итерации
+- hinder - мешать
+	- it hinders good style
+- likewise - кроме того, аналогично
+- connote - означать
+- elide - игнорировать, пропускать
+	- may be elided - может быть опущено
+- universe - вселенная
+- would go - пойдет
+- puzzle - головоломка
+- to puzzle together - собирать вместе
+- keep going - продолжить, двигаться вперед
+- one-liner - одна-строчка
+- flavor - вкус, аромат
+- employ - использовать
+- preliminary - предварительный
 
 over
 - that may change over time - это может измениться со временем
@@ -91,7 +108,17 @@ def factorial(n: Int): Int = {
 }
 ```
 
-def fib(n: Int): Int
+Фибоначчи
+```scala
+def fib (n:Int) : Int = {
+	@annotation.tailrec
+	def go(n:Int, prev:Int, acc:Int) : Int = {
+		if (n <= 1) acc
+		else go(n-1, acc, prev+acc)
+	}
+	go(n, 0, 1)
+}
+```
 
 Полиморфизм в ООП это форма подтипов или отношений наследования
 Параметрический полиморфизм когда мы хотим абстрагироваться от типа
@@ -127,4 +154,46 @@ Array(7, 9, 13) - литерал массива, создает массив и�
 Так как функции являются просто объектами, то мы называем их значениями первого класса (first-class values)
 
 Проверить отсортирован ли массив
-`def isSorted[A](as: Array[A], ordered: (A,A) => Boolean): Boolean`
+```scala
+def isSorted[A](as: Array[A], ordered: (A,A) => Boolean) : Boolean = {
+	@annotation.tailrec
+	def loop(n:Int) : Boolean = 
+		if(n >= as.length - 1) true
+		else if (ordered(as(n),as(n+1))) loop(n+1)
+		else false
+	loop(0)
+}
+```
+
+Следование типам для реализации
+```scala
+def partial1[A,B,C](a: A, f: (A,B) => C): B => C
+def partial1[A,B,C](a: A, f: (A,B) => C): B => C = (b: B) => f(a, b)
+// или так как мы уже сказали какой тип аргумента
+def partial1[A,B,C](a: A, f: (A,B) => C): B => C = b => f(a, b)
+```
+
+Каррирование
+```scala
+def curry[A,B,C](f: (A, B) => C): A => (B => C)
+def curry[A,B,C](f: (A, B) => C): A => (B => C) = (a: A) => ((b: B) => f(a, b))
+```
+
+Обратное каррирование
+```scala
+def uncurry[A,B,C](f: A => B => C): (A, B) => C
+def uncurry[A,B,C](f: A => B => C): (A, B) => C = (a: A, b: B) => f(a)(b)
+```
+
+Кормпозиция функций
+```scala
+def compose[A,B,C](f: B => C, g: A => B): A => C
+def compose[A,B,C](f: B => C, g: A => B): A => C = (a: A) => f(g(a))
+```
+
+Для композиции функций скала предоставляет метод compose определенный на Function1, и andThen делающий тоже самое
+```scala
+g compose f
+f andThen g
+```
+

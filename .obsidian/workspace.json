@@ -20,7 +20,31 @@
             }
           },
           {
-            "id": "e6c984ca60596205",
+            "id": "6bfd3252fccf9d84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FP course.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60ea1981fdf2e666",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ИСККОН/Вишну-сахасранама.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bba5f538dc9dd9ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cde6dee4153ff5aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Форум.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -73,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "constrain",
+                "query": "argue",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ИСККОН/Бхакти-веданта.md",
+                "file": "Форум.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ИСККОН/Бхакти-веданта.md",
+                "file": "Форум.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ИСККОН/Бхакти-веданта.md"
+                "file": "Форум.md"
               }
             }
           },
@@ -185,34 +221,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6c984ca60596205",
+  "active": "cde6dee4153ff5aa",
   "lastOpenFiles": [
-    "Dev/FP.md",
-    "Dev/Scala.md",
-    "Заметки.md",
-    "English/Vocab.md",
-    "Waves/Развертывание окружения.md",
-    "Dev/FS2.md",
-    "Waves/Topics.md",
-    "Dev/Kafka.md",
-    "Waves/Waves Hooks.md",
-    "Obsidian.md",
-    "Waves/Errors.md",
-    "Книги.md",
-    "ИСККОН/Вишну-сахасранама.md",
-    "English/Film genres.md",
-    "English/Phasal verb.md",
-    "English/Rules.md",
-    "Waves/Стенд.md",
+    "Science/Education.md",
+    "Science/Логика и эпистемология.md",
     "Science/Алгоритмы.md",
-    "ИСККОН/Бхакти-веданта.md",
-    "English/English.md",
-    "English/Концовочки.md",
-    "English/Начиналки.md",
-    "English/Grammar.md",
-    "Dev/Тайп классы.md",
+    "Dev notes.md",
     "Dev/Tasks Scala.md",
-    "ИСККОН/LInks.md",
+    "ИСККОН/Бхакти-веданта.md",
+    "Форум.md",
+    "ИСККОН/Примечательно.md",
+    "ИСККОН/Вишну-сахасранама.md",
+    "ИСККОН/Стихи ШБ наизусть.md",
+    "FP course.md",
+    "Dev/Scala.md",
+    "Dev/FP.md",
+    "ИСККОН/Bhakti Rasamrita Sindhu.md",
+    "ИСККОН/Slokas.md",
+    "ИСККОН/Обзор ШБ.md",
+    "Заметки.md",
+    "Dev/Доступ к БД.md",
+    "Resources/sql_joins.png",
+    "Dev/Архитектура.md",
+    "Resources/arcwww.png",
+    "English/Grammar.md",
+    "Dev/Git&Gitlab.md",
+    "Waves/Развертывание окружения.md",
+    "Waves/Waves Hooks.md",
+    "Waves/CSC Test.md",
+    "Waves/Errors.md",
+    "Waves/gRPC.md",
     "Resources/TypeClassesHierarhy.png",
     "Resources/Pasted image 20240212163825.png",
     "Resources/Pasted image 20240212163753.png",
@@ -221,8 +259,6 @@
     "Resources/orts_axis.png",
     "Resources/r_vector.png",
     "Resources/xyz_axis.png",
-    "Resources/xy_axis.png",
-    "Resources/Pasted image 20240119155930.png",
     "Science",
     "English",
     "Crypto",

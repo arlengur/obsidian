@@ -162,12 +162,12 @@ What do you think about? (о чем ты думаешь?)
 ## Соединялки
 - Как союз (где, почему)
 	$- = \mathopen\lt wh\mathclose\gt - =$
-	I found a place <where\> we met - я нашел место где мы познакомились
-	That's exactly what I'm looking for - это именно то что я ищу
+	- I found a place <where\> we met - я нашел место где мы познакомились
+	- That's exactly what I'm looking for - это именно то что я ищу
+	- we’ll see how useful this capability really is - посмотрим, насколько полезна эта возможность на самом деле
 - Как подлежащее (кто, который)
 	$... \mathopen\lt \underline {wh.}\mathclose\gt =$
 	This is the person <<u>who</u>> gave me this book - это тот человек, который подарил мне эту книгу
-
 # Обстоятельства
 
 - $-.-.-$ - обстоятельство (места, времени)
@@ -436,4 +436,35 @@ I love English - я люблю английский (действие)
 |  | I'm loved by my kids - меня любят мои дети |  |
 
 
+# Neither/nor
+## Конструкция “neither/nor” образует аналог русской модели “ни… ни...”
+- После "neither" ставьте "nor":
+	- He neither listens to music nor plays it
+	- She likes neither candy nor cake
+	- Neither Sarah nor Jim can make it to the party on Saturday
+- В списке можно использовать “nor” несколько раз: 
+	- The store had neither peanut butter nor jelly nor bread
+- Нельзя ставить после "neither" глагол, а после "nor" - существительное. Обе части должны быть связаны с одной и той же частью речи
+	- We saw neither Gwen nor Eric during our trip
+	- We neither saw Gwen nor spoke to Eric during our trip
+- “neither” всегда идет в паре с “nor,” “either” всегда идет в паре с “or.”
+	- Neither James nor Rebecca are interested in basketball
+	- Either eat your vegetables or skip your dessert
+## Использование "Nor" без "Neither"
+- Используйте "nor" с другими словами с отрицательной семантикой
+	- The final guest is not here, nor should we wait for her before we start the festivities - Последней гостьи здесь нет, и нам не следует ждать ее, прежде чем начать праздник.
+	- He has never gone fishing, nor does he have any desire to learn - Он никогда не ходил на рыбалку и не имеет никакого желания учиться.
+- С паре с “neither” слово “nor” должно стоять перед каждым пунктом списка. Без “neither,” соответственно, только перед последним пунктом “nor”.
+	- He has never experienced joy, sadness, nor anger with such passion before
+- Используйте “nor” для передачи отрицания или негатива только с паре с глаголом.
+	- если вся семантика негатива хранится во второй части предложения, в глагольной фразе, в действии - то здесь "nor" будет правильным вариантом
+		- He never comes to practice, nor does he listen to the coach
+	- Если вторая часть отрицания - это существительное, прилагательное или наречие, то первая часть отрицания как бы распространит свое влияние на все предложение, сделав "nor" лишним. В таких случаях следует использовать "or"
+		- She does not enjoy music or art.
+## Прочие правила neither/nor
+- Существительному единственного числа должен соответствовать аналогичный глагол. Существительному множественного числе должен соответствовать аналогичный глагол.
+	- Neither he nor they are interested
+	- Neither they nor he is interested
+- Используйте запятую, когда "nor" отделяет главное предложение (придаточное предложение - эта та часть предложения, которая без главного предложения неполноценна и непонятна)
+	- No one knew the answer, nor did they make a guess
 
