@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Форум.md",
+                "file": "Science/Логика и эпистемология.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Форум.md",
+                "file": "Science/Логика и эпистемология.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Форум.md",
+                "file": "Science/Логика и эпистемология.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Форум.md"
+                "file": "Science/Логика и эпистемология.md"
               }
             }
           },
@@ -223,13 +223,13 @@
   },
   "active": "cde6dee4153ff5aa",
   "lastOpenFiles": [
+    "Форум.md",
     "Science/Education.md",
     "Science/Логика и эпистемология.md",
     "Science/Алгоритмы.md",
     "Dev notes.md",
     "Dev/Tasks Scala.md",
     "ИСККОН/Бхакти-веданта.md",
-    "Форум.md",
     "ИСККОН/Примечательно.md",
     "ИСККОН/Вишну-сахасранама.md",
     "ИСККОН/Стихи ШБ наизусть.md",
