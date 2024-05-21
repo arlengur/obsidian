@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Логика и эпистемология.md",
+                "file": "Заметки.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "argue",
+                "query": "jok",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Логика и эпистемология.md",
+                "file": "Заметки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science/Логика и эпистемология.md",
+                "file": "Заметки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science/Логика и эпистемология.md"
+                "file": "Заметки.md"
               }
             }
           },
@@ -223,13 +223,18 @@
   },
   "active": "cde6dee4153ff5aa",
   "lastOpenFiles": [
+    "ИСККОН/Бхакти-веданта.md",
+    "English/Vocab.md",
+    "English/Повелительные конструкции.md",
+    "Davinci.md",
+    "Mac.md",
+    "Античная культура основана на.md",
+    "Science/Логика и эпистемология.md",
     "Форум.md",
     "Science/Education.md",
-    "Science/Логика и эпистемология.md",
     "Science/Алгоритмы.md",
     "Dev notes.md",
     "Dev/Tasks Scala.md",
-    "ИСККОН/Бхакти-веданта.md",
     "ИСККОН/Примечательно.md",
     "ИСККОН/Вишну-сахасранама.md",
     "ИСККОН/Стихи ШБ наизусть.md",
@@ -246,11 +251,6 @@
     "Resources/arcwww.png",
     "English/Grammar.md",
     "Dev/Git&Gitlab.md",
-    "Waves/Развертывание окружения.md",
-    "Waves/Waves Hooks.md",
-    "Waves/CSC Test.md",
-    "Waves/Errors.md",
-    "Waves/gRPC.md",
     "Resources/TypeClassesHierarhy.png",
     "Resources/Pasted image 20240212163825.png",
     "Resources/Pasted image 20240212163753.png",

@@ -1,4 +1,4 @@
-Lessons https://www.youtube.com/c/TimesaverVFX/playlists
+	Lessons https://www.youtube.com/c/TimesaverVFX/playlists
 
 Ниламбара:
 - Лого: 846x-291x0.17
@@ -22,10 +22,10 @@ Project Settings - Master Settings:
 	- Timeline frame rate: 25
 - Optimized Media and render cache (разрешение и качество прокси и оптимизированных медиа)
 	- Proxy media resolution: Quarter
-	- Proxy media format: DNxHR HQ
+	- Proxy media format: DNxHR HQ (SQ for Windows)
 	- Optimized media resolution: Quarter
-	- Optimized media format: DNxHR HQ
-	- Render cache format: DNxHR HQ
+	- Optimized media format: DNxHR HQ (SQ for Windows)
+	- Render cache format: DNxHR HQ (SQ for Windows)
 - Working folders (где эти файлы хранятся)
 	- Proxy generation location: same as project (их часто пользуем, лучше на ssd диске)
 	- Gallery stills location: same as project (screenshots during color editing)
@@ -140,10 +140,9 @@ Shutter speed:
 - ПКМ "grab still
 - Media Pool - Export as jpeg
 
-4x+3y=114
-3x+4y=110
-
-x-y=4
-y=x-4
-
-3x+4x-16=110=126
+Optimizing
+- Playback - Time Line Proxy Resolution
+- Playback - Render Cache (работает при выключенном Proxy)
+- ПКМ on video - Generate Optimized Video & Playback - Use optimized media if Available
+- Media Pool - Generate proxy Media
+- ПКМ on video - Render in Place

@@ -1,3 +1,41 @@
+- To gloss over something – замалчивать, представлять в лучшем свете (смягчать, приукрашивать); 
+	- When I told Mom and Dad about my night, I just glossed over the fact that I’d gotten a parking ticket. 
+	- Don’t gloss over your own role in this fiasco! 
+- To get a rise out of someone – выводить из себя, раздразнить/ разозлить кого-либо; 
+	- Don’t pay any attention to him, Bill, he’s just trying to get a rise out of you. 
+	- My brother knows that I’m both gullible and easy to irritate, so he loves getting a rise out of me.
+	- it gets rise out of me
+- If the shoe fits (, wear it) – признай(те) правоту; 
+	- I know you don’t like being called unreliable, but if the shoe fits, wear it. 
+	- A: “Why do teachers always treat me like some kind of troublemaker?” B: “If the shoe fits…” 
+- To coax (someone or something) out of (something) – а) выманивать; б) добиться чего-либо от кого-либо с помощью уговоров, лести, ласки и т. д.; 
+	- Good luck coaxing the cat out of her favorite seat in the house. 
+	- Janet coaxed the child out of the closet with a promise of a piece of cake. 
+- To get (be, wander) off the point – отойти/ отклониться от темы; 
+	- His remark seems to be off the point. 
+- To lose one’s cool (to blow one’s cool) – взорваться, выйти из себя, потерять самообладание; 
+	- He really lost his cool when the waiter dropped his food. 
+	- I really lost my cool during the interview. 
+- To go out of one’s way – делать все возможное, стараться изо всех сил, прилагать все усилия, из кожи вон лезть; 
+	- You need to thank Monica – she really went out of her way to get you this job interview. 
+	- We appreciate anything you can do, but don’t go out of your way. 
+- To be on the same page with someone – придерживаться единого мнения, иметь одинаковое видение или понимание ситуации; 
+	- We all need to be on the same page before we try to present this complex idea to the boss. 
+- To perk up – воспрянуть духом, взбодриться, восстановиться; 
+	- I just can’t focus until I get perked up with a bit of coffee in the morning.
+- To toss one’s cookies – вытошнить, вырвать; 
+	- Don’t run too fast after you eat or you’ll toss your cookies. 
+- To get carried away – увлечься, идти на поводу у своих эмоций (чувств); 
+- Sorry, I got a little carried away there – I just love talking about my favorite artists! 
+- To take the cake – быть лучшим или худшим из чего-либо, превосходить все по какому-либо признаку; побить все рекорды, не лезть ни в какие ворота, стать последней каплей; 
+	- When I found out he had been reading through my text messages, well, that took the cake! 
+	- You charged me for the drink you spilled on me? That really takes the cake
+- name-calling - обзывательство
+- abuse - оскорбление
+- victim - жертва
+- sue - предъявлять иск
+	- we'll sue the journal
+- I'm joiking around
 - boar - вепрь
 - lament - сожалеть, сокрушаться, причитать
 - inquired - спросил
