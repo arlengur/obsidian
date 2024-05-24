@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заметки.md",
+                "file": "ИСККОН/Бхакти-шастри.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Заметки.md",
+                "file": "ИСККОН/Бхакти-шастри.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Заметки.md",
+                "file": "ИСККОН/Бхакти-шастри.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Заметки.md"
+                "file": "ИСККОН/Бхакти-шастри.md"
               }
             }
           },
@@ -223,6 +223,9 @@
   },
   "active": "cde6dee4153ff5aa",
   "lastOpenFiles": [
+    "ИСККОН/Бхакта-програм.md",
+    "ИСККОН/Бхакти-шастри.md",
+    "Заметки.md",
     "ИСККОН/Бхакти-веданта.md",
     "English/Vocab.md",
     "English/Повелительные конструкции.md",
@@ -244,13 +247,10 @@
     "ИСККОН/Bhakti Rasamrita Sindhu.md",
     "ИСККОН/Slokas.md",
     "ИСККОН/Обзор ШБ.md",
-    "Заметки.md",
     "Dev/Доступ к БД.md",
     "Resources/sql_joins.png",
     "Dev/Архитектура.md",
     "Resources/arcwww.png",
-    "English/Grammar.md",
-    "Dev/Git&Gitlab.md",
     "Resources/TypeClassesHierarhy.png",
     "Resources/Pasted image 20240212163825.png",
     "Resources/Pasted image 20240212163753.png",
