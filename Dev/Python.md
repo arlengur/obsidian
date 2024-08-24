@@ -83,8 +83,8 @@ x1, x2, x3 = False, True, True
 ```python
 if cond_1:
  code_1
-elseif cond_2: // or elif
- code_2
+ elseif cond_2: // or elif
+  code_2
 else:
  code_3
 ```
@@ -330,7 +330,13 @@ else:
 |d.keys()|возвращает множество ключей словаря|
 |d.values()|множество значений словаря|
 |d.items()|множество пар|
-
+# Обработка исключений
+```python
+try:
+	# do smth
+except Exception:
+	# do smth
+```
 # Чтение из файла
 ```python
 inf = open('file_name', 'r')
@@ -394,6 +400,13 @@ subprocess.call(["python", "-h"]) # запуск программы с пара�
 ```
 
 # Библиотеки
+pip install pyTelegramBotAPI  - ТГ бот
+pip install requests - для отправки запросов
+## string
+`string.ascii_letters`
+
+## random
+`random.choice(string.ascii_letters)`
 ## hashlib
 sha256 создает строку в 32 байта то есть 64 символа в шестнадцатеричном формате
 ```python

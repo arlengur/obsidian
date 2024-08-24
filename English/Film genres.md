@@ -50,7 +50,9 @@
 	- sensible - разумный
 - considerate - внимательный к другим, тактичный tactful perceptive
 - caring - заботливый 
-- embarrassing - смущающий awkward
+- embarrassing - смущающий 
+- clumsy - неуклюжий 
+- awkward - неудобный, неуклюжий (it's awkward to use)
 - annoying - надоедливый erratating 
 - calm - спокойный relaxed patient
 - artistic - склонный к искусствам, творческий creative 
@@ -65,8 +67,6 @@
 - loving - любящий
 - old fashioned - старомодный obsolete
 - progressive - современный, прогрессивный modern  
-- clumsy - неуклюжий 
-	- awkward (it's awkward to use)
 - bossy - властный
 - demanding - требовательный bosy disrespectful
 - disrespectful - непочтительный, неуважительный

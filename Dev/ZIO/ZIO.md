@@ -151,10 +151,10 @@ def readIntOrRetry: Task[Int] = readInt.orElse {
 # Error vs Defect
 
 Error - это ожидаемая ошибка, фиксируемая на уровне типа эффекта
-val eff: IO[NumberFormatException, Int] = ???
+`val eff: IO[NumberFormatException, Int] = ???`
 
 Defect - непредвиденная ошибка, не знаем, как восстановиться
-val eff: UIO[Int] = ???
+`val eff: UIO[Int] = ???`
 
 Пример:
 ```scala

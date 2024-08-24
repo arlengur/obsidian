@@ -8,31 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b3c541e442ea49c8",
+            "id": "8e3ec67f1c9c9937",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Scala.md",
+                "file": "ИСККОН/Основные молитвы.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6bfd3252fccf9d84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FP course.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60ea1981fdf2e666",
+            "id": "e22ebcf2ee03dc8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,31 +32,18 @@
             }
           },
           {
-            "id": "bba5f538dc9dd9ca",
+            "id": "948fcef18d6a6ae7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИСККОН/Бхакти-веданта.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cde6dee4153ff5aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ИСККОН/Бхакти-шастри.md",
+                "file": "Заметки.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jok",
+                "query": "conceal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 254.5
   },
   "right": {
     "id": "2b32c5b70a2301f6",
@@ -147,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ИСККОН/Бхакти-шастри.md",
+                "file": "ИСККОН/Основные молитвы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ИСККОН/Бхакти-шастри.md",
+                "file": "ИСККОН/Основные молитвы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ИСККОН/Бхакти-шастри.md"
+                "file": "ИСККОН/Основные молитвы.md"
               }
             }
           },
@@ -221,35 +196,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cde6dee4153ff5aa",
+  "active": "8e3ec67f1c9c9937",
   "lastOpenFiles": [
-    "ИСККОН/Бхакта-програм.md",
-    "ИСККОН/Бхакти-шастри.md",
-    "Заметки.md",
-    "ИСККОН/Бхакти-веданта.md",
-    "English/Vocab.md",
-    "English/Повелительные конструкции.md",
-    "Davinci.md",
-    "Mac.md",
-    "Античная культура основана на.md",
-    "Science/Логика и эпистемология.md",
-    "Форум.md",
-    "Science/Education.md",
-    "Science/Алгоритмы.md",
-    "Dev notes.md",
-    "Dev/Tasks Scala.md",
-    "ИСККОН/Примечательно.md",
-    "ИСККОН/Вишну-сахасранама.md",
-    "ИСККОН/Стихи ШБ наизусть.md",
-    "FP course.md",
-    "Dev/Scala.md",
     "Dev/FP.md",
-    "ИСККОН/Bhakti Rasamrita Sindhu.md",
+    "ИСККОН/Основные молитвы.md",
+    "ИСККОН/Бхакти-веданта.md",
+    "ИСККОН/Вишну-сахасранама.md",
+    "Заметки.md",
+    "English/Vocab.md",
+    "Microservices.md",
+    "Dev/Haskell.md",
+    "ИСККОН/Мриданга.md",
+    "Davinci.md",
+    "Dev/ZIO/ZIO.md",
+    "Форум.md",
+    "Симпозиум.md",
+    "ДЮШС.md",
+    "Waves/Гитлаб.md",
     "ИСККОН/Slokas.md",
-    "ИСККОН/Обзор ШБ.md",
-    "Dev/Доступ к БД.md",
+    "Dev/Scala.md",
+    "Dev/Akka.md",
+    "ИСККОН/Бхакта-програм.md",
+    "Dev/FP course.md",
+    "Многопоточность.md",
+    "Рецепты.md",
+    "Dev/VsCode.md",
+    "Untitled.md",
+    "English/Grammar.md",
+    "English/Film genres.md",
+    "Resources/type_hierarhy_hs.png",
     "Resources/sql_joins.png",
-    "Dev/Архитектура.md",
     "Resources/arcwww.png",
     "Resources/TypeClassesHierarhy.png",
     "Resources/Pasted image 20240212163825.png",
@@ -258,7 +234,6 @@
     "Resources/vect_sum.png",
     "Resources/orts_axis.png",
     "Resources/r_vector.png",
-    "Resources/xyz_axis.png",
     "Science",
     "English",
     "Crypto",

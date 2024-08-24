@@ -32,7 +32,234 @@
 	- You charged me for the drink you spilled on me? That really takes the cake
 - name-calling - обзывательство
 - abuse - оскорбление
+- in a sense - в некотором смысле
 - victim - жертва
+- make use of - использовать
+- exhaust - исчерпать
+- rear - хвостовая часть
+- judiciously - разумно
+- a sequence of some sort - какая-то последовательность
+- multiplied by the number - умножить на число
+- whatsoever - вообще
+- crucial - важный
+- Foreword - предисловие
+- Mainstay-главная опора
+- aquatic - водный
+- compelling - убедительный
+- consolidation - укрепление
+- relief - облегчение
+- perishable - преходящий, бренный
+- arise - возникать
+- succession - череда
+- club - булава
+- chastise - наказать
+- proponent - сторонник
+- continued presence - постоянное присутствие
+- challenger - противник
+- deliberate - размышлять
+- emerge - появляться
+- mare - лошадь
+- wrath - гнев
+Portion-часть
+Elucidate- разъяснять
+extensive - обширный
+concerning - касающийся
+disregard for liberation - пренебрежение к освобождению
+Not attained quickly- недостигается быстро
+intense - сильное, интенсивное
+Bliss- счастье, блаженство 
+bring under - взять под 
+diffusion - распространение 
+very form - сама форма
+Host  - множество 
+gestures - жесты
+fondly - нежно
+eternal peace incarnate in mood to Sanatana - вечный мир воплощенный в настроении Санатаны
+he is the means  of success - он является средством успеха 
+good fortune - удача
+obsessed by - одержимый
+desire to benefit - желание принести пользу 
+esteem - уважение
+compile - составлять 
+remarkable - замечательный 
+discern - понять, 
+introductory - вступительный, вводный 
+announce - объявить  сообщить
+successive- последовательный
+appearance - появление
+Defeat- побеждать
+transcend - превзойти
+surpass - превосходить
+who causes everything - кто является причиной всего
+He is the cause of everything 
+derive - получать
+conclude - заключить, приходить к выводу
+conclusion - вывод
+He is famous for bestowing happiness
+astounding - поразительный, удивительный
+original - исходный
+particularly - особенно
+prominence - известность
+specifically - особенно, именно 
+dispel - развеять
+perceive - воспринимать
+descent - нисхождение
+chariot driver  - колесничий
+whip - плеть
+bridle rope - уздечка
+brilliant - блестящий, потрясающий
+whoever -кто бы ни
+disturbance - беспокойство
+blinking - моргание
+momentary - кратковременный
+bewilder - сбить с толку
+drawn-out - длительный
+potency - сила
+submit - представлять
+plenary - полный
+excel - превосходить
+excellence - совершенство, превосходство 
+cowherd - пастух
+conclusively - окончательно
+inert - неподвижный
+situation - положение, состояние
+bodily hairs stood on end - волосы на теле встали дыбом 
+subduer - усилитель 
+emanate - исходить 
+wrestler - борец 
+lightning bolt - удар молнии
+chastiser - покоритель, каратель 
+superiority - превосходство 
+conjugal - супружеский
+depict - показать, описать
+loveliness - красота, очарование
+Fame - слава 
+exclusive - уникальный, исключительный
+exquisite - изысканный 
+sapphire - сапфир
+- in a sense - в некотором смысле, по сути
+- to drive the point home - чтобы довести дело до конца
+- as a side note - в качестве примечания
+- mystery - тайна
+- countdown - обратный отсчёт
+- we are sorry to see you go - нам жаль что вы уходите
+- frolicking - резвящиеся
+- literary device - литературный прием
+- tooling - инструментарий
+- drastically - значительно
+- intimidating - пугающий
+- leak - утечка
+- - premise - предпосылка
+- lead - приводить
+- claim - претензия, заявление
+- radical - фундаментальный
+- equip - оборудовать
+- relearning - повторное обучение
+- implication - последствие
+- far-reaching - далеко идущий
+- halt - остановка
+- overall - в целом, в общем
+- anticipate - ожидать
+- coalesce - сливаться, объединяться
+- precise - точный
+- beneficial - полезный
+- tremendously - чрезвычайно
+- gain - получать
+- regain - восстановить
+- exposure - контакт
+- batch up - группировать
+- arguably - возможно
+- overkill - перебор
+- mourn - скорбеть, оплакивать
+- elsewhere - в другом месте
+- anticipate - ожидать
+- make into - превратить в
+- coalesce - объединять
+- enormous - огромный
+- cohesive - единый, согласованный, целостный
+- come - настать
+	- you come to appreciate - ты начинаешь ценить
+- necessitate - требуют
+- pinpoint - точно определять
+- relate - связывать, относиться
+- solely - исключительно, только
+- imply - предполагать
+- somewhat - несколько, немного
+- redundant - избыточный, излишний
+- unless - если не
+- nothing else - ничего больше
+	- nothing else occurs - ничего больше не происходит
+- whatever - независимо от
+- constraint - ограничение
+- violate - нарушать
+- intact - нетронутый
+- outcome - результат
+- What’s more - более того
+- in turn - в свою очередь
+- throughout - везде, повсюду
+- governing - управляющий
+- composable - компануемый
+- obtain - получить
+- wart - бородавка
+- commit - обязаться
+	- we have committed to using functions - мы обязались использовать функции
+- emerge - появляться, возникать
+	- a question naturally emerges - естественно возникает вопрос
+- Immersion - погружение
+- dive in - погружаться в
+- get going - начинать
+- brain-bending - головокружительный
+- crucial - киритческий
+	- it's not crucial - это не критично
+- internalize - усваивать
+	- you internalize every single concept
+- occurence - явление, частота
+- as long as - до тех пор пока
+	- as long as it doesn’t crash or hang - пока он не упадет или зависнет
+- so long as - так как, пока
+	- so long as the recursive call
+- span - охватывать
+	- code that spans multiple lines - код, занимающий несколько строк
+- permeate - пронизывать
+- convention - соглашение
+- advance - продвигаться
+	- To advance to the next iteration - Чтобы перейти к следующей итерации
+- hinder - мешать
+	- it hinders good style
+- likewise - кроме того, аналогично
+- connote - означать
+- elide - игнорировать, пропускать
+	- may be elided - может быть опущено
+- universe - вселенная
+- would go - пойдет
+- puzzle - головоломка
+- to puzzle together - собирать вместе
+- keep going - продолжить, двигаться вперед
+- one-liner - одна-строчка
+- flavor - вкус, аромат
+- employ - использовать
+- preliminary - предварительный
+
+over
+- that may change over time - это может измениться со временем
+- over the next several chapter - в следующих нескольких главах
+
+- to get somebody to do something - убедить кого-то сделать что-то
+- The intent is to get you thinking about programs - Цель в том, чтобы заставить вас думать о программах
+- My goal is to speak English fluently - Моя цель состоит в том, чтобы говорить по-английски свободно
+
+- nitty-gritty - мельчайшие подробности
+- fast track - ускорить
+- fallback option - запасной вариант
+- it's a bit of a pain - это немного больно
+- I have a bit of a experience - у меня есть небольшой опыт
+- a number of reasons - ряд причин
+- as such - как таковой
+- truncate - обрезать
+- endless supply - бесконечный запас
+- anecdote - интересная история
+- argue - спорить
+- dispatch - отправлять
 - sue - предъявлять иск
 	- we'll sue the journal
 - I'm joiking around
@@ -78,6 +305,7 @@
 - irish courage - напился для храбрости
 - I tend to do that - я склоняюсь делать это
 - commit suicide
+- cast - бросить
 - commit adultery/a crime/murder
 - committed to my spouse - предан своей супруге
 - commitment
@@ -86,9 +314,12 @@
 	- you came early - ты рано пришел
 - I'm early bird
 - we gotta do this more often - нам надо чаще так делать
+- conceal - скрыть
 
 
-
+	айшварьясья самаграсья вирьясья яшаса шрия  
+гьяна-вайрагьяйош чайва шаннабхагаитингана  
+(Бхагавата-сандарбха 46.10)
 
 - Sloppy – небрежный, неряшливый, неаккуратный
 	- to be a sloppy dresser
@@ -212,7 +443,7 @@
 - sit - находиться
 - up‐close - вблизи, крупным планом
 - viewpoint - точка зрения
-- notion - понятие
+- notion - понятие, понимание
 - constituent - составной
 - bother - беспокоиться
 - cartesian product - декартово произведение
@@ -1603,6 +1834,8 @@ sci-fi - science fiction
 plot - сюжет
 highlights - основные моменты
 Dystopia - антиутопия
+- persuade - убедить
+- persuasive - убедительный
 
 ? keep in mind - иметьввиду
 ? lonely - одинокий
@@ -1616,7 +1849,6 @@ Dystopia - антиутопия
 ? confused - 
 ? humorous -
 ? cooperative - 
-? persuasive - убедительный
 daring - 
 he has a lot of humor -
 

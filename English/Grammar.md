@@ -454,6 +454,9 @@ I love English - я люблю английский (действие)
 - Используйте "nor" с другими словами с отрицательной семантикой
 	- The final guest is not here, nor should we wait for her before we start the festivities - Последней гостьи здесь нет, и нам не следует ждать ее, прежде чем начать праздник.
 	- He has never gone fishing, nor does he have any desire to learn - Он никогда не ходил на рыбалку и не имеет никакого желания учиться.
+	- CreditCard shouldn’t have any knowledge about how to contact the credit card company, nor should it have knowledge of how to persist a record of this charge
+
+internal systems.
 - С паре с “neither” слово “nor” должно стоять перед каждым пунктом списка. Без “neither,” соответственно, только перед последним пунктом “nor”.
 	- He has never experienced joy, sadness, nor anger with such passion before
 - Используйте “nor” для передачи отрицания или негатива только с паре с глаголом.

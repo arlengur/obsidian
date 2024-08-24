@@ -317,27 +317,44 @@ var
 
 # Функции
 
-## функция-метод
-def sum1(x: Int, y: Int): Int = x + y
+## Функция-метод
+`def sum1(x: Int, y: Int): Int = x + y`
 - именованные параметры
 - конвертируются в функции-значения
 
+```scala
 val sum4: (Int, Int) => Int = sum1 // компилятор преобразует функцию-метод sum1 в функцию-значение
 val sum5 = sum1 _
+```
 
-## функция-значение
-val foo: Int => Int
+## Функция-значение
+```scala
+ val foo: Int => Int
  val sum2: (Int, Int) => Int = (a, b) => a + b
  val sum2: (Int, Int) => Int = (_: Int) + (_: Int)
  val sum2: (Int, Int) => Int = _ + _
+```
 - являются объектами
 - можно сохранять в переменные
 - можно передавать на вход другим функциям и возвращать в качестве значения
 
-sum2(2, 3) эквивалентно вызову функции apply на `Function2[Int, Int, Int]` а `(a, b) => a + b` является созданием экземпляра объекта `Function2[Int, Int, Int]`
-
 Функцию-значение sum2 (так как является объектом) можно присвоить в какое-то значение:
 val sum3 = sum2
+
+`(x: Int) => x == 9` - функциональный литерал (анонимная функция)
+
+Анонимная функция проверяющая равенство чисел
+`(x: Int, y: Int) => x == y`
+ это синтаксический сахар раскрывающийся в 
+ ```scala
+ val equality = new Function2[Int, Int, Boolean] { 
+	 def apply(x: Int, y: Int) = x == y
+}
+```
+
+тип `Function2[Int,Int,Boolean]` (индекс 2 указывает на количество аргументов) обычно записывают `(Int,Int) => Boolean`
+Трейт Function2 имеет метод apply, поэтому когда мы вызываем equality(10, 20) происходит вызов equality.apply(10, 20)
+Так как функции являются просто объектами, то мы называем их значениями первого класса (first-class values)
 
 Внимание 
 Функцию-метод лучше использовать по умолчанию так как у него именованные аргументы и это облегчает использование.
@@ -364,10 +381,40 @@ def divide: PartialFunction[(Int, Int), Int] =
 Метод collect применит функцию divide только к тем значениям которые удовлетворяют isDefinedAt:
 val r5 = List((4, 2), (2, 0)).collect(divide)
 
-## Currying
+# Следование типам для реализации
+```scala
+def partial1[A,B,C](a: A, f: (A,B) => C): B => C
+def partial1[A,B,C](a: A, f: (A,B) => C): B => C = (b: B) => f(a, b)
+// или так как мы уже сказали какой тип аргумента
+def partial1[A,B,C](a: A, f: (A,B) => C): B => C = b => f(a, b)
+```
+
+# Currying (Каррирование)
 процесс преобразования функции от нескольких аргументов в несколько функций от одного аргумента
+```scala
 def foo(x: Int, y: Int): Int
 val foo: Int => Int => Int
+
+def curry[A,B,C](f: (A, B) => C): A => (B => C)
+def curry[A,B,C](f: (A, B) => C): A => (B => C) = (a: A) => ((b: B) => f(a, b))
+
+// Обратное каррирование
+def uncurry[A,B,C](f: A => B => C): (A, B) => C
+def uncurry[A,B,C](f: A => B => C): (A, B) => C = (a: A, b: B) => f(a)(b)
+
+```
+
+# Композиция функций
+```scala
+def compose[A,B,C](f: B => C, g: A => B): A => C
+def compose[A,B,C](f: B => C, g: A => B): A => C = (a: A) => f(g(a))
+```
+
+Для композиции функций скала предоставляет метод compose определенный на Function1, и andThen делающий тоже самое
+```scala
+g compose f
+f andThen g
+```
 
 SAM Single Abstract Method
 
@@ -3238,11 +3285,13 @@ trait Printable extends Any
 
 Pure functions - функции, которые для одних и тех же аргументов вычисляют одни и те же результаты и не делают никаких сайд эффектов, то есть функция не делает никаких сайд эффектов кроме как вычисление результата в зависимости от переданного на вход значения
 
-f: A => B - функция, которой на вход подают тип А, а на выходе получаем тип В - выполняет вычисление которое связывает каждое значение а типа А только с одним значением b типа B. Пример: intToString: Int => String
-
+f: A => B - функция, которой на вход подают тип А, а на выходе получаем тип В - выполняет вычисление которое связывает каждое значение а типа А только с одним значением b типа B. 
+Пример: 
+intToString: Int => String
 def sum(x: Int, y: Int): Int = x + y - чистая функция
+Функция возвращающая длину строки (строки неизменяемы в Java и Scala)
 
-Чистые функции позволяют делать кеширование и код становится более понятным.
+Чистые функции позволяют делать кеширование, код становится более понятным, их легко тестировать, переиспользовать, выполнять параллельно, обобщать и они менее подвержены ошибкам
 
 Функция чистая, если вызывая ее с ссылочно-прозрачными аргументами она также является ссылочно-прозрачной
 > Функция f чистая, если выражение f(x) ссылочно-прозрачное для всех ссылочно-прозрачных х
@@ -3257,6 +3306,62 @@ def sum(x: Int, y: Int): Int = x + y - чистая функция
 - рисование на экране
 
 Нечистая функция или процедура - функция выполняющая сайд-эффекты
+
+Пример нечистой функции
+```scala
+class Cafe {
+	def buyCoffee(cc: CreditCard): Coffee = {
+		val cup = new Coffee()
+		cc.charge(cup.price) // сайд эффект
+		cup
+	}
+}
+```
+
+cc.charge - имеет сайд эффект так как оплата кредитной картой подразумевает взаимодействие с внешним миром. Такой код сложно тестировать.
+
+перепишем
+```scala
+class Cafe {
+	def buyCoffee(cc: CreditCard, p: Payments): Coffee = {
+		val cup = new Coffee()
+		p.charge(cc, cup.price) // сайд эффект
+		cup
+	}
+}
+```
+
+У нас все еще есть сайд эффект, но мы восстановили тестируемость так как теперь можно замокать интерфейс Payments
+
+версия с чистой функцией
+```scala
+class Cafe {
+	def buyCoffee(cc: CreditCard): (Coffee, Charge) = {
+		val cup = new Coffee()
+		(cup, Charge(cc, cup.price))
+	}
+}
+```
+
+теперь мы возвращаем кофе и объект Charge
+```scala
+case class Charge(cc: CreditCard, amount: Double) {
+	def combine(other: Charge): Charge =
+		if (cc == other.cc)
+			Charge(cc, amount + other.amount)
+		else
+			throw new Exception("Can't combine charges to different cards")
+}
+```
+
+напишем функцию для заказа нескольких чашек кофе, используя buyCoffee
+```scala
+def buyCoffees(cc: CreditCard, n: Int): (List[Coffee], Charge) = {
+	val purchases: List[(Coffee, Charge)] = List.fill(n)(buyCoffee(cc))
+	val (coffees, charges) = purchases.unzip
+	(coffees, charges.reduce((c1,c2) => c1.combine(c2)))
+}
+```
 
 # Referential transparency (RT)
 Ссылочная прозрачность - когда выражение может быть заменено его результатом не изменяя результата программы
@@ -3276,6 +3381,7 @@ val r2 = x.reverse // dlroW ,olleH
 
 val r1 = "Hello, World".reverse // dlroW ,olleH
 val r2 = "Hello, World".reverse // dlroW ,olleH
+// строка х ссылочно-прозрачная
 
 Пример:
 val x = new StringBuilder("Hello")
@@ -3297,29 +3403,31 @@ val r2 = x.append(", World").toString() // Hello, world, world
 - рекурсивный шаг
 
 Пример факториал:
+```scala
   def factRec(n: Int): Int =
     if(n <= 0) 1 else n * factRec(n - 1)
 
   def factRecTail(n: Int): Int = {
-    @tailrec
+    @annotation.tailrec
     def loop(i: Int, acc: Int): Int = {
       if(i <= 0) acc
       else loop(i - 1, i * acc)
     }
     loop(n, 1)
   }
+```
 
 Пример Фибоначчи:
 F0 = 0, F1 = 1, Fn = Fn-1 + Fn - 2
 0, 1, 1, 2, 3, 5
-
+```scala
    def fibRec(n: Int): Int = {
     if(n==0) 0
     else if(n==1) 1
     else fib(n-1)+fib(n-2)
    }
 
-   def fibREcTail(n: Int): Int = {
+   def fibRecTail(n: Int): Int = {
     def go(n: Int, acc: Int, x: Int): Int = n match {
       case 0 => acc
       case _ => go(n-1, x, acc+x)
@@ -3327,11 +3435,21 @@ F0 = 0, F1 = 1, Fn = Fn-1 + Fn - 2
     go(n, 0, 1)
    }
 
+def fib (n:Int) : Int = {
+	@annotation.tailrec
+	def go(n:Int, prev:Int, acc:Int) : Int = {
+		if (n <= 1) acc
+		else go(n-1, acc, prev+acc)
+	}
+	go(n, 0, 1)
+}
+```
+
 # High order functions (HOF)
 Функции высшего порядка - это функции которые принимают другие функции в качестве аргумента, либо возвращают функции в качестве возвращаемого значения или и принимают и возвращают.
 
 Пример:
-```
+```scala
 def funcA[A, B](f: A => B) = ???
 def funcB[A, B, C](a: A): B => C
 ```
@@ -3368,6 +3486,38 @@ def sum(x: Int, y: Int): Int  = x + y
 val p = partial(2, sum)
 ```
 
+# Полиморфизм 
+- параметрический
+- мнимый (ad-hoc) (различные реализации интерфейса)
+
+Полиморфизм в ООП это форма подтипов или отношений наследования
+
+Параметрический полиморфизм когда мы хотим абстрагироваться от типа
+Пример полиморфической функции
+```scala
+def findFirst[A](as: Array[A], p: A => Boolean): Int = {
+	@annotation.tailrec
+	def loop(n: Int): Int =  
+		if (n >= as.length) -1 
+		else if (p(as(n))) n 
+		else loop(n + 1)
+	loop(0)
+}
+
+findFirst(Array(7, 9, 13), (x: Int) => x == 9)
+```
+
+Проверить отсортирован ли массив
+```scala
+def isSorted[A](as: Array[A], ordered: (A,A) => Boolean) : Boolean = {
+	@annotation.tailrec
+	def loop(n:Int) : Boolean = 
+		if(n >= as.length - 1) true
+		else if (ordered(as(n),as(n+1))) loop(n+1)
+		else false
+	loop(0)
+}
+```
 # Функциональные структуры данных
 Это структуры данных методы которых не создают сайд эффектов
 
@@ -3455,6 +3605,7 @@ val dog: Animal = ???
     case _ =>
   }
 
+Array(7, 9, 13) // литерал массива, создает массив из 3х элементов
 ```
 
 ## Константы
@@ -3741,10 +3892,6 @@ def func[T](implicit t: T)
 - параметризованный трейт с неким функционалом, который мы хотели бы применять в широкому спектру типов
 - превращение параметрического полиморфизма в ad-hoc благодаря ограничениям (bounds)
 - наделяет класс определенным свойством без явного наследования
-
-Полиморфизм 
-- параметрический (метод работающий для разных типов, def max(a: A, b: A): A = ???) 
-- мнимый (ad-hoc) (различные реализации интерфейса)
 
 Применимы 
 - когда мы не можем применить наследование из-за отсутствия доступа к исходным данным
