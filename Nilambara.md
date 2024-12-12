@@ -1,3 +1,13 @@
+Cover 320x180
+
+Logo - 1204x651x29
+DAvinci 846x-291x0.17
+DAvinci 1269x-437x0.17
+
+Меню
+
+10.9 https://vk.com/nilambaraminus?w=wall-172046441_479
+
 ## Tracks
 Классика - 3 4 7 11 13 18 19 24 26 28 39 41 43 59 68
 Поп 45 49 53 64 

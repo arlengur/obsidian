@@ -1,3 +1,8 @@
+Уроки:
+- https://habr.com/ru/companies/otus/articles/525618/
+- https://medium.com/wix-engineering/5-pitfalls-to-avoid-when-starting-to-work-with-zio-adefdc7d2d5c
+- https://medium.com/wix-engineering/5-more-pitfalls-to-avoid-when-starting-to-work-with-zio-d0cdd44fa439
+
 История
 - 5 июня 2017 года, John A. De Goes впервые говорит о необходимости нового мощного и быстрого типа данных для асинхронного программирования в Scalaz
 - 11 июня 2018 года, появляется проект ZIO, как самостоятельная библиотека без зависимостей. 

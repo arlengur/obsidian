@@ -1,0 +1,6 @@
+- mean, meant, meant ^17cb72
+- seek, sought, sought ^05691b
+- hear, heard, heard
+- laugh, laughed, laughed
+- feel, felt, felt
+- break, broke, broken

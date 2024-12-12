@@ -471,3 +471,30 @@ internal systems.
 - Используйте запятую, когда "nor" отделяет главное предложение (придаточное предложение - эта та часть предложения, которая без главного предложения неполноценна и непонятна)
 	- No one knew the answer, nor did they make a guess
 
+# Complex Object
+- to see
+	- I saw him do the work. Я видел, что он сделал работу.
+	- I saw him doing the work. Я видел, как он делал работу.
+- to watch
+	- He watched her read the letter. Он видел, как она прочитала письмо.
+	- He watched her reading the letter. Он видел, как она читала письмо
+- to notice
+	- They noticed me leave the house. Они заметили, что я вышел из дома.
+	- They noticed me leaving the house. Они заметили, как я выходил из дома.
+- to feel
+	- We felt the wind blow. Мы почувствовали, что подул ветер.
+	- We felt the wind blowing. Мы почувствовали, как подул ветер.
+- to hear
+	- I heard him come up the stairs. Я слышал, как он поднялся по лестнице.
+	- I heard him coming up the stairs. Я слышал, как он поднимался по лестнице.
+- to listen (to)
+	- We listened to him sing the song. Мы слушали, как он спел песню.
+	- We listened to him singing the song. Мы слушали, как он пел песню.
+
+# Give an advice
+- You should + V0
+- It would be a good idea if you V2
+- If I were you I would + V0
+- You (had) better + V0
+- It's time you + V2
+- Why don't you + V0

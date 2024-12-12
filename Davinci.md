@@ -1,4 +1,4 @@
-	Lessons https://www.youtube.com/c/TimesaverVFX/playlists
+Lessons https://www.youtube.com/c/TimesaverVFX/playlists
 
 Ниламбара:
 - Лого: 846x-291x0.17

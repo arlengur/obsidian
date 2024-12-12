@@ -1,7 +1,13 @@
+
 Сброс параметров контроллера управления системой (SMC)
 - Одновременно нажмите клавиши Shift, Control и Option и, не отпуская их, нажмите кнопку питания.
 - Отпустите клавиши и еще раз нажмите кнопку питания, чтобы включить ноутбук Mac.
 
+# Shortcuts
+```
+Ctrl+A - jump to the beginning of a line inside the OS X terminal
+Ctrl+E - jump to the end of a line inside the OS X terminal
+```
 # Мониторинг системы
 ```
 top -o cpu
@@ -27,6 +33,11 @@ base64 <<< string
 base64 -i filename
 
 base64 -d <<< string
+```
+
+# find location
+```
+where scala
 ```
 ## Path 
 .zshrc
@@ -105,4 +116,69 @@ tar -zxf LotsOfFiles.tgz // unpack tgz
 Найти JAVA_HOME
 ```
 java -XshowSettings:properties -version 2>&1 > /dev/null | grep 'java.home'
+```
+
+SSH
+```
+ssh-keygen # generate ssh key
+
+cat ~/.ssh/id_rsa.pub | pbcopy # copy key to clipboard
+```
+
+# Java install
+```
+$ curl -C - https://download.java.net/java/ga/jdk11/openjdk-11_osx-x64_bin.tar.gz -O openjdk-11_osx-x64_bin.tar.gz
+$ tar xf openjdk-11_osx-x64_bin.tar.gz
+$ sudo mv jdk-11.jdk /Library/Java/JavaVirtualMachines/
+$ java -version
+
+
+curl https://download.java.net/java/ga/jdk11/openjdk-11_osx-x64_bin.tar.gz \
+ | tar -xz \
+ && sudo mv jdk-11.jdk /Library/Java/JavaVirtualMachines \
+ && java -version
+
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-17.0.12.jdk/Contents/Home
+
+alias java11='export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home'
+alias java17='export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-17.0.12.jdk/Contents/Home'
+
+Check installed java:
+/usr/libexec/java_home -V
+
+Check location sertain version:
+/usr/libexec/java_home -v 17
+
+Switch between several java: add function to ~/.zshrc:
+jdk() {
+    version=$1
+    export JAVA_HOME=$(/usr/libexec/java_home -v"$version");
+    java -version
+}
+
+and switch with: jdk 11
+```
+
+```
+# Scala install
+
+https://www.scala-lang.org/download/
+
+curl -fL https://github.com/VirtusLab/coursier-m1/releases/latest/download/cs-aarch64-apple-darwin.gz | gzip -d > cs && chmod +x cs && (xattr -d com.apple.quarantine cs || true) && ./cs setup
+
+location scala & sbt:
+/Users/agalin/Library/Application Support/Coursier/bin/scala
+```
+
+Telnet
+```
+www.gnu.org/software/inetutils
+Download "inetutils-1.9.4.tar.gz"
+cd inetutils-1.9.4
+./configure
+make
+sudo make install
+
+telnet rainmaker.wunderground.com
 ```

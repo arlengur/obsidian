@@ -138,5 +138,3 @@ It could've been me - Это мог быть я.
 We could've been friends - Мы могли бы быть друзьями.
 
 We could be friends - мы могли бы быть друзьями (предложение)
-
-i nearly forgot - я чуть не забыл

@@ -20,6 +20,16 @@ test:testOnly <path.to.Test> or \*Test // run single test
 project <pr name> // switch to current progect
 ```
 
+~/.sbt/repositories
+```
+[repositories]
+local
+Maven-Central: https://maven.osmp.ru/nexus/content/repositories/central
+QIWI-Public-Repo: https://maven.osmp.ru/nexus/content/groups/public
+QIWI-Releases-Repo: https://maven.osmp.ru/nexus/content/repositories/releases
+QIWI-Snapshots-Repo: https://maven.osmp.ru/nexus/content/repositories/snapshots
+```
+
 build.sbt
 ```
 scalaVersion := "2.13.8"
@@ -83,6 +93,10 @@ java -jar core-assembly-1.0.jar
 resolvers += "Repository Manager" at "https://artifacts.wavesenterprise.com/repository/we-releases"
 // or resolvers ++= Seq("Repository Manager" at "https://artifacts.wavesenterprise.com/repository/we-releases")
 
+## Run test
+```
+sbt "testOnly *KafkaConsumerComponentTest"
+```
 ## Custom task
 Создать CustomTask.scala:
 ```

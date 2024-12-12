@@ -8,39 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8e3ec67f1c9c9937",
+            "id": "90f2288f6a5ce6f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИСККОН/Основные молитвы.md",
+                "file": "ИСККОН/Шастра-чакшуш.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Шастра-чакшуш"
             }
           },
           {
-            "id": "e22ebcf2ee03dc8b",
+            "id": "db8b6c93cbdbdba8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИСККОН/Вишну-сахасранама.md",
+                "file": "ИСККОН/Slokas.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Slokas"
             }
           },
           {
-            "id": "948fcef18d6a6ae7",
+            "id": "1324408a9f7ef655",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заметки.md",
+                "file": "ИСККОН/Шастра-чакшуш.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Шастра-чакшуш"
+            }
+          },
+          {
+            "id": "ff6aedef93179df5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ИСККОН/Bhakti Rasamrita Sindhu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bhakti Rasamrita Sindhu"
             }
           }
         ]
@@ -65,7 +85,9 @@
                 "file": "ИСККОН/Вишну-сахасранама.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Вишну-сахасранама"
             }
           },
           {
@@ -75,7 +97,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -84,13 +108,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "conceal",
+                "query": "\"principal",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -98,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ],
@@ -122,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ИСККОН/Основные молитвы.md",
+                "file": "Waves/Rest ручки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +158,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Rest ручки"
             }
           },
           {
@@ -139,10 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ИСККОН/Основные молитвы.md",
+                "file": "Waves/Rest ручки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Rest ручки"
             }
           },
           {
@@ -153,7 +185,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -162,8 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ИСККОН/Основные молитвы.md"
-              }
+                "file": "ИСККОН/Шастра-чакшуш.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Шастра-чакшуш"
             }
           },
           {
@@ -175,7 +211,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -183,8 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,34 +233,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e3ec67f1c9c9937",
+  "active": "90f2288f6a5ce6f8",
   "lastOpenFiles": [
-    "Dev/FP.md",
-    "ИСККОН/Основные молитвы.md",
-    "ИСККОН/Бхакти-веданта.md",
-    "ИСККОН/Вишну-сахасранама.md",
-    "Заметки.md",
-    "English/Vocab.md",
-    "Microservices.md",
-    "Dev/Haskell.md",
-    "ИСККОН/Мриданга.md",
-    "Davinci.md",
-    "Dev/ZIO/ZIO.md",
-    "Форум.md",
-    "Симпозиум.md",
-    "ДЮШС.md",
-    "Waves/Гитлаб.md",
-    "ИСККОН/Slokas.md",
-    "Dev/Scala.md",
-    "Dev/Akka.md",
-    "ИСККОН/Бхакта-програм.md",
-    "Dev/FP course.md",
-    "Многопоточность.md",
     "Рецепты.md",
-    "Dev/VsCode.md",
-    "Untitled.md",
+    "English/Vocab.md",
+    "ИСККОН/Книги.md",
+    "ИСККОН/Slokas.md",
+    "Qiwi/Заметки.md",
+    "ИСККОН/Шастра-чакшуш.md",
+    "ИСККОН/Bhakti Rasamrita Sindhu.md",
+    "ИСККОН/Мриданга.md",
+    "Qiwi/Watching.md",
+    "ИСККОН/Обзор структуры Ведического знания.md",
+    "Qiwi/MessageDataGenerator.md",
+    "Nilambara.md",
+    "ИСККОН/Основы философии и духовной практики СК.md",
+    "ИСККОН/Links.md",
+    "ИСККОН/Заметки разные.md",
+    "Qiwi/Cassandra.md",
+    "Qiwi/code.md",
+    "ИСККОН/Бхакта-програм.md",
+    "ИСККОН/Правовые основы распространения книг.md",
+    "ИСККОН/Бхакти-веданта.md",
     "English/Grammar.md",
-    "English/Film genres.md",
+    "English/Irregular verbs.md",
+    "English/English.md",
+    "Заметки.md",
+    "Dev/Scala.md",
+    "Qiwi/Makefile.md",
+    "Qiwi",
     "Resources/type_hierarhy_hs.png",
     "Resources/sql_joins.png",
     "Resources/arcwww.png",
@@ -243,7 +281,6 @@
     "Waves",
     "Dev/Cats effects",
     "Dev/ZIO",
-    "Untitled.canvas",
-    "Resources"
+    "Untitled.canvas"
   ]
 }

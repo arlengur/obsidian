@@ -18,10 +18,10 @@
 The Easten Section
 Defining the Different Types of Pure Bhakti
 
-The First Wave Concerning An Overview of Bhakti 
+# The First Wave Concerning An Overview of Bhakti 
 In the Easten Section of Bhakti-rasamrita-sindhu
 
-1.1.1 ☀
+## 1.1.1 ☀
 akhila-rasamrita-murtih prasrimara-ruci-ruddha-taraka-palih
 kalita-syama-lalito radha-preyan vidhur jayati
 
@@ -106,7 +106,7 @@ laksanam kriyate bhakter uttamayah satam matam
 
 In the first wave of chapter, in order to describe clearly the superiority of bhakti to other processes, the unique characteristics of uttama-bhakti will be related, as approved by the acaryas.
 
-1.1.11 ☀
+## 1.1.11 ☀
 anyabhilasita sunyam
 jnana karmady anavritam |
 anukulyena krisnanu
@@ -148,7 +148,7 @@ VCT:
 Adi indicates engaging in sacrifices, renunciation, yoga, sankhya and other such items.
 Anavritam forbid only those types of jnana and karma, which conceal bhakti.
 
-1.1.12 ☀
+## 1.1.12 ☀
 yatha sri-narada-pancaratre - 
 savopadhi-vinirmuktam tat-paratvena nirmalam |
 hrisikena hrisikesa-sevanam bhaktir ucyate ||
@@ -177,7 +177,7 @@ bhakter visuddhata-vyaktya laksane paryavasyati ||
 
 The description of the excellence of the devotee in the above verse amounts to describing the characteristics of bhakti by revealing its purity.
 
-1.1.17 ☀
+## 1.1.17 ☀
 klesaghni subhada moksa-laghuta-krit sudurlabha |
 sandrananda-visesatma sri-krisnakarsini ca sa ||
 
@@ -220,7 +220,7 @@ durjaty-arambhakam papam yat syat prarabdham eva tat ||
 
 It was understood that the low birth of the dog-eater is the cause of his disqualification for performing sacrifices. The sinful reaction by which he attains such low birth in this life is called the prarabdha sin.
 
-1.1.23 ☀
+## 1.1.23 ☀
 padma-purane ca -
 aprarabdha-phalam papam kutam bijam phalonmukham |
 kramenaiva praliyeta visnu-bhakti-ratatmanam ||
@@ -259,7 +259,7 @@ avidyam nidahaty asu dava-jvaleva pannagim ||26
 Padma Purana says the following:
 As the forest fire burns up a female snake demon, supreme devotion to the Lord quickly burns up avidya completely by the knowledge (vidya) which accompanies bhakti.
 
-1.1.27 ☀
+## 1.1.27 ☀
 subhadatvam -
 subhani prinanam sarva-jagatam anuraktata |
 sad-gunah sukham ity-adiny akhyatani manisibhih ||27
@@ -422,7 +422,7 @@ abhiyuktatarair anyair anyathaivopapadyate || 46
 Concerning this topic it is said by the ancient authorities:
 A person more skillful at logic can bring about a conclusion different from what was carefully proven previously by another skillful logical.
 
-The Second Wave Concerning Sadhana-bhakti 
+# The Second Wave Concerning Sadhana-bhakti 
 In the Easten Section of Bhakti-rasamrita-sindhu
 
 1.2.1
@@ -432,7 +432,7 @@ There are three types of bhakti: sadhana, bhava and prema.
 
 Sadhya-rupa or harda-rupa-bhakti has five types: bhava, prema, pranaya, sneha and raga. In Ujjvala-nila-mani, three more types are mentioned: mana, anuraga and maha-bhava.
 
-1.2.2
+## 1.2.2
 tatra sadhana bhaktih -
 kriti-sadhya bhavet sadhya-bhava sa sadhanabhidha |
 nitya-siddhasya bhavasya prakatyam hridi sadhyata || 2
@@ -457,7 +457,7 @@ vaidhi raganuga ceti sa dvidha sadhanabhidha || 5
 
 There are two types of sadhana-bhakti: vaidhi and raganuga.
 
-1.2.6 ☀
+## 1.2.6 ☀
 tatra vaidhi -
 yatra raganavaptatvat pravrittir upajayate |
 sasanenaiva sastrasya sa vaidhi bhaktir ucyate  || 6
@@ -465,7 +465,7 @@ sasanenaiva sastrasya sa vaidhi bhaktir ucyate  || 6
 Now, here is the definition of vaidhi-bhakti:
 Where the actions of bhakti arise, not from the attainment of raga, but by the teachings of scriptures, it is called vaidhi-bhakti.
 
-1.2.7
+## 1.2.7 ☀ (3 main among 64 angas)
 yatha, dvitiye (2.1.5) -
 tasmad bharata sarvatma bhagavan isvaro harih  |
 srotavyah kirtitavyas ca smartavyas cechatabhayam || 7
@@ -473,7 +473,7 @@ srotavyah kirtitavyas ca smartavyas cechatabhayam || 7
 This is illustrated in the Second Canto:
 O descendant of King Bharata, one who desires to be free from all miseries must hear about, glorify and also remember the Personality of Godhead, who is the Supersoul, the controller and the savior from all miseries. SB 2.1.5
 
-1.2.8 ☀
+## 1.2.8 ☀ (smartavyah satatam)
 padme ca -
 smartavyah satatam visnur vismartavyo na jatucit  |
 sarva-vidhi-nisedhah syur etayor eva kinkarah || 8
@@ -506,7 +506,7 @@ arcann ubhyatah siddhim matto vindaty abhipsitam || 12
 The results of vaidhi-bhakti are stated:
 By worshiping Me through the various methods prescribed in the Vedas and tantras, one will gain from Me his desired perfection both in this life and the next. SB 11.27.49
 
-1.2.13 ☀
+## 1.2.13 ☀
 pancaratre ca -
 surarse vihita sastre harim uddisya ya kriya  |
 saiva bhaktir iti prokta taya bhaktih para bhavet  || 13
@@ -516,7 +516,7 @@ O Devarsi, all activities prescribed in the scriptures with the Lord as the obje
 
 Chapter 3
 
-1.2.14
+## 1.2.14 ☀
 tatra adhikari -
 yah kenapy atibhagyena jata-sraddho 'sya sevane |
 natisakto na vairagya-bhag asyam adhikary asau  || 14
@@ -524,7 +524,7 @@ natisakto na vairagya-bhag asyam adhikary asau  || 14
 The qualified person is described as follows:
 The person who has developed faith in serving the Lord by impressions arising from previous association with devotees, who is not too attached to material objects, and who is not too detached, is qualified for vaidhi-bhakti.
 
-1.2.15 ☀ 
+## 1.2.15 ☀ 
 yathaikadase -
 yadricchaya mat-kathadau jata-sraddho 'stu yah puman |
 na nirvinno natisakto bhakti-yogo 'sya siddhidah || 15
@@ -537,7 +537,7 @@ uttamo madhyamas ca syat kanisthas ceti sa tridha  || 16
 
 There are three types of persons qualified for vaidhi-sadhana-bhakti: the uttama, the madhyama and the kanistha.
 
-1.2.17
+## 1.2.17 (uttamadhikari)
 tatra uttamah - 
 sastre yuktau ca nipunah sarvatha dridha-niscayah |
 praudha-sraddho 'dhikari yah sa bhaktav uttamo matah || 17
@@ -545,14 +545,25 @@ praudha-sraddho 'dhikari yah sa bhaktav uttamo matah || 17
 The uttamadhikari is defined as follows:
 The person who is skilful in scripture and logic, completely firm in his belief, with deep faith, is considered qualified as uttama in vaidhi-bhakti.
 
-1.2.18
+## 1.2.18 (madhyamadhikari)
 tatra madhyamah -
 yah sastradisv anipunah sraddhavan sa tu madhyamah || 18
 
 The madhyamadhikari is defined as follows:
 The person who is not fully conversant with scriptures like the uttamadhikari but has firm conviction in them is known as the madhyamadhikari.
 
-1.2.19
+## 1.2.74 ☀
+atha angani -
+guru-padasrayas tasmat krisna-diksadi-siksanam |
+visrambhena guroh seva sadhu-vartmanuvartanam || 74
+
+The list of angas is as follows:
+1. Taking shelter of guru; 
+2. then after (or accompanied by) initiation, acquiring knowledge; 
+3. service to guru with respect; 
+4. following the rules according to the scriptures as approved by the acaryas.
+
+## 1.2.19 (kanisthadhikari)
 tatra kanisthah -
 yo bhavet komala-sraddhah sa kanistho nigadyate || 19
 
@@ -877,6 +888,9 @@ rasenotkrisyate krisna-rupam esa rasa-sthitih || 59
 
 Though the forms of Visnu and Krisna are non-different according to the statement of scriptures, Krisna’s form is shown to be superior because of His rasas, which are endowed with the highest type of prema. The very nature of His rasas shows Krisna’s form to be superior.
 
+priya-narma-sakhas:
+- Subala, Arjuna, Gandharva, Vasanta and Ujjvala
+
 Chapter 5: purity of devotional service
 
 1.2.60
@@ -903,7 +917,7 @@ samprapya vaisnavim diksam diksita iva sambabhuh || 62
 In the Kasi-khanda it is said:
 In that country, the outcastes, receiving Vaisnava initiation, wearing the marks of the conch and disk, shine like sacrificial priests.
 
-1.2.63-4
+## 1.2.63-4
 apl ca -
 ananusthanato doso bhakty-anganam prajayate |
 na karmanam akaranad esa bhakty-adhikarinam || 63
@@ -911,7 +925,7 @@ nisiddhacarato daivat prayascittam tu nocitam |
 iti vaisnava-sastranam rahasyam tad-vidam matam | 64
 
 And, moreover, it is said:
-The person qualified for bhakti is at fault for failing to perform all of the important angas of bhakti. But he is not at fault for failing to perform the duties of varna and asrama. If he, by chance, happens to commit some sin, there is no atonement prescribed for him. This is the opinion of those who know the secret of Vaisnava scriptures.
+The person qualified for bhakti is at fault for failing to perform all of the important angas of bhakti. But he is not at fault for failing to perform the duties of varna and asrama. If he, by chance, happens to commit some sin, there is no atonement prescribed for him. This is the opinion of those who know the secret of Vaisnava scriptures. (related SB 11.5.42)
 
 1.2.65
 yatha ekadase -
@@ -920,6 +934,8 @@ viparyas tu dosah syad ubhayor esa niscayah || 65
 
 Thus, in the Eleventh Canto it is said:
 Steadiness in one’s own position is declared to be actual piety, whereas deviation from one’s position is considered impiety. In this way the two are definitely ascertained. SB 11.21.2
+
+One who has thus given up all other engagements and has taken full shelter at the lotus feet of Hari, the Supreme Personality of Godhead, is very dear to the Lord. Indeed, if such a surrendered soul accidentally commits some sinful activity, the Supreme Personality of Godhead, who is seated within everyone’s heart, immediately takes away the reaction to such sin. SB 11.5.42
 
 1.2.66
 prathame -
@@ -965,7 +981,7 @@ tatha na sprisato ramopasakam vidhi-purvakam || 70
 In the Agastya-samhita it is said:
 Just as the rules and prohibitions of the smriti scriptures do not approach a liberated person, the rules and prohibitions applicable to vaidika or tantrika worship also do not touch the worshipper of Rama.
 
-1.2.71 ☀
+## 1.2.71 ☀
 ekadase eva -
 sva-pada-mulam bhajatah priyasya
 tyaktanya-bhavasya harih paresah |
@@ -983,7 +999,7 @@ kintu tani prasiddhani nirdisyante yathamati || 72
 
 In the Hari-bhakti-vilasa innumerable angas of bhakti are mentioned. Among those, the most famous ones will be explained to the best of my judgment.
 
-1.2.73
+## 1.2.73 (anga)
 atra anga-laksanam -
 asritavantaraneka-bhedam kevalam eva va |
 ekam karmatra vidvadhir ekam bhakty-angam ucyate || 73
@@ -991,20 +1007,9 @@ ekam karmatra vidvadhir ekam bhakty-angam ucyate || 73
 In bhakti, the characteristics of an anga are as follows:
 The learned define an anga of bhakti as a complex of devotional actions with internal divisions or only one action of bhakti which does not have clearly defined differences within it.
 
-first ten angas
+# First ten angas
 
-1.2.74 ☀
-atha angani -
-guru-padasrayas tasmat krisna-diksadi-siksanam |
-visrambhena guroh seva sadhu-vartmanuvartanam || 74
-
-The list of angas is as follows:
-1. Taking shelter of guru; 
-2. then after initiation, acquiring knowledge; 
-3. service to guru with respect; 
-4. following the rules according to the scriptures as approved by the acaryas.
-
-1.2.75 ☀
+## 1.2.75 ☀
 sad-dharma-priccha bhogadi-tyagah krisnasya hetave |
 nivaso dvarakadau ca gangader api sannidhau || 75
 
@@ -1012,7 +1017,7 @@ nivaso dvarakadau ca gangader api sannidhau || 75
 6. renunciation of enjoyment to gain Krishna’s mercy; 
 7. residing in Dvaraka or other holy places, or near the Ganga.
 
-1.2.76 ☀
+## 1.2.76 ☀
 vyavaharesu sarvesu yavad-arthanuvartita |
 hari-vasara-sammano dhatry-asvatthadi-gauravam || 76
 
@@ -1025,9 +1030,9 @@ esam atra dasanganam bhavet prarambha-rupata || 77
 
 Preliminary bhakti should consist of these ten angas.
 
-next ten angas
+# Next ten angas
 
-1.2.78-82 ☀
+## 1.2.78-82 ☀
 sanga-tyago vidurena bhagavad-vimukhair janaih |
 sisyady-ananuvbandhitvam maharambhady-anudyamah || 78
 
@@ -1050,7 +1055,9 @@ vyatirekatayamisam dasanam syad anusthitih || 82
 17. not showing disrespect to devatas; 
 18. not giving disturbance to other living beings; 
 19. not commiting of seva-aparadha or nama-aparadha; 
-20. not tolerating the criticism of Krisna and His devotees by those who hate them. These ten angas should be observed by avoidance.
+20. not tolerating the criticism of Krisna and His devotees by those who hate them. 
+
+These ten angas should be observed by avoidance.
 
 1.2.83
 asyas tatra pravesaya dvaratve 'py anga-vimsateh |
@@ -1058,77 +1065,79 @@ trayam pradhanam evoktam guru-padasrayadikam || 83
 
 These twenty angas serve as the door for entering bhakti. The first three angas - taking shelter of the feet guru, receiving teachings after initiation, and serving the guru with respect - are said to be the principal ones.
 
-1.2.84-92
-dhritir vaisnava-cihnanam harer namaksarasya  ca |
-nirmalyades ca tasyagre tandavam dandavan-natih || 84
+# Last 44 angas
 
-abhyutthanam anuvrajya gatih sthane parikramah |
-arcanam paricarya ca gitam sankirtanam japah || 85
+## 1.2.84-92 ☀
+dhṛtir vaiṣṇava-cihṇānāṁ harer nāmākṣarasya ca |
+nirmālyādeś ca tasyāgre tāṇḍavaṁ daṇḍavan-natiḥ ||84||
 
-vijnaptih stava-pathas ca svado naivedya-padyayoh |
-dhupa-malyadi-saurabhyam sri-murteh spristir iksanam || 86
+abhyutthānam anuvrajyā gatiḥ sthāne parikramaḥ |
+arcanaṁ paricaryā ca gītaṁ saṅkīrtanaṁ japaḥ ||85||
 
-aratrikotsavades ca sravanam tat-kripeksanam |
-smritir dhyanam tatha dasyam sakhyam atma-nivedanam || 87
+vijñaptiḥ stava-pāṭhaś ca svādo naivedya-pādyayoḥ |
+dhūpa-mālyādi-saurabhyaṁ śrī-mūrteḥ spṛṣṭir īkṣaṇam ||86||
 
-nija-priyopaharanam tad-arthe 'khila-cestitam |
-sarvatha saranapattis tadiyanam ca sevanam || 88
+ārātrikotsavādeś ca śravaṇaṁ tat-kṛpekṣaṇam |
+smṛtir dhyānaṁ tathā dāsyaṁ sakhyam ātma-nivedanam ||87||
 
-tadiyas tulasi-sastra-mathura-vaisnavadayah |
-yatha-vaibhava-samagri sad-gosthibhir mahotsavah || 89
+nija-priyopaharaṇaṁ tad-arthe ’khila-ceṣṭitam |
+sarvathā śaraṇāpattis tadīyānāṁ ca sevanam ||88||
 
-urjadaro visesena yatra janma-dinadisu |
-sraddha visesatah pritih sri-murter anghri-sevane || 90
+tadīyās tulasī-śāstra-mathurā-vaiṣṇavādayaḥ |
+yathā-vaibhava-sāmagrī sad-goṣṭhībhir mahotsavaḥ ||89||
 
-srimad-bhagavatarthanam asvado rasikaih saha |
-sajatiyasye snigdhe sadhau sangah svato vare || 91
+ūrjādaro viśeṣeṇa yātrā janma-dinādiṣu |
+śraddhā viśeṣataḥ prītiḥ śrī-mūrter aṅghri-sevane ||90||
 
-nama-sankirtanam sri-mathura-mandale sthitih || 92
+śrīmad-bhāgavatārthānām āsvādo rasikaiḥ saha |
+sajātīyāśaye snigdhe sādhau saṅgaḥ svato vare ||91||
 
-marking the body with the Vaisnava symbols
-marking the body with the syllables of the Lord’s names
-wearing the garlands, flowers and sandalwood offered to the deity
-dancing before the deity
-offering respects on the ground
-rising up to see the Lord
-following behind the Lord’s procession
-going to the Lord’s residence
-circumambulating the Lord or His dhama
-performing arcana
-performing menial service to the deity
-singing for the deity
-singing in a group
-performing japa
-offering words or sentiments
-reciting prayers
-tasting food offered to the Lord
-tasting the foot water of the Lord
-smelling the incense and flowers offered to the Lord
-touching the deity
-seeing the deity
-seeing the aratrika and festivals
-hearing the name, form, qualities and pastimes of the Lord
-accepting the mercy of the Lord
-remembrance of the Lord
-meditating on the Lord
-acting as a servant of the Lord
-thinking of the Lord as a friend
-offering oneself to the Lord
-offering the best items to the Lord
-making full efforts for the Lord
-surrendering to the Lord
-serving tulasi
-studying the scriptures
-living in Mathura
-serving the devotees
-holding festivals according one’s means with the devotees
-observing Kartika vrata
-observing Janmastami and other special occasions
-*having faith and great affection for serving the deity
-*relishing Bhagavatam in association of devotees
-*associating with like-minded, affectionate, superior devotees
-*nama-sankirtana
-*living in the area of Mathura
+nāma-saṅkīrtanaṁ śrī-mathurā-maṇḍale sthitiḥ ||92||
+
+1. marking the body with the Vaisnava symbols
+2. marking the body with the syllables of the Lord’s names
+3. wearing the garlands, flowers and sandalwood offered to the deity
+4. dancing before the deity
+5. offering respects on the ground
+6. rising up to see the Lord
+7. following behind the Lord’s procession
+8. going to the Lord’s residence
+9. circumambulating the Lord or His dhama
+10. performing arcana
+11. performing menial service to the deity
+12. singing for the deity
+13. singing in a group
+14. performing japa
+15. offering words or sentiments
+16. reciting prayers
+17. tasting food offered to the Lord
+18. tasting the foot water of the Lord
+19. smelling the incense and flowers offered to the Lord
+20. touching the deity
+21. seeing the deity
+22. seeing the aratrika and festivals
+23. hearing the name, form, qualities and pastimes of the Lord
+24. accepting the mercy of the Lord
+25. remembrance of the Lord
+26. meditating on the Lord
+27. acting as a servant of the Lord
+28. thinking of the Lord as a friend
+29. offering oneself to the Lord
+30. offering the best items to the Lord
+31. making full efforts for the Lord
+32. surrendering to the Lord
+33. serving tulasi
+34. studying the scriptures
+35. living in Mathura
+36. serving the devotees
+37. holding festivals according one’s means with the devotees
+38. observing Kartika vrata
+39. observing Janmastami and other special occasions
+40. having faith and great affection for serving the deity
+41. relishing Bhagavatam in association of devotees
+42. associating with like-minded, affectionate, superior devotees
+43. nama-sankirtana
+44. living in the area of Mathura
 
 1.2.93-96
 anganam pancakasyasya purvam vilikhitasya ca |
@@ -1144,7 +1153,7 @@ The last five items were mentioned previously. They have been again mentioned to
 
 Chapter 7 justification of the principles of devotional service
 
-1.2.97
+1.2.97 ☀
 1. tatra guru-padasrayo, yatha ekadase - 
 tasmad gurum prapadyeta jijnasuh sreya uttamam |
 sabde pare ca nisnatam brahmany upasamasrayam || 97
@@ -1159,7 +1168,7 @@ amayayanuvrittya yais tusyed atmatma-do harih || 98
 Acquiring knowledge after initiation (verse 74), also from the Eleventh Canto:
 Accepting the bona fide spiritual master as one’s life and soul and worshipable deity, the disciple should learn from him the process of pure bhakti by sincere service. By that pure bhakti the Lord, the supreme soul, will be satisfied, and give Himself that devotee. SB 11.3.22
 
-1.2.99
+1.2.99 ☀
 3. visrambhena guroh seva, yatha tatraiva -
 acaryam mam vijaniyan navamanyeta karhicit |
 na martya-buddhyasuyeta sarva-deva-mayo guruh || 99
@@ -1175,7 +1184,7 @@ anavaptasramam purve yena santah pratasthire || 100
 Following the scriptural rules (verse 74), from the Skanda Purana:
 One should follow the scriptural rules which give the highest benefit and are devoid of hardship, by which the previous devotees easily progressed.
 
-1.2.101 ☀
+## 1.2.101 ☀
 brahma-yamale ca -
 sruti-smriti-puranadi-pancaratra-vidhim vina |
 aikantiki harer bhaktir utpatayaiva kalpate || 101
@@ -1205,7 +1214,7 @@ visnu-loka-sthita sampad-alola sa pratiksate || 104
 Renouncing enjoyment for pleasing Krishna (verse 75), from Padma Purana:
 When you give up enjoyable objects at the time of enjoying, aiming to the pleasure to the Lord, the permanent wealth situated in Vishnu-loka awaits you.
 
-1.2.105
+1.2.105 ☀
 7. dvarakadi-nivaso, yatha skande -
 samvatsaram va sanmasan masam masardham eva va |
 dvaraka-vasinah sarve nara naryas caturbhujah || 105
@@ -1213,7 +1222,7 @@ dvaraka-vasinah sarve nara naryas caturbhujah || 105
 Living in Dvaraka or other holy places (verse 75), from the Skanda Purana:
 Anyone who lives in Dvaraka for one year, six month, one month or even half a month, whether man or woman, attains a four-handed form in the spiritual sky.
 
-1.2.106
+1.2.106 ☀
 adi-padena purusottama-vass ca, yatha brahme -
 aho ksetrasya mahatmyam samantad dasa-yojanam |
 divistha yatra pasyanti sarvan eva caturbhujan || 106
@@ -1322,7 +1331,7 @@ vaisnavena sada te tu varjaniyah prayatnatah || 118
 Avoiding seva and nama aparadhas (verse 81), illustrated in the Varaha Purana:
 The devotees should avoid the offenses in deity worship described by Me, O earth, at all times and with great care.
 
-1.2.119-120
+## 1.2.119-120 ☀
 padme ca-
 sarvaparadha-krid api mucyate hari-samsrayah |
 harer apy aparadhan yah kuryad dvipada-pamsavah || 119
@@ -1334,95 +1343,95 @@ This is also described in the Padma Purana:
 A person who commits all offenses is freed from all those offenses by taking complete shelter of Hari. But the two-legged animal who commits offense against Hari is freed from those offenses by taking shelter of Hari’s name. However, though the name is the friend of all, by committing an offense against the name, a person falls to the lower regions.
 
 Sevaparadhas from the Varaha and Padma Puranas:
-Entering the Lord’s temple in a palanquin or with shoes
-Not observing the festivals of the deity
-Not offering obeisance in front of the Lord
-Offering prayers to the Lord in an unclean state or after having eaten, without washing properly
-Offering respects with one hand
-Circumambulating in front of the Lord
-Spreading the legs in front of the deity
-Clasping the hands on the knees in front of the deity
-Lying down in front of the deity
-Eating in front of the deity
-Telling lies in front of the deity
-Speaking loudly in front of the deity
-Gossiping in front of the deity
-Crying in front of the deity
-Quarrelling in front of the deity
-Fighting in front of the deity
-Thanking others in front of the deity
-Saying cruel words in front of the deity
-Covering oneself with a blanket in front of the deity
-Criticizing others in front of the deity
-Praising others in front of the deity
-Using vulgar language in front of the deity
-Passing air in front of the deity
-Offering less items when capable of offering more
-Eating food without offering it
-Not offering season fruits to the deity
-Offering the deity what is offered already to someone else
-Sitting with one’s back to the deity
-Addressing others in front of the deity
-Praising oneself in front of the deity
-Being silent in front of the guru
-Criticizing the deity
+1. Entering the Lord’s temple in a palanquin or with shoes
+2. Not observing the festivals of the deity
+3. Not offering obeisance in front of the Lord
+4. Offering prayers to the Lord in an unclean state or after having eaten, without washing properly
+5. Offering respects with one hand
+6. Circumambulating in front of the Lord
+7. Spreading the legs in front of the deity
+8. Clasping the hands on the knees in front of the deity
+9. Lying down in front of the deity
+10. Eating in front of the deity
+11. Telling lies in front of the deity
+12. Speaking loudly in front of the deity
+13. Gossiping in front of the deity
+14. Crying in front of the deity
+15. Quarrelling in front of the deity
+16. Fighting in front of the deity
+17. Thanking others in front of the deity
+18. Saying cruel words in front of the deity
+19. Covering oneself with a blanket in front of the deity
+20. Criticizing others in front of the deity
+21. Praising others in front of the deity
+22. Using vulgar language in front of the deity
+23. Passing air in front of the deity
+24. Offering less items when capable of offering more
+25. Eating food without offering it
+26. Not offering season fruits to the deity
+27. Offering the deity what is offered already to someone else
+28. Sitting with one’s back to the deity
+29. Addressing others in front of the deity
+30. Praising oneself in front of the deity
+31. Being silent in front of the guru
+32. Criticizing the deity
 
 In the Varaha Purana other offenses which are found are listed in summary:
-Eating a king’s food
-Touching the deity in the dark
-Approaching the deity without proper rules
-Opening the deity door without the sound of music or a bell
-Gathering food offerings seen by a dog
-Breaking the silence during worship
-Going to pass stool during the worship
-Offering incense without having first offered gandha, garlands and other items
-Worshipping the deity with forbidden flowers
+1. Eating a king’s food
+2. Touching the deity in the dark
+3. Approaching the deity without proper rules
+4. Opening the deity door without the sound of music or a bell
+5. Gathering food offerings seen by a dog
+6. Breaking the silence during worship
+7. Going to pass stool during the worship
+8. Offering incense without having first offered gandha, garlands and other items
+9. Worshipping the deity with forbidden flowers
 
 As well as this, there are the following offenses listed in the Varaha Purana:
-Worshipping the deity without having brushed one’s teeth
-Worshipping after touching a woman in menstrual period, a lamp or a dead body
-Wearing red cloth, blue cloth, unwashed cloth, soiled cloth or another person’s cloth
-Worshipping the deity after seen a dead body
-Passing air before the deity
-Worshipping after showing anger
-Worshipping after visiting the crematorium
-Worshipping with undigested food in the stomach
-Worshipping after eating pork, duck or hing, or kusumbha leaves
-Touching the deity after taking an oil bath
+1. Worshipping the deity without having brushed one’s teeth
+2. Worshipping after touching a woman in menstrual period, a lamp or a dead body
+3. Wearing red cloth, blue cloth, unwashed cloth, soiled cloth or another person’s cloth
+4. Worshipping the deity after seen a dead body
+5. +Passing air before the deity
+6. Worshipping after showing anger
+7. Worshipping after visiting the crematorium
+8. Worshipping with undigested food in the stomach
+9. Worshipping after eating pork, duck or hing, or kusumbha leaves
+10. Touching the deity after taking an oil bath
 
 Elsewhere it is said:
-Worshipping the Lord without following the Vaisnava scriptures
-Advocating other scriptures
-Chewing tambula in front of the Lord
-Worshipping the Lord with flowers placed on the leaves of the castor oil plant
-Worshipping during inauspicious periods (asura-kala)
-Worshipping the Lord while sitting on the floor or a chair
-Touching the deity with the left hand during bathing
-Worshipping the Lord with withered or flowers obtained by begging
-Spitting during the worship
-Showing arrogance while worshipping
-Wearing horizontal tilaka
-Entering the temple with unwashed feet
-Offering the deity food cooked by a non-vaisnava
-Worshipping within the sight of a non-vaisnava
-Worshipping without first worshipping Vighnesa
-Worshipping after seeing a tantric
-Bathing the deity with water touched by fingernails
-Worshipping while perspiring
+1. Worshipping the Lord without following the Vaisnava scriptures
+2. Advocating other scriptures
+3. Chewing tambula in front of the Lord
+4. Worshipping the Lord with flowers placed on the leaves of the castor oil plant
+5. Worshipping during inauspicious periods (asura-kala)
+6. Worshipping the Lord while sitting on the floor or a chair
+7. Touching the deity with the left hand during bathing
+8. Worshipping the Lord with withered or flowers obtained by begging
+9. Spitting during the worship
+10. Showing arrogance while worshipping
+11. Wearing horizontal tilaka
+12. Entering the temple with unwashed feet
+13. Offering the deity food cooked by a non-vaisnava
+14. Worshipping within the sight of a non-vaisnava
+15. Worshipping without first worshipping Vighnesa
+16. Worshipping after seeing a tantric
+17. Bathing the deity with water touched by fingernails
+18. Worshipping while perspiring
 
 Elsewhere many other offenses are listed such as stepping over the used garlands and flowers, and cursing or scolding the deity.
 
 The offenses against the name found in the Padma Purana:
-Criticism of devotees
-Considering the names of Siva and others independent of Visnu
-Disrespect to the guru
-Criticizing the Vedas and scriptures following the Vedas
-Thinking the glories of the Name as exaggeration
-Giving some other meaning to the Name
-Commiting sins on the strength of the Name
-Considering the Name as equivalent of other auspicious actions
-Teaching the Name to the faithless
-Having no attraction to the Name though hearing its glories
+1. Criticism of devotees
+2. Considering the names of Siva and others independent of Visnu
+3. Disrespect to the guru
+4. Criticizing the Vedas and scriptures following the Vedas
+5. Thinking the glories of the Name as exaggeration
+6. Giving some other meaning to the Name
+7. Commiting sins on the strength of the Name
+8. Considering the Name as equivalent of other auspicious actions
+9. Teaching the Name to the faithless
+10. Having no attraction to the Name though hearing its glories
 
 Chapter 9
 
@@ -1444,7 +1453,7 @@ te vaisnava bhuvanam asu pavitrayanti || 122
 Wearing the marks of the Vaisnava (verse 84), shown in the Padma Purana:
 Those Vaisnavas who have tulasi beads, lotus seed beads and japa beads around their necks, who have their shoulders marked with the signs of conch and cakra, and who have tilaka on their foreheads quickly purify the earth.
 
-1.2.123
+## 1.2.123
 22. namaksara-dhritih, yatha skande -
 hari-namaksara-yutam bhale gopi-mridankitam |
 tulasi-malikoraskam spriseyur na yamodbhatah || 123
@@ -1460,7 +1469,7 @@ sa loka-pavano bhutva tasya lokam avapnuyat || 124
 It is said in the Padma Purana as well:
 He who has the syllables of Krishna’s names marked on his body with candana, after purifying this world, attains the planet of the Lord.
 
-1.2.125
+## 1.2.125
 23. nirmalya-dhritih, yatha ekadase -
 tvayopabhukta-srag-gandha-vaso 'lankara-carcitah |
 ucchista-bhojino dasas tava mayam jayema hi || 125
@@ -1468,7 +1477,7 @@ ucchista-bhojino dasas tava mayam jayema hi || 125
 Wearing the garlands used by the Lord (verse 84), shown in the Eleventh Canto:
 Simply by decorating ourselves with the garlands, fragrant oils, clothes and ornaments that You have already enjoyed, and by eating the remnants of Your meals, we, Your servants, will indeed conquer Your illusory energy. SB 11.6.46
 
-1.2.126
+## 1.2.126
 skande ca -
 krisnottirnam tu nirmalyam yasyangam sprisate mune |
 sarva-rogais tatha papair mukto bhavati narada || 126
@@ -1476,7 +1485,7 @@ sarva-rogais tatha papair mukto bhavati narada || 126
 It is also said in the Skanda Purana:
 O sage Narada, whoever touches the garlands offered to Krishna with his body becomes freed from all diseases and all sins.
 
-1.2.127
+## 1.2.127
 24. agre tandavam, yatha dvaraka-mahatmye -
 yo nrityati prahristatma bhavair bahusu bhaktitah |
 sa nirdahati papani manvantara-satesv api || 127
@@ -1484,7 +1493,7 @@ sa nirdahati papani manvantara-satesv api || 127
 Dancing before the deity (verse 84), shown in the Dvaraka-mahatmya:
 He who joyfully dances with many emotions before the Lord burns up sins, which have been committed for the duration of many hundred of manvantara periods.
 
-1.2.128
+## 1.2.128
 tatha sri-naradoktau ca -
 nrityam sri-pater agre talika-vadanair bhrisam |
 uddiyante sarira-sthah sarve pataka-paksinah || 128
@@ -1492,7 +1501,7 @@ uddiyante sarira-sthah sarve pataka-paksinah || 128
 It is also said by Narada:
 All the birds of sin situated in the body fly away for those who dance before the Lord with vigorous clapping of the hands.
 
-1.2.129
+## 1.2.129
 25. dandavan-natih, yatha naradiye -
 eko 'pi krisnaya kritah pranamo
 dasasvamedhavabhrithair na tulyah |
@@ -1502,7 +1511,7 @@ krisna-pranami na punar-bhavaya || 129
 Offering obeisances (verse 84), from the Naradiya Purana:
 The purificatory rites performed during ten horse sacrifices cannot equal even one pranama offered to Krisna. A person who performs ten horse sacrifices takes birth again. The person offering pranamas to Krisna does not take birth again.
 
-1.2.130
+## 1.2.130
 26. abhyutthanam, yatha brahmande -
 yanarudham purah preksya samayantam janardanam |
 abhyutthanam narah kurvan patayet sarva-kilbisam || 130
@@ -1510,7 +1519,7 @@ abhyutthanam narah kurvan patayet sarva-kilbisam || 130
 Rising when the deity approaches (verse 85), from Brahmanda Purana:
 The person who rises up on seeing the Lord approaching on a palanquin will have all sins destroyed.
 
-1.2.131
+## 1.2.131
 27. anuvrajya, yatha bhavisyottare -
 rathena saha gacchanti parsvatah pristhato 'gratah |
 visnunaiva samah sarve bhavanti svapadadayah || 131
@@ -1525,7 +1534,7 @@ sthanam tirtham griham casya tatra tirthe gatir yatha || 132
 Going to the place of the Lord (verse 85):
 Sthanam means tirtha or temple. First going to the tirtha is illustrated.
 
-1.2.133
+## 1.2.133
 puranantare -
 samsara-maru-kantara-nistara-karana-ksamau |
 slaghyau tav eva caranau yau hares tirtha-gaminau || 133
@@ -1533,7 +1542,7 @@ slaghyau tav eva caranau yau hares tirtha-gaminau || 133
 In another purana it is said:
 The two feet, which go to the tirtha of the Lord, are praiseworthy, since they enable one to cross over the dangerous desert of samsara.
 
-1.2.134
+## 1.2.134
 alaye ca, yatha hari-bhakti-sudhodaya -
 pravisann alayam visnor darsanartham subhaktiman |
 na bhuyah pravisen matuh kuksi-karagriham sudhih || 134
@@ -1541,7 +1550,7 @@ na bhuyah pravisen matuh kuksi-karagriham sudhih || 134
 Going to the temple is illustrated in Hari-bhakti-sudhodaya:
 The intelligent person who enters the temple of Visnu with devotion to see the Lord does not again enter the prison of a mother’s womb.
 
-1.2.135
+## 1.2.135
 29. parikramo, yatha tatraiva -
 visnum pradaksini-kurvan yas tatravartate punah |
 tad evavartanam tasya punar navartate bhave || 135
@@ -1612,7 +1621,7 @@ na tani likhitany atra grantha-bahulya-bhititah || 143
 
 There are various angas of deity worship and paricarya. These have not been described here for fear of making the book too long.
 
-1.2.144
+## 1.2.144
 32. atha gitam, yatha lainge -
 brahmano vasudevakhyam gayamano 'nisam param |
 hareh salokyam apnoti rudra-ganadhikam bhavet || 144
@@ -1627,7 +1636,7 @@ nama-lila-gunadinam uccair-bhasa tu kirtanam || 145
 Chanting (verse 85):
 Kirtana is defined as the loud chanting of the names, pastimes and qualities of the Lord.
 
-1.2.146
+## 1.2.146
 tatra nama-kirtanam, yatha visnu-dharme -
 krisneti mangalam nama yasya vaci pravartate |
 bhasmibhavanti rajendra maha-pataka-kotayah || 146
@@ -1643,7 +1652,7 @@ anjas titarmy anugrinan guna-vipramukto
 durgani te pada-yugalaya-hamsa-sangah || 147
 
 Lila-kirtanam is illustrated in the Seventh Canto:
-O my Lord Nrisimhadeva, by engaging in Your transcendental loving service in the association of devotees who are liberated souls [hamsas], I shall become completely uncontaminated by the association of the three modes of material nature and be able to chant the pastimes of Your Lordship, who are so dear to me. I shall chant Your pastimes, following exactly in the footsteps of Lord Brahma and his disciplic succession. In this way, I shall undoubtedly be able to cross the ocean of nescience. SB 7.9.18
+O my Lord Nrisimhadeva, by engaging in Your transcendental loving service in the association of devotees who are liberated souls (hamsas), I shall become completely uncontaminated by the association of the three modes of material nature and be able to chant the pastimes of Your Lordship, who are so dear to me. I shall chant Your pastimes, following exactly in the footsteps of Lord Brahma and his disciplic succession. In this way, I shall undoubtedly be able to cross the ocean of nescience. SB 7.9.18
 
 1.2.148
 guna-kirtanam, yatha prathame -
@@ -1678,13 +1687,17 @@ moksa-dvarargalan moksas tenaiva vihitas tava || 151
 Entreaty (verse 86) is illustrated in the Skanda Purana:
 By making entreaties to the Lord with words, the bolt on the door of liberation is released.
 
-1.2.152 ☀
+## 1.2.152 ☀
 samprarthanatmika dainya-bodhika lalasamayi |
 ity adir vividha dhiraih krisne vijnaptir irita || 152
 
 The wise have explained the there are various types of entreaties to Krisna, such as prayers, admission of incompetence and expressions of longing.
 
-1.2.153
+VCT:
+_Samprārthanā_ (prayers) are statements coming from persons who have not attained the stage of _bhāva._ 
+_Lālasā_ statements come from persons who have attained _bhāva._
+
+## 1.2.153 (samprarthanatmika)
 tatra samprarthanatmika, yatha padme -
 yuvatinam yatha yuni yunam ca yuvatau yatha |
 mano 'bhiramate tadvan mano 'bhiramatam tvayi || 153
@@ -1692,7 +1705,7 @@ mano 'bhiramate tadvan mano 'bhiramatam tvayi || 153
 Prayer (samprarthanatmika-vijnapti) is illustrated in the Padma Purana:
 Just as the minds of young men are attracted to a young woman, may my mind be attractred to You!
 
-1.2.154
+## 1.2.154 (dainya-bodhika)
 dainya-vodhika, yatha tatraiva -
 mat-tulyo nasti papatma naparadhi ca kascana |
 parihare 'pi lajja me kim bruve purusottama || 154
@@ -1700,7 +1713,7 @@ parihare 'pi lajja me kim bruve purusottama || 154
 Admission of worthlessness (dainya-bodhika-vijnapti), in the Padma Purana:
 O Supreme Lord! There is no one as me, no one who has committed so many offenses. What can I say? I am very ashamed to ask You to remove those sins.
 
-1.2.155
+### 1.2.155 (lalasamayi)
 lalasamayl, yatha sri-narada-pancaratre -
 kada gambhiraya vaca sriya yukto jagat-pate |
 camara-vyagra-hastam mam evam kurv iti vaksyasi || 155
@@ -1708,7 +1721,7 @@ camara-vyagra-hastam mam evam kurv iti vaksyasi || 155
 Longing (lalasamayi-vijnapti) is illustrated in the Narada-pancaratra:
 O master of the universe, when will you, accompanied by Laksmi, say with a deep voice to me, eager to serve You with camara, “Please come here”?
 
-1.2.156
+## 1.2.156 (lalasamayi)
 yatha va -
 kadaham yamuna-tire namani tava kirtayan |
 udbaspah pundarikaksa racayisyami tandavam || 156
@@ -1739,7 +1752,11 @@ sarva-papa-vinirmukto visnu-lokam avapnuyat || 159
 In the Narasimha Purana it is said:
 He who praises Madhusudana with stotras and stavas in front of His deity is freed from all sins and attains the planet of Visnu.
 
-1.2.160
+JG:
+Stotras, which are not composed by one, are for practicing using one’s speech.
+The _stavas,_ created by a devotee, express his individual emotions.
+
+## 1.2.160
 37. atha naivedyasvado, yatha padme -
 naivedya mannam tulasi-vimisram
 visesatah pada-jalena siktam |
@@ -1749,7 +1766,7 @@ prapnoti yajnayuta-koti-punyam || 160
 Tasting the food remnants of the deity (verse 86), from Padma Purana:
 He, who always eats outside the inner sanctum, the remnants of the Lord’s food sprinkles with water from the Lord’s feet mixed with tulasi, achieves the results of one hundred billion sacrifices.
 
-1.2.161
+## 1.2.161
 38. atha padyasvado, yatha tatraiva -
 na danam na havir yesam svadhyayo na surarcanam |
 te 'pi padodakam pitva prayanti paramam gatim || 161
@@ -1757,7 +1774,7 @@ te 'pi padodakam pitva prayanti paramam gatim || 161
 Tasting the foot water of the Lord (verse 86), from Padma Purana:
 Those who drink the foot water of the Lord achieve the supreme goal, even though they have not performed charity, sacrifices, Vedic study or deity worship.
 
-1.2.162
+## 1.2.162
 39. atha dhupa-saurabhyam, yatha hari-bhakti-sudhodaye -
 aghranam yad dharer datta-dhupocchistasya sarvatah |
 tad-bhava-vyala-dastanam nasyam karma visapaham || 162
@@ -1765,7 +1782,7 @@ tad-bhava-vyala-dastanam nasyam karma visapaham || 162
 Smelling incense offered to the Lord (verse 86), from Hari-bhakti-sudhodaya:
 The action of the nose - smelling the incense offered to the Lord - fully destroys the poison of karma inflicted on those bitten by the snake of material existence.
 
-1.2.163
+## 1.2.163
 atha malya-saurabhyam, yatha tantre -
 praviste nasika-randhre harer nirmalya-saurabhe |
 sadyo vilayam ayati papa-panjara-bandhanam || 163
@@ -1781,7 +1798,7 @@ visuddhih syad anantasya ghranasyehabhidhiyate || 164
 From Agastya-samhita:
 It is said that the nose smelling flowers and gandha offered to the infinite Lord is the cause of complete purification in this world.
 
-1.2.165
+## 1.2.165
 40. atha sri-murteh sparsanam, yatha visnu-dharmottare -
 spristva visnor adhisthanam pavitrah sraddhayanvitah |
 papa-bandhair vinirmuktah sarvan kaman avapnuyat || 165
@@ -1789,7 +1806,7 @@ papa-bandhair vinirmuktah sarvan kaman avapnuyat || 165
 Touching the deity (verse 86), from Visnu-dharmottara:
 The pure, faithful person who touches the deity of Visnu becomes freed from the bondage of sin and attains all desires.
 
-1.2.166
+## 1.2.166
 41. atha sri-murter darsanam, yatha varahe -
 vrindavane tu govindam ye pasyanti vasundhare |
 na te yama-puram yanti yanti punya-kritam gatim || 166
@@ -1797,7 +1814,7 @@ na te yama-puram yanti yanti punya-kritam gatim || 166
 Seeing the deity (verse 86), from Varaha Purana:
 O Earth! Those who see Govinda in Vrindavana do not go to the city of Yama, but achieve pure bhakti, the goal of all punya.
 
-1.2.167
+## 1.2.167
 42. aratrika-darsanam, yatha skande -
 kotayo brahma-hatyanam agamyagama-kotayah |
 dahaty aloka-matrena visnoh saratrikam mukham || 167
@@ -1813,7 +1830,7 @@ devatanam ganah sarve bhavanti svapacadayah || 168
 Seeing the festivals (verse 87), from Bhavisyottara:
 The dog-eaters and other low persons who joyfully see Kesava on His chariot all become associates of the Lord.
 
-1.2.169
+## 1.2.169
 adi-sabdena puja-darsanam, yathagneye -
 pujitam pujyamanam va yah pasyed bhaktito harim |
 sraddhaya modamanas tu so 'pi yoga-phalam labhet || 169
@@ -1830,7 +1847,7 @@ sravanam nama-carita-gunadinam srutir bhavet || 170
 Next, hearing (verse 87):
 Hearing means listening to the name, pastimes and qualities of the Lord.
 
-1.2.171
+## 1.2.171
 tatra nama-sravanam, yatha garude -
 samsara-sarpa-dasta-nasta-cestaika-bhesajam |
 krisneti vaisnavam mantram srutva mukto bhaven narah || 171
@@ -1848,7 +1865,7 @@ tan na sprisanty asana-trid-bhaya-soka-mohah || 172
 Hearing the pastimes (verse 87), from Fourth Canto:
 In that assembly, excellent streams of nectar of the pastimes of the Lord emanating from the mouths of the saintly devotees flow everywhere. Those who drink that nectar with eager ears, with constant thirst, O King, will forget the necessities of life - namely hunger and thirst - and become immune to all kinds of fear, lamentation and illusion. SB 4.29.40
 
-1.2.173
+## 1.2.173
 guna-sravanam, yatha dvadase (12.3.15) -
 yas tuttamah-sloka-gunanuva-dah
 sangiyate 'bhiksnam amangala-ghnah |
@@ -1906,7 +1923,7 @@ papino 'pi prasangena vihitam suhitam param || 179
 Meditation on the form, from Narasimha Purana:
 Meditation on the two feet of the Lord is considered the means of attaining freedom from the dualities of this world. Even a sinner who casually meditates attains the highest benefit.
 
-1.2.180
+## 1.2.180
 guna-dhyanam, yatha visnudharme -
 ye kurvanti sada bhaktya gunanusmaranam hareh |
 praksina-kalusaughas te pravisanti hareh padam || 180
@@ -1914,7 +1931,7 @@ praksina-kalusaughas te pravisanti hareh padam || 180
 Meditation on the qualities of the Lord, from Visnu-dharma:
 Those who constantly meditate on the qualities of the Lord with devotion, having destroyed all contaminations, enter the abode of the Lord.
 
-1.2.181
+## 1.2.181
 krida-dhyanam, yatha padme -
 sarva-madhurya-sarani sarvadbhuta-mayani ca |
 dhyayan hares caritrani lalitani vimucyate || 181
@@ -2076,7 +2093,7 @@ tat-sthanam asritas tanva modate saranagatah || 201
 Accepting the Lord’s protection (saranapatti, verse 88), illustrated from Hari-bhakti-vilasa:
 He who, while saying “I am Yours,” accepts the protection of the lord, feels bliss. Hari bhakti vilasa 11.677
 
-1.2.202
+## 1.2.202
 sri narasimhe ca -
 tvam prapanno 'smi saranam deva-deva janardana |
 iti yah saranam praptas tam klesad uddharamy aham || 202
@@ -2084,7 +2101,7 @@ iti yah saranam praptas tam klesad uddharamy aham || 202
 Also, it is said in the Narasimha Purana:
 I deliver from suffering that person who takes shelter of Me saying, “Lord of lords, exciter of all beings, I have taken You as my protector.”
 
-1.2.203
+## 1.2.203
 53. atha tadyanam sevanam | tulasyah, yatha skande -
 ya drista nikhilagha-sanga-samani sprista vapuh-pavani
 roganam abhivandita nirasani siktantaka-trasini |
@@ -2094,7 +2111,7 @@ nyasta tac-carane vimukti-phalada tasyai tulasyai namah || 203
 Service to things related to the Lord (verse 88), service to tulasi (verse 89), from Skanda Purana:
 Seeing tulasi destroys all sins. Touching her purifies the body. Bowing to her destroys all sufferings. Sprinkling her with water delivers one from death. Planting her bestows attachment of the mind to Lord Krisna. Offering her to Krisna’s lotus feet bestows special liberation in the form of prema. I offer my respects to tulasi.
 
-1.2.204-205
+## 1.2.204-205
 tatha ca tatraiva -
 drista sprista tatha dhyata kirtita namita stuta |
 ropita sevita nityam pujita tulasi subha || 204
@@ -2114,7 +2131,7 @@ sastram atra samakhyatam yad bhakti-pratipadakam || 206
 Service to the scriptures (verse 89):
 Scriptures here refers to those scriptures which present bhakti.
 
-1.2.207-209
+## 1.2.207-209
 yatha skande -
 vaisnavani tu sastrani ye srinvanti pathanti ca |
 dhanyas te manava loke tesam krisnah prasidati || 207
@@ -2128,7 +2145,7 @@ tatra narayano devah svayam vasati narada || 209
 From Skanda Purana:
 O Narada, fortunate are those people in this world who hear and read the Vaisnava scriptures. Krisna is pleased with them. Those who worship the Vaisnava scriptures in their houses become free from all sins and are praised by the devatas. The Supreme Lord Narayana Himself lives in the house where the written Vaisnava scriptures have appeared.
 
-1.2.210
+## 1.2.210
 tatha sri-bhagavate dvadase ca -
 sarva-vedanta-saram hi sri-bhagavatam isyate |
 tad-rasamrita-triptasya nanyatra syad ratih kvacit || 210
@@ -2136,7 +2153,7 @@ tad-rasamrita-triptasya nanyatra syad ratih kvacit || 210
 Also in the Twelfth Canto, service to the scripture illustrated:
 Srimad-Bhagavatam is declared as the essence of all Vedanta philosophy. One who has felt satisfaction from its nectarean mellow will never be attracted to any other literature. SB 12.13.15
 
-1.2.211
+## 1.2.211 (Mathura glory)
 55. atha mathurayah, yatha adi-varahe -
 mathuram ca parityajya yo 'nyatra kurute ratim |
 mudho bhramati samsare mohita mama mayaya || 211
@@ -2144,7 +2161,7 @@ mudho bhramati samsare mohita mama mayaya || 211
 Serving Mathura and other holy places (verse 89), illustrated in the Varaha Purana:
 The fool who gives up Mathura and develops attraction for some other place wanders in the material world birth after birth, bewildered by My maya.
 
-1.2.212
+## 1.2.212
 brahmande ca -
 trailokya-varti-tirthanam sevanad durlabha hi ya |
 parananda-mayi siddhir mathura-sparsa-matratah || 212
@@ -2152,14 +2169,14 @@ parananda-mayi siddhir mathura-sparsa-matratah || 212
 This is also illustrated in the Brahmanda Purana:
 The bliss at the stage of prema, which is rarely obtained even by serving all the holy places in the three worlds, is available just by touching Mathura.
 
-1.2.213
+## 1.2.213
 sruta smrita kirtita ca vanchita preksita gata |
 sprista srita sevita ca mathurabhista-da nrinam |
 iti khyatam puranesu na vistara-bhiyocyate || 213
 
 Hearing about, remembering, glorifying, desiring, seeing, visiting, touching, taking shelter, and serving Mathura fulfills all the desires of human beings. This has been described in all the Puranas. I have not elaborated this here for fear of increasing the volume of the book.
 
-1.2.214 ☀
+## 1.2.214 ☀ (Service to Vaisnavas)
 56. atha vaisnavanam sevanam, yatha padme (6.253.176) -
 aradhananam sarvesam visnor aradhanam param |
 tasmat parataram devi tadiyanam samarcanam || 214
@@ -2191,7 +2208,7 @@ kim punar darsana-sparsa-pada-saucasanadibhih || 217
 The First Canto says:
 Simply by our remembering You, our houses become instantly sanctified. And what speak of seeing You, touching You, washing Your holy feet and offering You a seat in our home?
 
-1.2.218 ☀
+## 1.2.218 ☀
 adi-purane -
 ye me bhakta-janah partha na me bhaktas ca te janah |
 mad-bhaktanam ca ye bhaktas te me bhaktatama matah || 218
@@ -2199,7 +2216,7 @@ mad-bhaktanam ca ye bhaktas te me bhaktatama matah || 218
 Adi-purana says:
 Those who claim to be My devotees are not My devotees. Those who are the devotees of My devotees, I consider them to be My best devotees.
 
-1.2.219
+## 1.2.219
 yavanti bhagavad-bhakter angani kathitaniha |
 prayas tavanti tad-bhakta-bhakter api budha viduh || 219
 
@@ -2275,7 +2292,7 @@ bhagavat-sangi-sangasya martyanam kim utasisah || 228
 Association with like-minded, affectionate devotees (verse 91), illustrated in the First Canto:
 The value of a moment’s association with the devotee of the Lord cannot be compared even to the attainment of heavenly planets or liberation from matter. What, then, to speak of worldly benedictions in the form of material prosperity, which are meant for those who are destined to die. SB 1.18.13
 
-1.2.229
+## 1.2.229
 hari-bhakti-sudhodaye ca -
 yasya yat-sangatih pumso manivat syat sa tad-gunah |
 sva-kula-rddhyai tato dhiman sva-yuthan eva samsrayet || 229
@@ -2283,13 +2300,17 @@ sva-kula-rddhyai tato dhiman sva-yuthan eva samsrayet || 229
 It is also said in the Hari-bhakti-sudhodaya:
 A man will attain the qualities of the person with whom he associates, just as a crystal takes up the color of the object next to it. Therefore, the wise man will take shelter of those who have qualities like his own for the prosperity of his family.
 
-1.2.230
+## 1.2.230
 63. atha sri-nama samkirtanam, yatha dvitiye (2.1.11) -
 etan nirvidyamananam icchatam akuto-bhayam |
 yoginam nripa nirnitam harer namanukirtanam || 230
 
 Chanting the name of the Lord (verse 92), from the second Canto:
 O King, constant chanting of the holy name of the Lord after the ways of the great authorities is the doubtless and fearless way of success for all, including those who are free from all material desires, those who are desirous of all material enjoyment, and also those who are self-satisfied by dint of transcendental knowledge. SB 2.1.11
+
+Among all the aṅgas of bhakti, the chief ones are hearing, chanting and remembering, as mentioned in the verse [SB 2.1.5](Bhakti%20Rasamrita%20Sindhu.md#1.2.7%20☀%20(3%20main%20among%2064%20angas))
+
+Among those three, chanting is the chief. Among the different types of chanting **—** glorifying the names, pastimes and qualities of the Lord — chanting the name of the Lord is supreme.
 
 1.2.231
 adi-purane ca -
@@ -2300,46 +2321,47 @@ In the Adi Purana it is said:
 By singing My names, a person will attain a position close to Me. I make this promise. That person, O Arjuna, purchases me.
 
 1.2.232
-padme ca -
-yena janma-sahasrani vasudevo nisevitah |
-tan-mukhe hari-namani sada tisthanti bharata || 232
+pādme ca—
+yena janma-sahasrāṇi vāsudevo niṣevitaḥ |
+tan-mukhe hari-nāmāni sadā tiṣṭhanti bhārata ||232||
 
 In the Padma Purana it is said:
 The names of the Lord remain constantly in the mouth of that person who serves Vasudeva for a thousand births.
 
-1.2.233 ☀
-yatas tatraiva -
-nama  cintamanih krisnas caitanya-rasa-vigrahah |
-purnah suddho nitya-mukto 'bhinnatvan nama-naminoh || 233
+## 1.2.233 ☀ (Name equal to Krisna)
+_yatas tatraiva—  
+nāma cintāmaṇiḥ kṛṣṇaś caitanya-rasa-vigrahaḥ  
+pūrṇaḥ śuddho nitya-mukto ’bhinnatvān nāma-nāminoh||233||_
 
 It is also said in the Padma Purana:
 The name of the Lord fulfills all desires like cintamani. It is very form of Krisna. It is full of consciousness and rasa. It is complete, pure, and eternally liberated. This is because of the non-difference of the name and Krisna.
 
-1.2.234 ☀
-yatha tatraiva -
-atah sri-krisna-namadi na bhaved grahyam indriyaih |
-sevonmukhe hi jihvadau svayam eva sphuraty adah || 234
+## 1.2.234 ☀
+yathā tatraiva—
+ataḥ śrī-kṛṣṇa-nāmādi na bhaved grāhyaṁ indriyaiḥ |
+sevonmukhe hi jihvādau svayam eva sphuraty adaḥ ||234||
 
 Also from the Padma Purana:
 Krisna and His names cannot be grasped by the material senses, but when a person develops the tendency to accept the Lord’s name and form, Krisna then spontaneously appears on the tongue and in the other senses.
 
 1.2.235-237
-(64) atha sri-mathura-mandale sthitih, yatha padme -
-anyesu punya-tirthesu muktir eva maha-phalam |
-muktaih prarthya harer bhaktir mathurayam tu labhyate || 235
+64. atha śrī-mathurā-maṇḍale sthitiḥ, yathā pādme—
+anyeṣu puṇya-tīrtheṣu muktir eva mahā-phalam |
+muktaiḥ prārthyā harer bhaktir mathurāyāṁ tu labhyate ||235||
 
-tri-vargada kaminam ya mumuksunam ca moksada |
-bhakticchor bhaktida kas tam mathuram nasrayed budhah || 236
+tri-vargadā kāmināṁ yā mumukṣūṇāṁ ca mokṣadā |
+bhaktīcchor bhaktidā kas tāṁ mathurāṁ nāśrayed budhaḥ ||236||
 
-aho madhu-puri dhanya vaikunthac ca gariyasi |
-dinam ekam nivasena harau bhaktih prajayate || 237
+aho madhu-purī dhanyā vaikuṇṭhāc ca garīyasī |
+dinam ekaṁ nivāsena harau bhaktiḥ prajāyate ||237||
 
 Residing in Mathura (verse 92), illustrated in the Padma Purana:
 Liberation is the greatest result that can be obtained at other holy places, but devotion to the Lord, which is desired by the liberated souls, can be attained at Mathura. Mathura bestows dharma, artha, kama to those desiring liberation. It awards bhakti to those desiring bhakti. What intelligent person will not take shelter of Mathura? Oh, Mathura is most auspicious, and greater than Vaikuntha (Goloka)! By staying only one day in Mathura, bhakti to the Lord appears.
 
-Chapter 13
+It will be explained later in the commentary on 1.2.303 that Vaikuṇṭha means Goloka, a part of Vraja filled with aiśvarya. Mathurā here means Gokula.
 
-1.2.238
+Chapter 13 (5 most powerful angas)
+## 1.2.238
 duruhadbhuta-virye 'smin sraddha dure 'stu pancake |
 yatra svalpo 'pi sambandhah sad-dhiyam bhava-janmane || 238
 
@@ -2401,16 +2423,65 @@ bhavam tad-visayam capi ya sahaiva prakasayet || 244
 
 The inconceivable power of these extraordinary five angas is such that it will manifest the state of bhava and its object, Krisna, at the same time.
 
+Concerning the form of the deity, it is said:
+sakṛd yad-aṅga-pratimāntar-āhitā
+manomayī bhāgavatīṁ dadau gatim
+sa eva nityātma-sukhānubhūty-abhi-
+vyudasta-māyo ’ntar-gato hi kiṁ punaḥ
+
+If even only once, or even by force, one brings the form of the Supreme Personality of Godhead into one’s mind, one can attain the supreme salvation by the mercy of Kṛṣṇa, as Aghāsura did. What then is to be said of those in whose hearts the Supreme Personality of Godhead enters when He appears as an incarnation, or those who always think of the lotus feet of the Lord, who is the source of transcendental bliss for all living entities and by whom all illusion is completely removed? SB 10.12.39
+
+Concerning the Bhāgavatam, it is said:
+dharmaḥ projjhita-kaitavo ’tra paramo nirmatsarāṇāṁ satāṁ
+vedyaṁ vāstavam atra vastu śivadaṁ tāpa-trayonmūlanam
+śrīmad-bhāgavate mahā-muni-kṛte kiṁ vā parair īśvaraḥ
+sadyo hṛdy avarudhyate ’tra kṛtibhiḥ śuśrūṣubhis tat-kṣaṇāt
+
+Completely rejecting all religious activities that are materially motivated, this Bhāgavata Purāṇa propounds the highest truth, which is understandable by those devotees who are fully pure in heart. The highest truth is reality distinguished from illusion for the welfare of all. Such truth uproots the threefold misery. This beautiful Bhāgavatam, compiled by the great sage Vyāsadeva (in his maturity), is sufficient in itself for God realization. What is the need of any other scripture? As soon as one attentively and submissively hears the message of Bhāgavatam, by this culture of knowledge, the Supreme Lord is established within his heart. SB 1.1.2
+
+Concerning association with the devotee of the Lord, it is said:
+bhavāpavargo bhramato yadā bhavej
+janasya tarhy acyuta sat-samāgamaḥ
+sat-saṅgamo yarhi tadaiva sad-gatau
+parāvareśe tvayi jāyate matiḥ
+
+When the material life of a wandering soul has ceased, O Acyuta, he may attain the association of Your devotees. Moreover, when he associates with them, there awakens in him devotion unto You, who are the goal of the devotees and the Lord of all causes and their effects. SB 10.52.53
+
+Concerning chanting the name of the Lord, it is said:
+sarveṣām apy aghavatām idam eva suniṣkṛtam
+nāma-vyāharaṇaṁ viṣṇor yatas tad-viṣayā matiḥ
+
+The chanting of the holy name of Lord Viṣṇu is the best process of atonement. Simply by chanting the holy name of Lord Viṣṇu, such sinful persons may attract the attention of the Supreme Lord, who therefore considers, “Because this man has chanted My holy name, My duty is to give him protection.” SB 6.2.10
+
+Concerning residing in Mathurā district it has been said:
+parānanda-mayī siddhir mathurā-sparṣa-mātrataḥ
+One achieves the highest bliss just by touching Mathurā. (Verse 212 of this chapter, quoted from Brahmāṇḍa Purāṇa)
+
 1.2.245
 kesamcit kvacid anganam yat ksudram sruyate phalam |
 bahir-mukha-pravrittyaitat kintu mukhyam phalam ratih || 245
 
 In some of the verses quoted from the scriptures, material results are attributed to the angas for attracting persons possessing material consciousness. However, the main result of these angas is rati (bhava).
 
-1.2.246 ☀
+## 1.2.246 ☀ (varnasrama is not an anga of bhakti)
 sammatam bhakti-vijnanam bhakty-angatvam na karmanam || 246
 
 The consensus of those knowledgeable of bhakti is that karma (varnasrama duties) is not an anga of bhakti.
+
+Parāśara has glorified karma as well:
+varṇāśramācaravatā puruṣeṇa paraḥ pumān |
+viṣṇur ārādhyate panthā nānyat tat-toṣa-kāraṇam ||
+
+The Supreme Lord Viṣṇu is to be worshipped by man through the duties of varṇāśrama. There is no other path for satisfying the Lord. Viṣṇu Purāṇa 3.8.9
+
+Parāśara has also said:
+yajñeśācyuta govinda mādhavānanta keśava |
+kṛṣṇa viṣṇo hṛṣīkeśety āha rājā sa kevalam |
+nānyad jagāda maitreya kiñcit svapnāntareṣv api ||
+
+O Maitreya, King Bharata simply said, “O master of sacrifice, O Acyuta, Govinda, Mādhava, Ananta, Keśava, Kṛṣṇa, Viṣṇu, Hṛśīkeśa!” He said nothing else, even in his dreams. Viṣṇu Purāṇa 2.13.10
+
+Thus, the statement quoted from Viṣṇu Purāṇa that approves varṇāśrama as bhakti, has been spoken only to encourage those persons who are not qualified for pure bhakti.
 
 1.2.247
 yatha caikadase -
@@ -2420,15 +2491,30 @@ mat-katha-sravanadau va sraddha yavan na jayate || 247
 In the Eleventh Canto it is explained:
 One should continue to perform the daily and periodic varnasrama activities until one actually becomes detached from material sense gratification and develops faith for hearing and chanting about Me. SB 11.20.9
 
-Chapter 14
+This verse explains the circumstances in which the performance of varṇāśrama is applicable. 
 
-1.2.248 ☀
+Parāśara also says:
+sā hānis tan mahac chidraṁ sa mohaḥ sa ca vibhramaḥ |
+yan muhūrtaṁ kṣaṇaṁ vāpi vāsudevaṁ na kīrtayet ||
+
+If even for a moment the remembrance of Vāsudeva, the Supreme Personality of Godhead, is missed, it is the greatest loss. It is the greatest fault, the greatest illusion, and the greatest anomaly. Viṣṇu-dharma 1.16
+
+The scriptures say:
+śruti-smṛtī mamaivājñe yas te ullaṅghya vartate |
+ājñā-cchedī mama dveṣī mad-bhakto’pi na vaiṣṇavaḥ ||
+
+Whoever disregards the śruti and smṛti scriptures that are mine and breaks the rules is a breaker of My order, a hater of Me. Even if he is My devotee he is not a Vaiṣṇava.
+
+However, this does not apply to the devotee because the devotee is following another order. He breaks the first order, to perform varṇāśrama, only because he is following another order of the Lord which is based on detachment from material enjoyment and faith in bhakti.
+
+Chapter 14 (Качества преданного)
+## 1.2.248 ☀ (jnana and vairagya are not angas of bhakti)
 jnana-vairagyayor bhakti-pravesayopayogita |
 isat prathamam eveti nangatvam ucitam tayoh || 248
 
 Jnana and vairagya are suitable for entering bhakti, being somewhat useful in the beginning of bhakti, but they are not considered angas of bhakti.
 
-1.2.249 ☀
+## 1.2.249 ☀
 yad ubhe citta-kathinya-hetu prayah satam mate |
 sukumara-svabhaveyam bhaktis tad-hetur irita || 249
 
@@ -2447,6 +2533,8 @@ kintu jnana-virakty-adi-sadhyam bhaktyaiva sidhyati || 251
 
 However, the goals of jnana, vairagya and other processes are achieved by bhakti alone.
 
+The goal of jñāna is liberation. The goal of vairāgya isjñāna. 
+
 1.2.252-253
 yatha tatraiva -
 yat karmabhir yat tapasa jnana-vairagyatas ca yat |
@@ -2464,19 +2552,24 @@ visayesu garistho 'pi ragah prayo viliyate || 254
 
 If a person has a taste for worshipping the Lord, even if he has strong material attractions, those attractions will be for the most part destroyed during sadhana without resorting to vairagya.
 
-1.2.255 ☀
+## 1.2.255 ☀ (yukta vairagya)
 anasaktasya visayan yatharham upayunjatah |
 nirbandhah krisna-sambandhe yuktam vairagyam ucyate || 255
 
 The vairagya of that person who employs objects suitable for devotional development, while remaining detachment from them, is said to be suitable for bhakti. The objects should be persistently related to Krisna.
 
-1.2.256 ☀
+## 1.2.256 ☀ (phalgu vairagya)
 prapancikataya buddhya hari-sambandhi-vastunah |
 mumuksubhih parityago vairagyam phalgu kathyate || 256
 
 Rejection of things related to the Lord by persons desiring liberation, who think that these things are simply material objects, is called useless vairagya.
 
-1.2.257-258
+Viṣṇu-yāmala:
+prasādāgrahaṇaṁ viṣṇor varjayed vaiṣṇavaḥ sadā
+
+The Vaiṣṇava should never refuse the prasāda of Viṣṇu. Quoted in Hari-bhakti-vilāsa 2.178
+
+## 1.2.257-258
 proktena laksanenaiva bhakter adhikritasya ca |
 angatve suniraste 'pi nityady-akhila-karmanam || 257
 
@@ -2485,23 +2578,30 @@ spastatartham punar api tad evedam nirakritam  || 258
 
 The daily and periodic duties of varnasrama and the impersonal aspect of jnana (the obstructive portions of karma and jnana) have already been rejected as angas of bhakti by using the stated definition of uttama-bhakti obtained through the bhakti scriptures. However, in order to make the point clear, the false type of vairagya (the obstructive portion) has been again rejected as an anga of bhakti.
 
-1.2.259
+## 1.2.259
 dhana-sisyadibhir dvarair ya bhaktir upapadyate |
 vidurtvad uttamata-hanya tasyas ca nangata || 259
 
 That bhakti which is accomplished by dependence on wealth, followers or other objects cannot be considered as an anga of uttama-bhakti because it destroys the pure nature of that bhakti. It is situated far way from uttama-bhakti.
 
-1.2.260
+## 1.2.260
 visesanatvam evaisam samsrayanty adhikarinam |
 vivekadiny ato 'misam api nangatvam ucyate || 260
 
 Discrimination and other material qualities cannot be considered as angas of uttama-bhakti, since on their own they take shelter of the excellent condition of persons practicing uttama-bhakti.
 
-1.2.261 ☀
+## 1.2.261
 krisnanmukham svayam yanti yamah saucadayas tatha |
 ity esam ca na yukta syad bhakty-angantara-patita || 261
 
 Basic rules of conduct (yamah), rules of cleanliness and other actions appear automatically in those who are extremely dedicated to Krisna. Thus, they are not included as angas of bhakti.
+
+The rules of conduct (yamāḥ) are as follows:
+
+ahiṁsā satyam asteyam asaṅgo hrīr asañcayaḥ
+āstikyaṁ brahmacaryaṁ ca maunaṁ sthairyaṁ kṣamābhayam
+
+Nonviolence, truthfulness, not coveting or stealing the property of others, detachment, humility, freedom from possessiveness, trust in the principles of religion, celibacy, silence, steadiness, forgiveness and fearlessness are the twelve primary disciplinary principles. [SB 11.19.33](Slokas.md#11.19.33)
 
 1.2.262
 yatha skande -
@@ -2525,7 +2625,7 @@ sva-vasananusarena nisthatah siddhi-krid bhavet || 264
 
 Bhakti, taking shelter of one principal anga or many angas according to one’s desire, and practiced with steadiness, brings about the desired result (bhava and prema).
 
-1.2.265
+## 1.2.265 (examples of practicing one anga)
 tatra ekanga, yatha granthantare -
 sri visnoh sravane pariksid abhavad vaiyasakih kirtane
 prahladah smarane tad-anghri-bhajane laksmih prithuh pujane |
@@ -2535,7 +2635,7 @@ sarvasvatma-nivedane balir abhut krisnaptir esam param || 265
 Examples of practicing one anga are illustrated in another work:
 Pariksit is an example of hearing about the Lord and Sukadeva is an example of chanting the glories of the Lord. Prahlada is an example of remembering the Lord and Laksmi is an example of serving the lotus feet of the Lord. Prithu is an example of performing deity worship of the Lord. Akrura is an example of attaining perfection by offering prayers to the Lord. Hanuman is an example of serving with attitude of a servant of the Lord. Arjuna is an example of friendship with the Lord. Bali is an example of offering the self to the Lord. They achieved Krisna by following principally one anga.
 
-1.2.266-268
+## 1.2.266-268 (example of practicing all angas)
 anekanga, yatha navame -
 sa vai manah krisna-padaravindayor
 vacamsi vaikuntha-gunanuvarnane |
@@ -2555,7 +2655,7 @@ yathottamahsloka-janasraya ratih || 268
 An example of practicing many angas equally is found in the Ninth Canto:
 Maharaja Ambarisa always engaged his mind in meditating upon the lotus feet of Krisna, his words in describing the glories of the Lord, his hands in cleansing the Lord’s temple, and his ears in hearing the words spoken by Krisna or about Krisna. He engaged his eyes in seeing the Deity of Krisna, Krisna’s temple and Krisna’s places like Mathura and Vrindavana, he engaged his sense of touch in touching the bodies of the Lord’s devotees, he engaged his sense of smell in smelling the fragrance of tulasi offered to the Lord, and he engaged his tongue in tasting the Lord’s prasada. He engaged his legs in walking to the holy places and temples of the Lord, his head in bowing down before the Lord, and his desires in serving the Lord, twenty-four hours a day. Indeed, Maharaja Ambarisa never desired anything for his own sense gratification. He engaged all his senses in devotional service, in various engagements related to the Lord. This is the way to increase attachment for the Lord and be completely free from all material desires. SB 9.4.18-20
 
-1.2.269
+## 1.2.269 (vaidhi-bhakti)
 sastroktaya prabalaya tat-tan-maryadayanvita |
 vaidhi bhaktir iyam kaiscan maryada-marga ucyate || 269
 
@@ -2564,7 +2664,7 @@ Some persons call vaidhi-bhakti the path of rules (maryada-marga), since it is b
 Chapter 15
 atha raganuga
 
-1.2.270
+## 1.2.270 (raganuga-bhakti)
 virajantim abhivyaktam vraja-vasi janadisu |
 ragatmikam anusrita ya sa raganugocyate || 270
 
@@ -2575,7 +2675,7 @@ raganuga-vivekartham adau ragatmikocyate || 271
 
 In order to define raganuga-bhakti first ragatmika-bhakti should be discussed.
 
-1.2.272 ☀
+## 1.2.272 ☀ (ragatmika-bhakti)
 iste svarasiki ragah paramavistata bhavet |
 tan-mayi ya bhaved bhaktih satra ragatmikodita || 272
 

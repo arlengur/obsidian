@@ -80,7 +80,8 @@ val userLayer: ZLayer[Has[EmailService], Nothing, Has[UserService]] =
 
 val userLayer: ZLayer[Has[A] with Has[B], Nothing, Has[C]] = ZLayer.fromServices[A, B, C]((a, d) => new C(a, b){ .... } )
 
-type Env = DBService with EmailService val userLayer: ZLayer[Env, Nothing, Has[UserService]] = ZLayer.fromFunction[Env, UserService] { env => 
+type Env = DBService with EmailService 
+val userLayer: ZLayer[Env, Nothing, Has[UserService]] = ZLayer.fromFunction[Env, UserService] { env => 
 	val dbService = env.get[DBService] 
 	val emailService = env.get[EmailService] 
 	new UserService(dbService, emailService){ ... } 
