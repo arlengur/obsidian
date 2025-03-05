@@ -4,3 +4,9 @@
 - laugh, laughed, laughed
 - feel, felt, felt
 - break, broke, broken
+- bear, bore, born - носить, терпеть, рожать, родила, рожден ^b9dd16
+- arise, arose, arisen, arises, arising - возникать
+- strike, struck, struck - поражать
+- smite, smote, smitten - поражать ^b8147a
+- hold, held, held - держать, обладать ^d0c24b
+- hurry, hurried, hurried - спешить ^2a4f87

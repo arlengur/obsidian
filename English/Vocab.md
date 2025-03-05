@@ -1,11 +1,419 @@
+take/drive/deliver me
+
+come across - встретить, столкнуться с
+
+in the middle of nowhere - у черта на куличиках
+
+после иф нет вил
+
+после антил 1 форма until the US recognizes
+
+the thing is - дело в том, что
+
+short notice - предупредить незадолго
+
+crack - трещина, тип кокаина
+you cracked me up - ты меня очень рассмешил
+
+
+- illuminate - освещать
+- demeanor - настроение
+- radiant - сияющий
+- loud - громко
+- dimension - измерение
+- belt - ремень
+- go-between - посредник
+- [hold](Irregular%20verbs.md#^d0c24b) - обладать 
+- bang - взрыв, удар, треск
+- banging - стук, шум, грохот
+- a pep talk - разговор, призванный придать кому-либо смелости или энтузиазма, приободрить.
+	- The boss gave the staff a pep talk this morning in an attempt to boost sales. - Сегодня утром босс выступил перед сотрудниками с ободряющей речью, пытаясь поднять продажи.
+	- On tough mornings, I need a pep talk to help me face the day. - В трудные утра мне нужны слова поддержки, чтобы помочь начать день.
+- amusement - развлечение
+- amuse - развлекать
+- derisive - ироничный, насмешливый
+- perpetual - постоянный, вечный
+- fixed - неизменный, утвердившийся
+- riddle - загадка
+- dice - кости
+	- win at dice - выйграть в кости
+- leisure - досуг
+- sharp arrow - острая стрела
+- struck down - поразил
+- missile - снаряд
+- well-bred - благовоспитанный
+- miserliness - скупость
+- multitude - множество
+- string - нанизывать
+- fragrant - благоухающий
+- crafty - хитрый, лукавый
+- bewitching - чарующий
+- aisle - проход
+- lavatory - туалет
+- cemetery - кладбище
+- room - место
+- space - пространство
+- fit - уместить
+- stow - укладывать, складывать
+	- Please stow your carry-on luggage under the seat in front of you.
+- have trouble Ving - испытывать трудности с чем-то
+	- She had trouble finding space for her bag in the overhead locker.
+- eff - эвфемизм для нецензурного слова fck
+	- He was so angry that he started effing and shouting at the airline staff.
+- at your fingertips - под рукой, в легком доступе
+	- With modern technology, you have all the information you need at your fingertips.
+- have a rough day / hell of  day - иметь трудный день
+	- She looked exhausted - she must have had a rough day at work.
+- a hell (/heck) of a day/a week/a year/a job - чертовски сложный / плохой / хороший ... - усилитель = extremely 
+	- We've been having a hell of a time trying to finish on schedule.
+- pass out - терять сознание
+	- The flight attendant was so tired that she almost passed out.
+- naughty - непослушный, озорной
+	- The little boy was being naughty, running up and down the aisle.
+- smooth - гладкий, спокойный
+	- The pilot announced that we should expect a smooth flight.
+- momentarily - вскоре, в ближайшее время
+	- We will be taking off momentarily, so please fasten your seatbelts.
+- seizure - припадок
+	- The man had a seizure during the flight, and the crew had to assist him.
+- get used to - привыкать к чему-то
+	- It took me a while to get used to long flights.
+- to taxi - рулить, выруливать
+- stuffed animals - мягкие игрушки
+- fit - поместиться
+
+
+
+Am I in your way? - я вам мешаю? (когда стоим на пути кого-то)
+I'm here in 3B - когда сидишь на каком-то месте
+you have no idea - вы даже не представляете
+
+Thank God for you - когда за что-то благодарен Богу
+Thanks, God - когда благодаришь Его
+
+I bet - могу поспорить - I'm sure
+
+I can tell - я могу понять, определить
+
+what do you do for a living?
+you fly much? I fly a lot
+I hit the floor - я упал на пол
+I pass out/I'm fainting - Я теряю сознание
+
+to check (in) your bag - сдать чемодан
+
+hand luggage / carry-on baggage
+an overhead locker / compartment / bin
+
+how many hand bags / items of hand luggage am I allowed to take onto the plain?
+
+heck / hell / fuck
+
+had trouble/problem/issues/difficulties communicating with him
+
+f-word / swearing-words
+
+- show up - появиться (мб сарказмом)
+- I am/was wondering if  - Мне интересно, если
+	- I am wondering what you are thinking
+
+
+- hijack - угнать самолет
+- bride - невеста
+- expertly - умело, искусно
+- colloquial - разговорный
+- buffalo - буйвол
+- repetitive - повторяющийся
+- eloquence - крансоречие
+- placement - место
+- balladeer - исполнитель баллад
+- enamor - очаровывать
+- adversary - противник
+- authoritative - авторитетный
+- runway - взлетная полоса
+- take off - взлетать
+- capable of - способный
+- capable - квалифицированный, умелый
+	- She's a very capable woman/worker/judge.
+- be on hand - быть под рукой, быть рядом
+	- I'll be on hand to help you
+- proficient - опытный, искусный 
+	- I was proficient at my job.
+	- She's proficient in two languages.
+	- It takes a couple of years of regular driving before you become proficient at it.
+- train in - обучать чему-то
+	- Are you trained in the use of this equipment?
+	- He reluctantly agreed to train the young man in the art of Kung Fu.
+	- I'm training my daughter in the family business so she can take over for me when I retire.
+- have at your disposal
+- concern - беспокойство
+- due - должный, ожидаемый.
+	- The package is due to arrive tomorrow.
+	- when is she due? - когда ей рожать
+- round about - кольцевая развязка
+- en route / on my way - на пути
+- I made my way to here - я проделал это путь сюда
+- entitled - вправе, имеющий право.
+	- He is entitled to decent working conditions
+	- we're entitled - мы имеем право
+- overhead lockers - верхние шкафчики
+- sorry, love - прости, дорогая
+- other way around - наоборот
+	- I should be telling you what to do, not the other way around.
+- drown in something - тонуть в (делах).
+	- The student was drowning in homework and couldn't find time to relax.
+- bribe - взятка
+- cut in line - пройти без очереди
+- cut the corner - срезать путь
+- acknowledgement -  признание
+- velocity - скорость
+- thunderbolt - молния
+- goad - стрекало
+- barley corn - ячменное зерно
+- upward - вверх, наверх
+- crescent moon - полумесяц
+- factually - фактически
+- meter - счетчик, измеритель
+- pavement - тротуар, дорожное покрытие
+- taking readings - снятие показаний
+- short cut - легкий путь
+- boldly - смело, решительно
+- assert - утверждать
+- union - профсоюз
+- strike - забастовка
+- accident - несчастный случай
+- suspend - приостанавливать.
+	- The union suspended strike action this week.
+- revoke - отозвать, аннулировать
+	- His driver's license was revoked after the accident.
+- in a nutshell - в двух словах, если кратко
+	- In a nutshell, we’re saying the project was successful.
+- fall/slip through/between the cracks - упускается из виду, не берется в расчет
+	- Some details fell through the cracks in the report.
+- postpone - отложить
+- indefinitely - на неопределённый срок
+	- The meeting has been postponed indefinitely.
+	- The law was indefinitely postponed (когда indefinitely перед глаг это усиление)
+- wax - воск
+- seal - закрыть, запечатать, тюлень
+	- The envelope was sealed with wax.
+- overstay - просрочить
+- your visa is no longer valid - виза больше не действительна
+- come true - сбыться
+- what was surprising? / what surprised you? - что тебя удивило?
+- rebellious - бунтарский, мятежный
+- rebel - бунтарь, мятежник
+	- He was a rebel when he was a teenager and dyed his hair pink.
+	- liberty rebels - бунтари за свободу
+- confined - ограничен, прикованный
+- within the confines of - в пределах, в границах
+- confines - пределы, границы, рамки
+	- He was not allowed to leave the confines of the camp.
+- sort out - разобраться с чем-то/с кем-то
+	- We need to sort out this misunderstanding quickly.
+- behold - созерцать
+- discharge - выполнение
+- dexterity - ловкость
+- serenity - спокойствие
+- kindheartedness - добросердечие
+- pancakes - блины
+- fritter - оладья
+- come forth - выходить, появляться
+- ingenuity - изобретательность
+- gentility - благородство
+- magnanimity - великодушие
+- determination - решительность
+- joyfulness - радость
+- immovability - неподвижность
+- fidelity - верность
+- numerous - многочисленные
+- realm - царство, сфера, область, мир
+- vitality - жизненная сила
+- bodily - телесный
+- tranquility - спокойствие
+- aspirant - претендент
+- overlap - перекрывать
+- splendorous - великолепный
+- transient - временный
+- splendor - великолепие, блеск
+- a glass-half-full 
+- a glass-half-empty
+- a few - несколько, немного (в смысле достаточно)
+	- I just need a few days to finish this task - Мне нужно несколько дней, чтобы закончить это задание
+- few - немного (в смысле недостаточно)
+	- Most of her ideas are crazy, there are few that I like - Большинство ее идей безумны, есть очень мало таких, которые мне нравятся
+- a little - немного (ни много, ни мало, в самый раз)
+	- Can I have a little water, please? - Можно мне немного воды, пожалуйста?
+- little - мало, слишком мало (недостаточно)
+	- We have little time, so we can't go for a walk - У нас мало времени, поэтому мы не можем выйти на прогулку
+
+2й условный нереальное настоящее
+If I could go back (but I can't) - present 
+
+when I am older - когда я буду старше - когда временные вопросительные слова не надо время
+
+when it comes to - когда дело касается
+
+If I had done
+
+are you following me? - ты за мной следишь?
+you will be always filmed - тебя всегда будут снимать
+
+
+
+- illiterate - безграмотный
+- you won't let me practice enough - ты не даешь мне дост практики
+- you wouldn't let me practice enough - ты ни в какую не давала мне
+- afford - позволить себе
+	- I can barely afford to pay it - Я едва могу себе позволить заплатить это
+- keen on - увлеченный
+- utility bills - коммунальные счета
+- I wish I were smarter
+- lay off - уволить
+- you are assertive - ты напористый
+- insist - настаивать
+- It will do - это подойдет
+- it would do - это подошло бы
+- live through - пережить
+- considerate - внимательный, заботливый
+	- She is always so considerate toward her friends
+	- Sarah is very considerate; she always thinks about other people’s feelings.
+- tuition - обучение
+- That's your tell - Это то, что тебя выдаёт.
+	- When you start fidgeting, that's your tell that you're nervous.
+	- A smile can be a tell that someone is hiding something.
+	- He tried to act calm, but that sigh was decidedly his tell.
+- Be up to something - замышлять, затевать что-то
+	- I think he’s up to something; he’s been acting suspiciously.
+	- Are you up to something fun this weekend?
+	- She was up to something when she kept looking at her watch.
+-  used to - раньше делал (сейчас не делаю)
+	- I used to love playing the piano, but I haven't touched it in years.
+	- She used to do yoga every morning, but now she prefers running.
+	- They used to be best friends, but they lost touch after high school.
+- Whatever it takes - чего бы это не стоило
+	- I’ll do whatever it takes to succeed in this competition.
+	- She promised to fight for her rights, whatever it takes.
+	- He’s determined to win back his title, whatever it takes.
+- Had it coming - сам напросился, заслужил (неприятности)
+	- After all those warnings, he had it coming when he got fired.
+	- She knew she was breaking the rules and had it coming.
+	- They treated everyone poorly and now they had it coming.
+- treat somebody like a ... - относиться к кому-то как к ...
+	- Don’t treat me like a child; I can handle this!
+	- If you keep treating her like a servant, she will leave.
+	- He treats his friends like family.
+- treat someone/something - обращаться с кем-то, с чем-то 
+	- He treated his wife very badly.
+- Break somebody's trust - подорвать чье-то доверие
+	- Lying can easily break someone's trust.
+	- He broke her trust when he shared her secrets.
+	- Once you break someone's trust, it’s hard to rebuild it.
+- Win somebody/something back - вернуть кого-то/что-то, отвоевать обратно
+	- He’s trying to win her back after their breakup.
+	- The team worked hard to win their championship title back.
+	- It will take time to win my trust back after what happened.
+- borough - район
+- by-products - побочные продукты
+- twitch - дергаться
+- waterboarding - пытка водой, утопление
+- crinkle - морщиться
+- delight - восторг, радость
+- nuclear family - малая семья (супруги и их дети)
+- immediate family - ближайшие родственники
+- extended family – большая семья, включая всех родственников супругов
+- distant relatives - дальние родственники
+- spouses – супруги
+- conceive - понять
+- agitate - волновать
+- agitation - возбуждение, волнение
+- greed - жадность
+- feeling - чувство
+- disgust - отвращение
+- attraction - привлечение
+- impartial - беспристрастный
+- curb - обуздать, сдерживать
+- prejudiced - предвзятый
+- prejudice - предубеждение
+- partiality - пристрастность
+- favoritism - предпочтения
+- good reasons - веские причины
+- erring - заблудший, ошибающийся
+- steadiness - устойчивость, уравновешенность (отсутствие чувств)
+- inscrutability - непроницаемость (скрывает чувства)
+- concealment - сокрытие
+- crest jewel - драгоценный камень
+- vanish - исчезать
+- extra - особенно
+- sentient - чувствительный
+- insentient - бесчувственный
+- readily available - легкодоступный
+- bathe - искупаться
+- wherever - где бы ни
+- hanker after - жаждать, страстно желать
+- hankering - страстное желание
+- hanker for - скучать по, жаждать
+- deficient - несовершенный
+- siblings - братья и сестры
+	- siblings rivalry - соперничество братьев и сестер
+- step father – отчим
+- step mother – мачеха
+- mother-in-law/father-in-law – родители супруга
+- my in-laws – мои родственники со стороны супруга
+- stepsister / brother - сводные сестра / брат (от разных родителей, неродные по крови)
+- half-sister/brother - сводные сестра / брат (один общий родитель)
+- My sister is two years older than me – Моя сестра старше меня на 2 года
+- I look a lot like my mum / I look more like my mum / I am the spitting image of my mum – Я похож внешне на маму
+- I take after my mother – Я пошел в мать (больше о характере)
+- as far as I concerned - насколько я понимаю
+- I didn't see it coming - я этого не предвидел
+- Did he have it coming - он это заслужил?
+- I can tell - я могу по нему сказать что он ...
+- miraculous - чудесный
+- on purpose - специально
+- physical education (pe) - физкультура
+- I can’t help thinking that … - я не моу не думать
+- it's not gonna happen - этого не может быть
+- show off - хвастаться
+- a trained lawyer - опытный юрист
+- whereabout - местонахождение
+- one-story house - одноэтажный дом
+- to tiptoe / sneak on the tips of one's toes - красться на цыпочках
+- brilliance - блеск, великолепие
+- superset - надмножество
+- generosity - щедрость, великодушие
+- generous - щедрый, великодушный
+- generously - щедро, великодушно
+- charitable - баготворительный, щедрый
+- supplicant - проситель
+- reciter - чтец
+- copper - медь, медный
+- amorous - любовный
+- rest - покоиться
+- wound - рана
+- roam - бродить
+- roam about - бродить вокруг
+- pebble - камень, галька
+- garment - одежда
+- inundate - затопить
+- adopting - приняв
+- meanwhile - при этом
+- sacrifice - жертва
+- sacrificing - пожертвовав
+- get down - спуститься
+- [hurry](Irregular%20verbs.md#^2a4f87) - спешить
+- hurriedly - поспешно
+- adopt - принять
+- consort - общаться, супруга
+- serpentine - змееподобный
 - To gloss over something – замалчивать, представлять в лучшем свете (смягчать, приукрашивать); 
 	- When I told Mom and Dad about my night, I just glossed over the fact that I’d gotten a parking ticket. 
 	- Don’t gloss over your own role in this fiasco! 
-- To get a rise out of someone – выводить из себя, раздразнить/ разозлить кого-либо; 
+- To get a rise out of someone – выводить кого-то из себя
 	- Don’t pay any attention to him, Bill, he’s just trying to get a rise out of you. 
 	- My brother knows that I’m both gullible and easy to irritate, so he loves getting a rise out of me.
 	- it gets rise out of me
-- If the shoe fits (, wear it) – признай(те) правоту; 
+- If the shoe fits (, wear it) – признай(те) правоту; признай, что так оно и есть
 	- I know you don’t like being called unreliable, but if the shoe fits, wear it. 
 	- A: “Why do teachers always treat me like some kind of troublemaker?” B: “If the shoe fits…” 
 - To coax (someone or something) out of (something) – а) выманивать; б) добиться чего-либо от кого-либо с помощью уговоров, лести, ласки и т. д.; 
@@ -13,14 +421,17 @@
 	- Janet coaxed the child out of the closet with a promise of a piece of cake. 
 - To get (be, wander) off the point – отойти/ отклониться от темы; 
 	- His remark seems to be off the point. 
-- To lose one’s cool (to blow one’s cool) – взорваться, выйти из себя, потерять самообладание; 
+- To lose one’s cool – взорваться, выйти из себя, потерять самообладание; 
 	- He really lost his cool when the waiter dropped his food. 
 	- I really lost my cool during the interview. 
+	- lose your temper
+	- blow your cool
 - To go out of one’s way – делать все возможное, стараться изо всех сил, прилагать все усилия, из кожи вон лезть; 
 	- You need to thank Monica – she really went out of her way to get you this job interview. 
 	- We appreciate anything you can do, but don’t go out of your way. 
 - To be on the same page with someone – придерживаться единого мнения, иметь одинаковое видение или понимание ситуации; 
 	- We all need to be on the same page before we try to present this complex idea to the boss. 
+- superficial - поверхостный
 - To perk up – воспрянуть духом, взбодриться, восстановиться; 
 	- I just can’t focus until I get perked up with a bit of coffee in the morning.
 - To toss one’s cookies – вытошнить, вырвать; 
@@ -36,15 +447,27 @@
 	- Laugh your way to a better marriage. "Просмей" свой путь в лучший брак.
 - name-calling - обзывательство
 - thoroughly - тщательно, полностью
-- for - ибо
+- transitory - преходящий
+- for - ибо, потому что
+	- I speak the truth, for I have seen sixteen marks on His feet
+- delineate - определить
 - weld - сварка, сварной шов
 - evident - очевидный
 - approval - утверждение
-- approve - утверждать
+- approve - утверждать, одобрить
+- aged - старый
+- culminate - достигать высшей точки
+- calf - теленок
+- elevate - возвышать
+- elevated - возвышенный
+- calves - телята
+- proposition - утверждение, тезис
+- preceptor - наставник
 - That is the difference - вот в чем разница
 - abuse - оскорбление
 - infuse - наполнить
 - accord - согласие
+- veneration - почитание
 - beak - клюв
 - workshop - мастерская
 - feather - перо
@@ -52,25 +475,43 @@
 - decry - осуждать
 - device - механизм
 - gloriously - великолепно
+- stool - испражнения
+- evacuation - опорожнение
 -  tender bud - нежный бутон
+- tolerance - терпение
 - bring out - раскрыть
+- mutual - взаимный
+- while the prime of life - в расцвете сил
 - injure - повредить
 - injury - повреждение
-- inclination - склонность, желание
+- inclination - склонность, желание, стремление
 - humanity - человечество
 - proprietor - собственник, владелец
 - entreaty - мольба, просьба
 - magnanimous - великодушный
 - bolt - засов
+- youthful - молодой, юный
+- enchant - очаровать
+- stream - течь, струиться
+- densely - густо
+- persecution - преследование
+- fickle - непостоянный
+- bind up - связать
+- bent - изгиб
 - ripen - созревать
+- notes - ноты
+- befall - обрушиться, произойти
+- eyebrows - брови
+- eyelashes - ресницы
+- intoxication - опьянение
 - resort - прибегать, обращаться
 - longing - тоска
+- long - тосковать
 - denote - обозначать
 - smear - умащать
 - wipe out - уничтожать
 - enlighten - пролить свет, просвещать
 - delineation - описание
-- generously - щедро, великодушно
 - irrespective - независимо
 - earnestly - искренно
 - all the while - все это время
@@ -79,6 +520,7 @@
 - profuse - обильный
 - round the corner - за углом
 	- Christmas is round the corner  - Рождество не за горами
+- be all stressed out over - волноваться, стрессовать из-за
 - being stressed over making the right decision - испытывать стресс из-за необходимости принять правильное решение
 - thirst - жажда
 - hunger - голод
@@ -88,6 +530,8 @@
 - reap - пожинать, получать
 - impoverished - бедный
 - pull up - поднять
+- right and left - направо и налево
+	- He spends money right and left
 - befit - соответствовать
 - bubbling - кипящий
 - and such - и тому подобное
@@ -113,10 +557,16 @@
 - bereft of - лишенный
 - condemn - осуждать
 - inclusion - включение
+- fever - жар
+- offender - виновный
+- trace of sorrow - след печали
 - livelihood - средства к существованию
 - discourse - рассуждение
 - means - средства
 - afflict - поражать, причинять боль
+	- afflicted with fear - охваченный страхом
+- supplications - мольба, молитва
+- valor - доблесть, мужество
 - inflict - причинять
 - lineage - родословная
 - distress - бедствие, горе
@@ -125,12 +575,13 @@
 - inquiry - вопрос
 - causative - причинный
 - for this end - с этой целью
+- enhance - улучшать
 - for centuries - на протяжении веков
 - not even you is qualified - даже ты не квалифицирован
 - fragrance - аромат
-- fragrance - коренной житель
 - tending - уход за
 - favor - благосклонность
+- in favor of - в пользу
 - ascertain - установить
 - other than - кроме, за исключением
 - endow - наделять
@@ -144,6 +595,7 @@
 - principal - главный, основной, директор, руководитель
 - dominion - господство
 - contemplate - созерцать
+- zeal - рвение
 - piety - благочестие
 - conversant - сведующий
 - in a sense - в некотором смысле
@@ -155,13 +607,20 @@
 - hardship - трудность
 - by chance - случайно
 - credit - заслуга
+- deficiency - недостаточность
 - reverence - почтение, благоговение
 - revere - почитать
+- enumeration - перечисление
 - affection - привязанность, любовь
 - affectionate - любящий
 - indebted - обязанный
+- indecision -  нерешительность
+	- I with indecision - я в нерешительности
+- struck with wonder - поражен
 - indebtedness - задолженность, долг
 - meager - мизерный
+- embodiment - воплощение
+- dissimilar - различный, отличаться
 - formation - образование, построение
 - throb - пульс
 - futurity - будущее
@@ -170,11 +629,14 @@
 - tranquil - умиротворенный
 - as approved - утвержденный
 - disprove - опровергнуть
+- transfer - предавать
+- rebuke - упрек
 - infatuation - увлечение, страсть, одержимость
 - bondage - рабство, зависимость
 - accrue - получать, начислять
 - fellowship - общение
 - proximity - близость
+- fondness - любовь
 - fond of - увлекаться, привязан к
 - dative case - дательный падеж
 - genitive case - родительный падеж
@@ -188,32 +650,72 @@
 - propound - выдвигать
 - welfare - благополучие
 - cease - прекращаться
+- lust - вожделение, страсть, желание, похотливость
+- lusty - похотливый
 - abundant - обильный
 - bring about - привести к 
 - bring under - взять под 
 - bring out - раскрыть, выявить, показать
-- jewel - драгоценность
+- jewel - драгоценность, драгоценный камень
 - praise - прославление
-- inferior - неполноценный
+- discredits - опорочить
+- illumination - освещение
+- mountain range - горная цепь
+- progressive - последовательный
+- sport - игра
+- supreme - верховный
+- vernacular - родной/местный язык
+- raise - растить
+	- she was raised by her grandparents - ее вырастили бабушка и дедушка
+- inferior - неполноценный, низший, младший
 - abundance - богатство, обилие
 - pious - благочестивый
 - skillful - опытный, умелый
 - survival - выживание
+- surface - появляться
+- shout - кричать
+- contemporary - современник
+- disrespect - пренебрежение
+- aspiration - стремление
+- fulfill - выполнять, удовлетворять
+- confusion - путаница, смятение
+- firm - твердый, устойчивый, непоколебимый
+- prerequisite - обязательное условие
 - undertaking - предприятие, начинание
+- continuous - непрерывный
+- without beginning - без начала
+- refined sugar - рафинированный сахар
+- inundate - затоплять
+- childhood - детство
+- boyhood - отрочество
 - wander about - бродить
 - seemingly - похоже, по-видимому
 - he is at fault - он виноват
-- fault - вина, ошибка
+- fault - вина, ошибка, недостаток
 - failing - нежелание
 - fail - терпеть неудачу, отказаться
 - unbroken - непрерывный
 - cowheard - пастух
+- reverential - благоговейный
 - predominate - преобладать
 - predominant - преобладающий
+- predominantly - преимущественно, главным образом, прежде всего
 - eminent - выдающийся
 - saintly - святой
+- primeval - изначальный
+- shy - скромный, застенчивый
+- pervasive - всепроникающий
+- climate - климат
+- diluted - разбавленный
+- dilute - разбавлять
+- semblance - подобие
+- resemblance - сходство
+- foundation - основание
 - upholder - вседержитель
+- overcome - преодолеть, побороть, победить
+- advancement - продвижение, развитие
 - distinguished - выдающийся
+- distinguish - отличать, выделять
 - contrary to - противоречить
 - make use of - использовать
 - exhaust - исчерпать
@@ -221,6 +723,7 @@
 - rear - хвостовая часть
 - judiciously - разумно
 - a sequence of some sort - какая-то последовательность
+- lounge - зал, холл
 - multiplied by the number - умножить на число
 - whatsoever - вообще
 - crucial - важный
@@ -239,13 +742,15 @@
 - domination - господство
 - dominion - власть
 - waver - колебаться
+- wicked - нечестивый, грешный
+- rascals - негодяй
 - relief - облегчение
 - relieve - облегчить, освободить
-- fatigue - усталость
+- clockwise - по часовой стрелке
 - perish - погибнуть
 - perishable - преходящий, бренный
-- arise - возникать
-- profound - глубокий
+- imbued - наполненный
+- look hard - присмотрись повнимательнее
 - succession - череда
 - club - булава
 - chastise - наказать
@@ -257,6 +762,8 @@
 - wrath - гнев
 - tinge - оттенок
 - nourish - питать, поддерживать
+- nourishment - питание
+- take on - принимать, приобретать
 - Portion - часть
 - Elucidate- разъяснять
 - extensive - обширный
@@ -280,8 +787,10 @@
 - sprout - прорастать
 - everlasting - вечный
 - mellow - вкус
+- wane - ослабевать, убывать
 - at once - сразу, тотчас
-- extinguish - тушить
+- extinguish - тушить, уничтожить, искоренить
+- offend - оскорбить
 - lamentation - скорбь
 - discernment - проницательность, рассудительность
 - discrimination - проницательность
@@ -290,50 +799,43 @@
 - hospitality - гостеприимство
 - disciplinary - дисциплина, воспитательный
 - conduct - поведение
-
-
-
 - to take a beat/pause - сделать паузу
-
-badger - доставала
-
 - deliberately - намеренно
 	- deliver the news deliberately
 - deliberate - размышлять, обдумывать
 	- deliberate on the truth - размышлять об истине
+- feel like - хотеть
+	- I don't feel like it/doing smth - мне не хочется этого/делать что-то
+	- I feel like watching new series
+	- I feel like having some tea
+
+badger - доставала
 
 Are you up for? I'm not up for this - что ты собираешься делать?
 
 I'd rather not eat it/go there/watch it. - я бы лучше не ел это/пошел туда/смотрел это
 
-I don't feel like it/doing smth - что-то мне не хочется
-I feel like watching new series
-I feel like having some tea
-
 my schedule is packed/crowd
 
 reluctant
 
-draw/get attention - привлечь внимание
-
-
-
-diffusion - распространение 
-very form - сама форма
-Host  - множество 
-gestures - жесты
-fondly - нежно
-eternal peace incarnate in mood to Sanatana - вечный мир воплощенный в настроении Санатаны
-he is the means  of success - он является средством успеха 
-good fortune - удача
-obsessed by - одержимый
-esteem - уважение
-compile - составлять 
-remarkable - замечательный 
-discern - понять, выяснить, различать
-introductory - вступительный, вводный 
-announce - объявить  сообщить
-successive - последовательный
+- draw/get attention - привлечь внимание
+- diffusion - распространение 
+- very form - сама форма
+- host  - множество 
+- gestures - жесты
+- fondly - нежно
+- eternal peace incarnate in mood to Sanatana - вечный мир воплощенный в настроении Санатаны
+- he is the means  of success - он является средством успеха 
+- good fortune - удача
+- obsessed by - одержимый
+- esteem - уважение
+- compile - составлять 
+- remarkable - замечательный 
+- discern - понять, выяснить, различать
+- introductory - вступительный, вводный 
+- announce - объявить  сообщить
+- successive - последовательный
 - appearance - появление
 - defeat - побеждать
 - transcend - превзойти
@@ -341,6 +843,7 @@ successive - последовательный
 - eulogy - восхваление
 - cozy - уютный
 - pathway - путь
+- impression - впечатление
 - stumble - спотыкаться
 - joyous - радостный
 - deride - высмеивать
@@ -350,19 +853,24 @@ successive - последовательный
 - conclude - заключить, приходить к выводу
 - conclusion - вывод
 - quiver - дрожь
+- effort - усилие
+- exert - прилагать
+- exertion - напряжение
 - extreme - предел, крайность
 - dwell - жить, обитать, останавливаться
-- splendor - великолепие
+- splendor - великолепие, блеск
 - buzz - жужжать
 - bloom - распускаться, цвести
+- apparent - видимый, явный
 He is famous for bestowing happiness
 astounding - поразительный, удивительный
-original - исходный
+original - исходный, источник
 particularly - особенно
 inquisitive - любознательный
 particular - конкретный, определенный
 prominence - известность
 specifically - особенно, именно 
+gently - мягко, аккуратно
 dispel - развеять
 - bound - связанный
 - consult - консультироваться, обратиться к
@@ -371,7 +879,7 @@ descent - нисхождение
 chariot driver  - колесничий
 whip - плеть
 bridle rope - уздечка
-brilliant - блестящий, потрясающий
+brilliant - блестящий, потрясающий, сверкающий
 whoever -кто бы ни
 disturbance - беспокойство
 blinking - моргание
@@ -382,13 +890,21 @@ potency - сила
 submit - представлять
 plenary - полный
 excel - превосходить
+carry out - выполнять
 excellence - совершенство, превосходство 
 cowherd - пастух
 conclusively - окончательно
 inert - неподвижный
 situation - положение, состояние
 bodily hairs stood on end - волосы на теле встали дыбом 
-subduer - усилитель 
+- subduer - покоритель 
+- subdue - подчинить, покорить
+- opulence - богатство, изобилие
+- clamor - шум
+- unprecedented - беспрецедентный
+- uphold - выполнять
+- intensity - интенсивность
+
 emanate - исходить, вытекать
 wrestler - борец 
 lightning bolt - удар молнии
@@ -397,10 +913,10 @@ superiority - превосходство
 conjugal - супружеский
 depict - показать, описать
 loveliness - красота, очарование
-Fame - слава 
-exclusive - уникальный, исключительный
-exquisite - изысканный 
-sapphire - сапфир
+- exclusive - уникальный, исключительный
+- inclusive - всеобъемлющий
+- exquisite - изысканный 
+- sapphire - сапфир
 - in a sense - в некотором смысле, по сути
 - to drive the point home - чтобы довести дело до конца
 - as a side note - в качестве примечания
@@ -435,8 +951,11 @@ sapphire - сапфир
 - anticipate - ожидать
 - coalesce - сливаться, объединяться
 - precise - точный
+- display - показывать, проявлять
+- fragile - хрупкий, уязвимый
+- evaporate - испоряться
 - beneficial - полезный
-- benefits - преимущества
+- benefit - польза, благо, преимущество
 - tremendously - чрезвычайно
 - gain - получать, выгода, достижение
 - regain - восстановить
@@ -455,6 +974,8 @@ sapphire - сапфир
 	- you come to appreciate - ты начинаешь ценить
 - necessitate - требуют
 - pinpoint - точно определять
+- viewpoint - точка зрения
+- what's the point of - зачем
 - relate - связывать, относиться, рассказывать
 - solely - исключительно, только
 - imply - предполагать, подразумевать
@@ -468,6 +989,9 @@ sapphire - сапфир
 - whatever - независимо от
 - constraint - ограничение
 - violate - нарушать
+	- If you violate the rules, there will be consequences.
+	- He didn’t mean to violate her privacy.
+	- The company was fined for violating safety regulations.
 - intact - нетронутый
 - outcome - результат
 - What’s more - более того
@@ -489,7 +1013,9 @@ sapphire - сапфир
 	- it's not crucial - это не критично
 - internalize - усваивать
 	- you internalize every single concept
-- occurence - явление, частота
+- occurrence - возникновение, явление, частота
+- subject to - подвергаться
+- import - суть
 - as long as - до тех пор пока
 	- as long as it doesn’t crash or hang - пока он не упадет или зависнет
 - so long as - так как, пока
@@ -510,7 +1036,6 @@ sapphire - сапфир
 - would go - пойдет
 - puzzle - головоломка
 - to puzzle together - собирать вместе
-- keep going - продолжить, двигаться вперед
 - one-liner - одна-строчка
 - flavor - вкус, аромат
 - employ - использовать
@@ -543,6 +1068,36 @@ over
 - lament - сожалеть, сокрушаться, причитать
 - lamentation - причитание, жалобы
 - inquired - спросил
+- eloquent - красноречивый
+- learned - эрудированный
+- aesthetic - эстетический
+- grateful - благодарный
+- persevering - настойчивый, упорный
+- inscrutable - непостижимый, непроницаемый
+- steadfast - непоколебимый, стойкий, непреклонный
+- incomparable - несравненный
+- heroic - героический, мужественный, храбрый
+- uniform - единый, одинаковый, постоянный
+- virtuous - добродетельный
+- compliant - уступчивый
+- modest - скромный
+- modesty - скромность, стыдливость
+- expanse - пространство, простор, раздолье
+- hung - повесить
+- bashful - застенчивый
+- benefactor - благодетель
+- renowned - известный, знаменитый
+- important - главный, важный
+- upraise - поднять
+- fearful - испуганный
+- cheek - щека
+- knee - колено
+- finger joints - суставы пальцев
+- equanimity - невозмутимость
+- faithfulness - верность
+- chivalry - рыцарство
+- fathom - понять, постичь
+- suppressed - подавленный
 - envious of - завидовал
 - staunch - ярый
 - rage - ярость
@@ -592,13 +1147,7 @@ over
 - I'm early bird
 - we gotta do this more often - нам надо чаще так делать
 - conceal - скрыть
-
-
-	айшварьясья самаграсья вирьясья яшаса шрия  
-гьяна-вайрагьяйош чайва шаннабхагаитингана  
-(Бхагавата-сандарбха 46.10)
-
-- Sloppy – небрежный, неряшливый, неаккуратный
+- sloppy – небрежный, неряшливый, неаккуратный
 	- to be a sloppy dresser
 	- to use sloppy English
 	- Sloppy acting – неубедительная игра актеров;
@@ -617,7 +1166,10 @@ over
 - standout - выдающийся
 	- standout special effects - выдающиеся/оттличные спецэффекты
 - tangle - запутывать
-- untangle - распутать
+- put something behind you - забыть, оставить позади
+- a knee-jerk reaction - рефлекторная/спонтанная реакция
+- a double whammy - двойная неприятность, удар
+- untangle - распутать, разгадать
 	- unravel
 	- She carefully untangled the child’s hair
 - untangling - распутывание
@@ -631,7 +1183,9 @@ over
 	- We’ll never know exactly how she died, we can only conjecture
 - assume - предположить, принимать
 - family affairs - семейные дела
+- household affairs - домашние дела
 - broadcast - распространять
+- broad - широкий
 - eventually - в конце концов
 - survey - обзор, исследование
 - comprehensive - всесторонний
@@ -707,13 +1261,14 @@ over
 - to end up - оказаться, заканчиваться тем, что... 
 	- I ended up doing all the work myself. 
 	- If you go on like this you'll end up in prison.
+- work something out - проработать, решать, вырабатывать решение, согласовывать
+- be on a first-name basis - быть на ты, называть друг друга по именам
 - over‐narrowing - чрезмерное сужение
 - waste - мусор
 - flesh out - конкретизировать
 - dummy - фиктивный
 - accommodate - учитывать, разместить
 - retain - сохранить
-- seal - запечатывать
 - disparate - несопоставимый
 - read on - читай дальше
 - interleave - чередовать
@@ -732,7 +1287,6 @@ over
 - tidying - приведение в порядок
 - judicious - разумный
 - justifiable - оправданный, обоснованный
-- disguise - маскировка
 - otherwise - иным образом
 - reduction - сокращение
 - enjoin - предписывать
@@ -740,7 +1294,6 @@ over
 - distribute - распределять
 - sit - находиться
 - up‐close - вблизи, крупным планом
-- viewpoint - точка зрения
 - impediment - препятствие
 - notion - понятие, понимание
 - constituent - составной
@@ -756,6 +1309,7 @@ over
 - Thai food - тайская еда
 - coherent - связный, согласованный
 - on top of - на вершине, помимо
+- on top of that - в добавок ко всему, более того
 - a set of - ряд, набор
 - arity - арность (количество аргументов)
 - shorthand - сокращение
@@ -773,7 +1327,7 @@ over
 - bloat - раздувать
 - tedious - утомительный
 - hit - столкнуться, достигать
-- a variety of - множество
+- variety (of) - множество, разнообразие
 - compose - составлять, складывать
 - combine - объединять
 - compound - соединение
@@ -792,7 +1346,7 @@ over
 - expose - показать
 - one-size-fits-all - унверсальный
 - roll out - развернуть
-- disguise - маскировать
+- disguise - маскировать, маскировка, скрывать, замаскировать
 - devastate - разрушать
 - transmission - передача
 - viscous - вязкий
@@ -805,16 +1359,24 @@ over
 - downside - недостаток
 - traversal - обход 
 - depth - глубина
+- torso - тело
 - safety - безопасность
-- enforce - обеспечивать
+- enforce - обеспечивать, усилить
+- flourish - процветать
 - defer - отложить
 - interleav - чередовать
+- oath - клятва, обет
 - preserve - сохранить
 - host - принимать, множество
 - afford - позволять себе ч-л
 - get back - вернуться
+- absorb - поглощать, усваивать
 - reliably - надежно
 - a number of - ряд
+- number - насчитываться
+- deliberation - обдумывание, осмотрительность
+- discernment - проницательность
+- breeze - ветерок
 - generalise - обобщать
 - thread - нить, связывать, передавать
 	- thread them together - связать их вместе
@@ -829,6 +1391,7 @@ over
 - onward - вперед
 - complement - дополнение
 - ambiguous - двусмысленный
+- not in the least - ни в малейшей степени, ничуть, нисколько
 - Last but not least - Последний, но тем не менее важный
 - once and for all - раз и на всегда
 - space suit - скафандр
@@ -860,7 +1423,7 @@ over
 - contempt - пренебрежение
 - extensive - широкий
 	- extensive use - широкое использование
-- bear (bore-bear-born-bearing) - носить, терпеть, нести бремя ч-л
+- [bear](Irregular%20verbs.md#^b9dd16) - носить, терпеть, нести бремя ч-л; рожать
 	- She bore her husband two sons - Она родила своему мужу двух сыновей
 	- Why did you bear him? - Почему ты его терпела?
 	- Hard work will bear the desired fruit - Тяжелая работа принесет желаемый плод
@@ -875,8 +1438,28 @@ over
 - fainted consciousness - потерял сознание
 - daydream - мечта, мечтать
 - steady - устойчивый
+- apt - подходящий, уместный
+- blown away - потрясенный, пораженный
+- miscellaneous - прочие
 - unsteady - неустойчивый
 - by dint of - благодаря
+- forcefully - насильственно
+- gobble up - сожрать, поглощать
+- pun - игра слов
+	- pun on words - игра слов
+- continually - непрерывно
+- tremble - дрожать, трепетать
+- submerging - погружаясь
+- expansive - обширный, широкий
+- thick - толстый, густой
+- growth - заросли
+- handling - обращение
+	- handling weapons - обращение с оружием
+- blossom - цвести, расцветать
+- impenetrable - непроницаемый
+- be imprisoned - быть заключенным в тюрьму
+- compassion - сострадание
+- ferocious - свирепый, жестокий, яростный
 - force/power of habit - сила привычки
 - matter of habit - дело привычки
 - does this ring a bell - это звучит знакомо?
@@ -907,9 +1490,21 @@ over
 	- profound changes in the earth’s climate 
 	- My father's death had a profound effect on us all.
 	- I feel profound happiness after that encounters
-- to talk someone's ear off - утомлять разговорами 
+- to talk someone's ears off - утомлять разговорами 
 	- That guy on the plane talked my ear off – I couldn’t wait to land.  
     - How was your date? - Eh, not great. She just talked my ears off about politics all night
+- keep - сохранить
+- to keep (a) secret - держать, сохранить это в секрете
+	- Do you think we'll manage to keep the surprise party secret from Mum until her birthday?
+	- I asked him if he could keep a secret.
+- upkeep - содержание (дома)
+- keep going - продолжить, двигаться вперед
+- keep silent - промолчать
+- keep silence - соблюдайте тишину
+- keep/be/stay in (close) contact/touch (with someone) - поддерживать отношения, оставаться на связи
+	- Are you still in touch with any of your old school friends? 
+	- Jen and I never kept in touch after college.
+	- let's keep/be in touch
 - to keep (someone/something) out of something - отделять одно от другого, держаться подальше от 
 	- You should keep your personal life out of your work. 
 	- Keep the baby out of the sun. 
@@ -977,17 +1572,23 @@ over
 	- They came up with a plan to make us more efficient.
 - boil down to (= come down to) - сводиться к чему-либо;  
 	- The problem boils down to one thing - lack of money.  
-	- In the end, it boils down to how much effort you’re willing to put in. 
+- In the end, it boils down to how much effort you’re willing to put in. 
 	- After all the discussion, it boils down to weather we want to take risks or play it safe.
 - stay out - не возвращаться домой
 	- My parents allow me to stay out late - мои родители разрешают мне гулять (не возвращаться домой) допоздна
 - I'm terrified - я напуган
 - conform - соответствовать
+-  conformity - соответствие
+- would suggest - предполагает
 - essence - суть, смысл, квинтэссенция
 - feminine - женский, женский род
 - stringing - нанизывание
+- typify - характеризовать
+- undertake - осуществлять
 - impel -  побуждать
 - impelled - побуждаемый
+- label - маркировать, обозначать
+- chief - главный
 - engrossment - полная поглощенность в деятельности
 - engross - поглощать, завладевать
 - engrossed - поглощенный, увлеченный, погруженный
@@ -1040,12 +1641,13 @@ over
 - What can I get you? - что я могу тебе дать?
 - suspect - подозревать
 - frank - честный
+- get out - выйти, уйти, убираться
 - you can do better - ты достоин лучшего
 - Compliments of - в подарок, в знак признательности от
 	- Compliments of the gentleman
 - early/late in life - с раннего/позднего возраста
 - here she is/comes - вот и она
-- I never actually wished to get out of the cave - я не желал вообщем-то из пещеры
+- cave - пещера
 - You did it on your own - ты сделал это по своей воле (did смысловой так как после него нет глагола в 0 форме)
 - No one's asked me that before - никто не задавал мне такой вопрос до этого (тут has)
 - Not to have to go, "What do you need?" - не быть вынужденным говорить "Что нужно?"
@@ -1053,9 +1655,16 @@ over
 - Such a thing - такая вещь
 - The only way to get out of this is if my master wishes me out - единственный способ выбраться из этой истории это если мой хозяин пожелает освободить меня.
 	- wish me out - захоти меня на свободе 
-- variety - разнообразие
 - off - срываться с места, разделять одно от другого
 - either - любой, также
+- dim - тусклый
+- lit - освещенный
+- fickle - непостоянный
+- sword - меч
+- forgery - подделка
+- minutely - подробно, тщательно, точно
+- novel - новый
+- dummy - фиктивный
 - elimination - устранение
 - bias - предвзятость
 - widow - вдова
@@ -1067,15 +1676,16 @@ over
 - propagation - распространение
 - former - первый
 - sanctum - святилище
+	- intimate - близкий, сокровенный
 - unification - объединение
 - to tempt - соблазнять, побудить, подтолкнуть 
 - plot - замышлять, сюжет
-- grave - могила
+- grave - могила, тяжкий
 - ambush - засада
+- representative - представитель, образец
 - savage - дикарь
 - trap - западн
 - bury - похоронить, закапать
-- rebel - мятежник
 - avenge - отомстить
 - conversion - преобразование
 - to come in handy - пригодиться
@@ -1083,17 +1693,22 @@ over
 - convey - выражать, передавать
 - irrelevant - неуместный
 - equation - формула
+- comb - гребешок
 - examine - исследовать
-- arm - вооружать
+- arm - вооружать, оружие
 - detour - экскурс
 - coerce - удерживать
+- shed tears - проливать слезы
+- labor - труд
 - vary - меняться
+- take up - браться за
 - Informally - неофициально
 - discrepancy - несоответствие
 - reason - рассуждать
 - complication - сложность, трудность
 - eagerly - с нетерпением
 - eager - жаждущий, нетерпеливый
+- eagerness - рвение, стремление
 -  ship - отравлять
 - extent - степень
 - traverse - двигаться
@@ -1122,8 +1737,28 @@ over
 - clean - чистый, уборка
 - cleanse - очищать
 - dirt - грязь
+- realizing - достижение
+- loathe - ненавидеть, гнушаться
+- persevere - упорно продолжать, упорствовать
+- firing - стрельба
+	- for firing arrows - для стрельбы стрелами
+- bow - лук
+- frustration - разочарование
+- howl - вой
+- jackal - шакал
+- crow - ворона
+- pecke - клевать
+- breast - грудь
+- give up - отказаться, бросить
+- [smite](Irregular%20verbs.md#^b8147a) - поражать
+- inflame - разжечь
+- smitten - пораженный
+- subjugate - подчинить, покорить
+- furtive - тайный, скрытый
+- spotless - безупречный
+- reside - проживать
 - observation - наблюдение
-- observe - видеть, отмечать
+- observe - видеть, отмечать, соблюдать
 	- I have observed you being violent with the boys (ing, что означает, что человек видел процесс)
 - address - устранить
 - annoyance - раздражение
@@ -1140,11 +1775,21 @@ over
 - alongside - бок о бок, рядом, вместе с
 - spot - определить
 - tying - связывание
+- deviate - отклоняться
+- undeviating - непоколебимый
+- unflinching - непоколебимый
+- noble - благородный, славный
+- goose bumps - мурашки
 - to summon - вызывать
 - fallback - запасной вариант
 - curious - любопытный
 - quirk - причуда, особенность
 - site - место
+- unadulterated - чистый
+- celebrated - знаменитый
+- arise - возникать
+- give rise to - приводить к
+- rise - начало, рост, подниматься
 - rise and fall (ups and downs) – взлёты и падения
 	- Sometimes in life you feel the fight is over,
 - at moment's notice - в любой момент, по первому требованию
@@ -1159,7 +1804,7 @@ over
 	- It's time for you to step out into the real world. 
 	- I'm stepping out into a new place - я выхожу на новое место
 	- We had been in the conference room for nearly three hours, so we all stepped out into the sunshine to get some fresh air. 
-- majored in X and minored in Y - специализироваться и дополнительно изучать 
+- majored in X and minored in Y - специализироваться в X и дополнительно изучать Y
 	- She majored in history at Stanford. 
 	- Originally I thought I would major in English literature, but I ended up minoring in it. 
 	- Samantha majored in economics and minored in history.
@@ -1174,7 +1819,7 @@ over
 	- I can use a coffee - мне не помешал бы кофе
 	- I figured we could use an extra hand. 
 	- Can I get you anything? - Thanks. I could use a drink.
-- off the charts - зашкаливающий
+- off the charts - зашкаливающий, запредельный, из ряда вон
 	- He’s panicking, his heart rate is off the charts.
 	- House prices are so off the charts that university professors can’t even afford to buy.
 	- Our electricity bill was off the charts last month
@@ -1187,6 +1832,15 @@ over
 	- Well, I suppose it's for the best - Ну, полагаю, это к лучшему
 - tension - напряжение
 - hurt - травма
+- a revelation - откровение
+- hostile - враждебный
+- compulsory - обязательный
+- masculine - мужского рода
+- majesty - великолепие
+- his majesty - его величество
+- submerge - погружаться
+- divergence - отклонение
+- tinged with - с оттенком
 - wish for - пожелание чего-то
 	- I wish for you to be happy - я хочу чтобы ты был  счастлив
 	- I wish for your freedom - я желаю твоей свободы
@@ -1199,7 +1853,7 @@ over
 	- does that feel good - это не классно?!
 - out of box - в коробку не помещается, в голове не помещается
 - out of the box - из коробки
-- out of thin air - из ничего, из ниоткуда 
+- out of thin air - из ничего, из неоткуда 
 	- He appeared out of thin air.
 	- They think they can make money out of thin air.
 - beat
@@ -1211,7 +1865,7 @@ over
 - tough guy - крутой парень
 - scare - пугать
 	- I don't get scared by movies - меня не пугают фильмы
-- tip - чаевые, верхушка (to tip - платить чаевые)
+- tip - чаевые, верхушка (to tip - платить чаевые), кончик
 	- a 15 percent tip - 15% чаевых
 	- They tipped  the waiter £5. 
 	- He gave the porter a tip 
@@ -1219,6 +1873,9 @@ over
 	- We don't need to leave a tip for the waiter, because there's a service charge included in the bill.
 - gig - подработка
 - beckons - манит
+- Can't help it - Ничего не могу с собой поделать.
+- Can't help noticing - Не могу не заметить.
+	- I couldn’t help noticing the bruises on her arm.
 - couldn't help but - не мог не 
 	- I can't help but laugh/I can't help laughing - я не могу удержаться от смеха
 	- Stop giggling! - I can't help it! - я не могу удержаться
@@ -1226,13 +1883,14 @@ over
 	
 	- I couldn't help but notice that you were dining alone. May I join you?
 	- I can’t help falling in love with you - Я не могу не влюбиться в тебя (It’s possible to get along without “but” using -ing form of the verb)
-- took the liberty - взять на себя смелость сделать что-либо 
+- to take the liberty of - взять на себя смелость сделать что-либо 
 	- I took the liberty of ordering an entree for you. I hope you don't mind.
 - certainly - определенно
+- appeal - обращаться
+- boon - благословение
+- portion - часть
 - look a lot like - очень напоминает, похоже 
 	- It's certainly beginning to look a lot like Christmas - Это определенно начинает напоминать Рождество.
-- a hell (/heck) of a day/a week/a year/a job - чертовски сложный / плохой / хороший ... - усилитель = extremely 
-	- We've been having a hell of a time trying to finish on schedule.
 - It wouldn't do it - это бы не подошло/это не сработало
 - wouldn't do smth - нежелание делать что-то
 - It'll do. - Это подойдет. / Сойдет! 
@@ -1241,6 +1899,7 @@ over
 	- That restaurant has the best desserts! - I wouldn't know. I've never been there.
 	-  Why would I know?
 	- How would you know? - А тебе то откуда знать?
+- penetrating - проникая
 - penetrating questions - проникающие, глубокие, личные вопросы 
 	- The professor encouraged his students to not be afraid to ask penetrating questions.
 - be headed - направляться 
@@ -1300,11 +1959,15 @@ I'm not available to date
 - interchangeable - взаимозаменяемый
 - trip up - делать ошибку
 - trip - спотыкаться
+- trip over - споткнуться о
 - the right move - правильный ход, решение
 - you made the right move ...
 - it was a right move ...
 - harsh - жесткий, суровый
 - hush! - тише
+- loss - потеря
+- suffer - страдать, испытывать, понести
+- slightest - малейший, незначительный
 - confront - высказать в лицо, пойти на конфронтацию
 - contradict - противоречить, возражать, противостоять
 - resist - противостоять
@@ -1337,7 +2000,7 @@ I'm not available to date
 	- It turns out we're not that bad after all
 - all the wrong things - всё неправильно 
 	- I always say all the wrong things
-- urge - сильное трудно контролируемое желание, потребность, импульс
+- urge - сильное, трудно контролируемое желание, потребность, импульс
 	- Alcohol increases the urge of smoking. 
 	- The urge to steal is very strong in some of these young men
 - much too = way too (амер) = far too (брит) - чересчур, слишком какое-то
@@ -1346,12 +2009,13 @@ I'm not available to date
 	- You are much too young to smoke. 
 - stall - затягивать, притормаживать 
 	- His career had stalled, hers taken off
-	- stop stalling - хватит тормозить
+	- stop stalling! - хватит тормозить! (тянуть время)
 - custody of - опека над (кем-то) 
 	- The mother got/received custody of the child
 - clog - засор, засорять 
 	- Leaves are clogging (up) the drain
-- change of pace - разнообразие, что-то новенькое 
+- charity - благотворительность, милотсыня
+- change of pace - разнообразие, что-то новенькое, смена обстановки
 	- How about we cook dinner for a change of pace?
 	- Reading a mystery novel has been a real change of pace for me.
 - Help yourself! - Угощайтесь! 
@@ -1379,8 +2043,10 @@ I'm not available to date
 	- He's had a rough time/month/year, what with the divorce and then his father dying.
 - weak-minded - слабоумный
 - like-minded - единомышленник
+- fair-minded - справедливый, беспристрастный
 - cling (clung, clung) to smth/ smb - держаться за что-то, цепляться, прильнуть, прилипать
 	- She clung to the handrail as she walked down the slippery steps.
+- slip in (a comment/question/word) - невзначай вставить комментарий/вопрос/слово в беседу
 - take a moment - улучить минутку, момент
 - take smb long to - занять у кого-то много времени, чтобы
 - It’s just not my day. - Просто не мой день! 
@@ -1396,11 +2062,6 @@ I'm not available to date
 - definitely getting closer (to) - определенно становлюсь ближе (к разгадке, пониманию)
 - Let's get this show on the road! - За дело! Давайте приступим!
 - I am a size six - У меня шестой размер.
-- to keep (a) secret - держать, сохранить это в секрете
-	- Do you think we'll manage to keep the surprise party secret from Mum until her birthday?
-	- I asked him if he could keep a secret.
-- treat someone/something - обращаться с кем-то, с чем-то 
-	- He treated his wife very badly.
 - Not quite - не совсем, не совсем так
 - Check out something - Посмотри-ка на, проверь что-то
 	- We'll need to check out his story. 
@@ -1419,6 +2080,9 @@ I'm not available to date
 - designate - обозначать, определять
 - aural - звуковой
 - reception - восприятие
+- for the long term/haul goals/plan - надолго, на длительный период
+	- he is not someone for the long term
+	- it's for the long haul
 
 mess up - испортить
 screw up - грубо
@@ -1450,10 +2114,6 @@ loony - сумашедший
 a word? - на пару слов
 Can I have a word with you?
 do you have a second/minute? - можно тебя на минуту
-
-for the long term/haul goals/plan -  на длительный период
-he is not someone for the long term - 
-it's for the long haul
 
 one night stand - отношения на одну ночь
 
@@ -1510,9 +2170,6 @@ sophisticated - замудренный
 
 
 run the business - управлять бизнесом
-
-keep silent - промолчать
-keep silence - соблюдайте тишину
 
 eat my words back - беру слова назад
 
@@ -1628,7 +2285,6 @@ give someone the creeps - вызывать у кого-то мурашки по 
 - I get the creeps every time he walks by.
 lights have blown - лампочки перегорели
 I didn't mean to scare you - Я не хотел тебя напугать
-upkeep - содержание (дома)
 whisper - шепот
 We'd best get going - нам лучше идти
 
@@ -1652,15 +2308,21 @@ sleep on it - утро вечера мудренее (подумать, пере
 sleep in - выспаться
 over sleep - проспать
 
-rush off - поспешно уходить
-- As soon as he answered the phone, he rushed off
-on my account - из-за меня
-- Don't leave on my account
-stay the night - остаться на ночь
-- They stayed the night at her brother's
+- rush - спешить, торопиться, бросаться
+- haste - спешка
+- alight - выходить, спешиться
+- rush off - поспешно уходить
+	- As soon as he answered the phone, he rushed off
+- on my account - из-за меня
+	- Don't leave on my account
+- stay the night - остаться на ночь
+	- They stayed the night at her brother's
 - imposition - навязывание
 - impose - навязывать
 - nuisance - неприятность, неудобство, досада
+- look into something - исследовать, изучать, расследовать что-то
+- fascinating - увлекательный
+- it's not (one's) place (to do smth) - не иметь права, не чье-то дело судить 
 
 По нарастанию странности:
 - wacky
@@ -1676,8 +2338,6 @@ I'll race you - я буду соревноваться с тобой
 giggles - хихикает
 
 have someone over - 
-come over - пригласить
-4778.93
 
 1. put/set someone straight 
 2. lowly
@@ -1697,13 +2357,10 @@ come over - пригласить
 17. be prone to something/do something 
 18. Aren't we all?
 19. give or take
-
 21. be flawed
 22. concur 
-23. look into something
 24. go missing
 25. foul play
-26. I haven't got a clue
 27. back somebody up
 28. beat somebody
 29. get off on something
@@ -1715,30 +2372,37 @@ come over - пригласить
 35. a parking ticket, to ticket
 36. predators 
 37. harmless
-38. admit
-40. Thanks to you
-41. mess up
-42. adaptive
-43. food chain
-44. take your time
-45. overrated
-48. the right move
-49. stick around
-50. be over something/somebody
-51. fascinating
-52. to misuse 
-53. recycle
-54. for the long haul
-55. find yourself doing something
-56. prestigious
-57. hold/have/bear a grudge (against)
-58. outrageous 
-59. I('d) bet something (on)
+1. Thanks to you
+2. mess up
+3. adaptive
+4. food chain
+5. take your time
+6. overrated
+7. the right move
+8. stick around
+9. be over something/somebody
+10. to misuse 
+11. recycle
+12. for the long haul
+13. prestigious
+14. hold/have/bear a grudge (against)
+15. outrageous 
+16. I('d) bet something (on)
 
+- beautifully-limbed - прекрасно сложенный
+- trunk - хобот
+- sturdy - прочный, крепкий
+- pillar - колонна
+- hips - бедра
+- admit - признать, принять 
+- come over - пригласить
+- find yourself doing something - оказаться, очучиться
+- I haven't got a clue - понятия не имею
 - against - против
 - laxness - вялость, расслабленность
 - negligence - небрежность
 - opposed to - против
+- opposing - противоположный
 - maturation - созревание
 - obstructive - препятствующий
 - jurisdiction - полномочия
@@ -1746,7 +2410,8 @@ come over - пригласить
 	- If you're going to walk long distances you need proper walking boots. 
 	- She likes everything to be in its proper place.
 - I'm a good judge of character - Я хорошо разбираюсь в людях.
-	- don't be so judging
+	- don't be so judging - не будь таким осуждающим
+- judging - оценка, осуждение
 - present - представлять собой 
 	- The increased cost of living presents a problem for many Americans.
 - worthlessness - бесполезность
@@ -1756,7 +2421,7 @@ come over - пригласить
 - be a difficult read = be hard to read - трудно определить что за человек, что на уме 
 	- It's my job to read people, and you aren't that hard to read. 
 	- You're a hard person to read
-- strike someone as something - кому-то представляется, кажется каким-то 
+- strike someone as something - произвести впечатление, кому-то представляется, кажется каким-то 
 	- You strike me as a good man. - Ты кажешься мне хорошим человеком. 
 	- Doesn't it strike you as odd that he never talks about his family? - Вам не кажется странным, что он никогда не говорит о своей семье?
 - content - довольствоваться, довольный 
@@ -1772,6 +2437,7 @@ come over - пригласить
 	- I was tempted to look at my watch, but didn't dare. 
 	- "Did you apply for that job?" "Well, I was very tempted, but I decided not to."
 - ashamed - стыдящийся
+- shame - стыд, застенчивость
 
 Грамматика
 I pride myself on being
@@ -1789,13 +2455,13 @@ I feel happy myself
 
 nuisance - досада
 
-- anxious - тревожный (She was extremely anxious about her exams. 
+- anxious - тревожный, взволнованный
+	- She was extremely anxious about her exams. 
 	- My mother always gets a bit anxious if we don't arrive when we say we will.
-    
+	- anxious flier - волнующийся летатель
 - competitive - соревнующийся, конкурирующий 
 	- You're very competitive - it's meant to be a friendly match! 
 	- I could never play team sports - I lack the competitive spirit (= a strong wish to beat others)).
-    
 - be prone to something - склонный к чему-то, обычно негативному, напр. болезни 
 	- I've always been prone to headaches. 
 	- Teens are more prone  to impulsive and risky behaviors.
@@ -1803,14 +2469,11 @@ nuisance - досада
 - someone freaks out / something freaks them out - психовать, сходить с ума / сводить с ума 
 	- I think our music freaks people out sometimes. 
 	- We had a fight, I freaked out and left home.)
-    
 - uptight /ˌʌpˈtaɪt/ - встревоженный, напряжённый, на нервах 
 	- Don't get uptight about the exam - just do your best. 
 	- I tend to get very uptight during a match. )
-    
 - sibling rivalry /ˈsɪb·lɪŋ ˈrɑɪ·vəl·ri/ - соперничество между братьями-сестрами
 	- There's such rivalry among/between my three sons.)
-    
 - take (step/kick/crank) it up a notch - поднять, вывести на новый уровень 
 	- Let's take things up a notch! 
 	- Don't always play it in easy mode. Let's crank it up a notch!
@@ -1818,22 +2481,20 @@ nuisance - досада
 - epic /ˈep.ɪk/ - эпичный 
 	- The Hulk roller coaster ride was epic. 
 	- His first year in office has been an epic fail.)
-    
 - it’s up to you - зависит от тебя
 	- We could go now or later - it’s up to you.
 	- It was up to him to make it right.
-
 - legit /lɪˈdʒɪt/ (кр. от legitimate) - классный, крутой, подходит, законный
 	- Their meats and sandwiches are legit.
-
 - makes sense - имеет смысл, резонно 
 	- It makes sense to pay off your debts before you start trying to save money. This last paragraph doesn’t make any sense. Everything he said made sense – I'd definitely vote for him.)
-
 - pass the time - скоротать время
 	- We passed the time in the airport playing cards.
 - ridiculous - нелепый, смехотворный 
 	- Do I look ridiculous in this hat? 
-	- Don't be so ridiculous! I can't possibly afford to stay in a hotel like that. / It's ridiculous  to expect a two-year-old to be able to read!)
+	- Don't be so ridiculous! I can't possibly afford to stay in a hotel like that.
+	- It's ridiculous  to expect a two-year-old to be able to read!
+	- You're being ridiculous - ты в данный момент такой нелепый
 
 It's nice to meet you! - You too!
 
@@ -1868,6 +2529,7 @@ be yourself - будь собой
 	- I don't want to put up with profanity
 - I can't stand it - я не могу этого вынести
 	- I can't stand the situation
+- back up - поддерживать
 ---
 - step away - отойти, отступить (буквально и фигурально)
 	- You should step away from the table.
@@ -1892,10 +2554,6 @@ be yourself - будь собой
 	- We are sorry that you want to remove yourself from our mailing list. 
 	- First remove yourself from the situation.
 	- I must remove myself for a moment - я дложен удаоиться на мгновение
-- keep/be/stay in (close) contact/touch (with someone) - поддерживать отношения, оставаться на связи
-	- Are you still in touch with any of your old school friends? 
-	- Jen and I never kept in touch after college.
-	- let's keep/be in touch
 - get in touch - связаться, выйти на связь
 - fix a meal - приготовить еду 
 	- I'm going to fix something to eat, do you want to join me? 
@@ -1934,7 +2592,7 @@ be yourself - будь собой
 - on the house - за счёт заведения 
 	- All the drinks were on the house.
 - I know, right? - именно! И я о том же!
-- a ways to go - предстоит проделать ещё долгий путь 
+- there's ways to go - предстоит проделать ещё долгий путь 
 	- We still have a ways to go in terms of understanding this disease. 
 	- She still has a ways to go before graduation.
 - disgrace - позор 
@@ -1998,8 +2656,13 @@ I qualify as an English translater
 - eligible - имеющий право, подходящий
 - unsought - непрошенный
 - stem - исходить
+- assisting - вспомогательный
+- stunned - потрясенный, ошеломленный
+- relish - наслаждаться
+- stimulus - стимул
 - slap - пощечина, удар
-- astonishing - удивительный
+- astonishing - удивительный, поразительный
+- peak - вершина
 - bend - изгиб
 - glance - взгляд
 - learn - учить (обучаемся какому-либо навыку и можем пользоваться своими знаниями на практике. Это не только процесс изучения, но и результат)
@@ -2058,7 +2721,7 @@ out of sight and out of mind - с глаз долой из сердца вон
 put your phone on vibrate
 my phone was on vibrate
 
-compliction / side effect - осложнение
+compliction - осложнение
 
 I can multi-task - я могу делать несколько дел одно временно
 
@@ -2374,17 +3037,8 @@ Could you/I =0?
 I thought you could - Я подумал что ты можешь
 
 
-thanks - thx/
-thank you - tu
-see you - see ya/ cu
-see you later - cul8r
-kiss - keep it simple stupid
-shakin' my head - smh
-by the way - btw
-as soon as possible - asap
-kiss hug kiss - xox
-laughing out loud - lol
---
+
+
 
 spring clean - генеральная уборка
 do you spring clean?
@@ -2396,7 +3050,9 @@ is it that good? - настолько хорошо
 
 nsfw - лучше чтобы кто-то не увидел / запретный материал
 
-break a habit / 
+- break - сломать нарушить
+	- break a habit - избавиться от привычки
+	- break promise - нарушить обещание
 
 get rid of/stop/break/kick/quit the habit (of ..)
 
@@ -2553,7 +3209,10 @@ undercooked - недоваренный
 next door - по соседству/рядом
 across the street - через дорогу
 clog - засор
-at a wake - на поминках
+
+- at a wake - на поминках
+- wake - след
+- cherished - дорогой
 swimsuit - купальник
 backyard - задний двор
 taxi - рулить
@@ -2606,7 +3265,7 @@ give thought to something
 a heart-to-heart - по душам
 in a bad place
 
-have at your disposal
+
 
 - wishy-washy - нерешительный
 - super duper - суперский, потрясающий
@@ -2645,16 +3304,20 @@ He didn't return my calls or texts
 - embrace diversity - принять разнообразие
 - disabled people - люди с ограниченными возможностями
 - jammies - пижама
+- clever - ловкий
 - witness - быть свидетелем, видеть
 	- I witnessed you throwing Max to the ground and shaking him (ing, что означает, что человек видел процесс)
 - count on - расчитывать на
 	- Count on me - Рассчитывай на меня
+- technically - ну вообще-то, если быть точным (когда поправить кого-то)
+	- Technically, we should have left an hour ago.
+	- Technically speaking, this is not a violation.
+	- It’s technically possible to finish the project by Friday
 - in fact - на самом деле, фактически, по сути
 	- is, in fact, more important than physical health - по сути важнее чем здоровье
 	- you crashed the car in fact - на самом деле ты разбил машину
 - in good and bad times - и в горе и в радости
 - make a mountain out of a molehill - делать из мухи слона
-- trip over - споткнуться о
 - betray - предавать
 - caution - осторожность
 	- use caution - соблюдать осторожность
@@ -2688,10 +3351,15 @@ He didn't return my calls or texts
 	- She didn't much care for his friends.
 	- I don't care to do it = I don't want to do it
 	- I don't care to go ice skating today
+- go bankrupt - обанкротиться.
+	- He went bankrupt after only a year in business.
+- on behalf of - от имени.
+	- He spoke on behalf of his colleagues.
 - retail - розничная торговля
 - rentals - жилье в аренду
 - grieve - горевать
 - heartbreak - горе, разбитое сердце
+- be/get/become involved - вовлекаться
 - boarding school - школа-интернат
 - vapid - скучный, неинтересный, бессодержательный
 - to address a concern/problem/question - рассмотреть, разобраться, порешать
@@ -2760,6 +3428,10 @@ He didn't return my calls or texts
 	- The streets are dangerous and there are too many weirdos around
 	- What did he mean by that? Weirdo!
 - descendant - потомок
+- effect - следствие
+- side effect - побочный эффект
+- the scorching sun - палящее солнце
+- by prior - по предварительному
 - reservation - оговорка
 - grasp - понять, осознать
 - tendency to - склонность
@@ -2780,6 +3452,7 @@ He didn't return my calls or texts
 	- I saw you drive off - Я видел, как ты уехал.
 - attorney - адвокат
 - violent - жестокий
+- violence - насилие
 - Make (someone/something) out to be (something) – выставлять кого-то каким-то; выставлять что-то каким-то;
 	- The trailer made the movie out to be an action-adventure, but it was just boring period piece.
 	- Please, don’t make me out to be a liar – at the time, I thought what I was telling was true.
@@ -2799,14 +3472,15 @@ He didn't return my calls or texts
 - Peril – опасность, риск;
 	- imminent peril - неминуемая опасность
 	- puts someone in peril? - что подвергает риску людей?
-- testimony - показание, свидетельство
+- testimony - показание, свидетельство, доказательство
 - testify - свидетельствовать
 - hit the road - отправляться в путь
 - gear - снаряжение
 - sorry beforehand - извините заранее
 - terrify - пугать
 - loophole - лазейка, возможность избежать чего-то, обойти правила
-- intrinsic - присущий
+- intrinsic - присущий, внутренний, неотъемлемый
+- light of dawn - свет рассвета
 - diminish - уменьшаться
 - Put (somebody/something) in peril – подвергать опасности, ставить под угрозу;
 	- Driving without a seatbelt puts you in peril every time you hit the road.
@@ -2868,6 +3542,7 @@ He didn't return my calls or texts
 - wine cellar - винный погреб
 - anniversary - годовщина
 - anxiety attack - паническая атака
+- anxiety - беспокойство
 - Make my excuses - Извинись за меня
 - strangle - задушить
 - but - в значении кроме
@@ -2880,14 +3555,6 @@ He didn't return my calls or texts
 
 - reluctantly agreed - неохотно согласился
 - take over - взять на себя
-- train in - обучать чему-то
-	- Are you trained in the use of this equipment?
-	- He reluctantly agreed to train the young man in the art of Kung Fu.
-	- I'm training my daughter in the family business so she can take over for me when I retire.
-- proficient - опытный, искусный 
-	- I was proficient at my job.
-	- She's proficient in two languages.
-	- It takes a couple of years of regular driving before you become proficient at it.
 - comb through - прочёсывать, прошерстить, тщательно искать 
 	- We just have to comb through all the files.
 	- I combed through my bag in search of my glasses, and they were on my head the whole time!
@@ -2902,6 +3569,7 @@ He didn't return my calls or texts
 	- Now your tool is set up and ready to go.
 	- When you've got a website ready to go, think about selling advertising on it.
 - settle down - успокоиться
+	- I hope things are settling down and under control now.
 - settle - урегулировать, решить, уладить
 - (it) works for me/you - подходит кому-то, правильно срабатывает 
 	- Sorry, those times really don't work for me.
@@ -2931,14 +3599,186 @@ He didn't return my calls or texts
 - binge-watch - смотреть запоем
 - scenery - красивый вид
 - cook - повар
-- we all do - 
+- we all do - мне тоже
 - guid - вести, проводить
 - Can I get you soomething to drink? - могу я что-то принести тебе попить?
 - to stock - запасаться
 - astonish - удивить
+- astonishment - удивление, изумление
+- churn - взбивать, пахтать
+- skilful - умелый, искусный
+- astonished - удивленный, пораженный
+- tolerant - терпеливый (способность уважать людей отличных от тебя)
+- patient - терпеливый (способность терпеть что-то (пр. ожидание в очереди))
+- chamber - комната, покои, палата
+- coup - переворот
+	- military coup - военный переворот
+- casualty - жертва
+	- civilian casualties - жертвы среди гражданского населения
+- annex - захватывать
+	- annexed from the inside - захвачен изнутри
+- asylum - убежище, психушка
+- refugee - беженец
+- humanitarian - гуманитарный
+	- humanitarian parole - гуманитарное освобождение
+- unacceptable - неприемлемый
+- detain - задержать
 - affliction - страдание, несчастье
 - superfluos - лишний
+- accomplish - достичь, выполнить
+- conducive to - благоприятных для
+- assumed the dress - надел одежду
+- support - подтверждать, поддерживать
+- move about - бродить
+- shelter - защищать
+- whorl - завиток
+- blackness - темнота, чернота
+- somewhere - где-то
+- repetition - повторение
+- wonder - удивление
 
 I would rather + V0 - я бы предпочел
 
+---
+ps - когда точно знаем когда в прошлом было
+pc - описание обстановки (it was raining)
+pp - актуально к этому моменту и тут опыт или результат, много раз к данному моменту, долго что-то делалось к данному моменту но глагол не тянется (stative verbs не используются с ing)
+ppc - 
 
+if you want to ...., I do - я хочу
+
+I would have been - предположение о прошлом
+I may have gone - предположение о прошлом 50/50
+He seemd to - предположение о прошлом
+
+way/far back when - (way / far усилитель)
+back then - раньше, тогда
+state testing - гос экзамены
+
+most likely did - скорее всего, наиболее вероятно (неуверенно)
+
+- I haven't a clue / not a clue - Я понятия не имею / понятия не имею
+
+she was supposed to - предполагалось что она (пассивная)
+
+that's why - поэтому 
+that's when
+it's where
+
+something was up - что-то происходило
+
+a maintenance guy - ремонтник
+
+- ever since - с тех пор
+	- he has been in prison ever since - с тех пор он в тюрьме (долго уже там)
+
+he is being rude - (в данный момент он грубый)
+
+who had been disbarred - пассив в рр
+
+as for grammar no questions
+
+I will - я обещаю
+
+- easy peasy - легко и просто
+- full stop - точка
+- find - находка
+- magnet - магнит
+- wander - бродить
+- elite - элита
+- one and all - все до одного
+- prosperous - процветающий
+- slug - фрагмент
+
+Классы и объекты - существительные
+Методы - глаголы
+Функция выполняет 1 операцию
+
+---
+go (and/to) see - повидаться
+come visit us - приезжайте повидать нас
+go check it out - иди и проверь
+It have been damaged - это было повреждено (акцент на результат в настоящем)
+It were damaged - это было повреждено
+Have you been there? - ты был там
+
+on and off - в и из
+
+we have been friends for 10 years - мы друзья уже 10 лет (долго, но be не тянется)
+
+take up - 
+going out - встречаться
+
+to tell - сказать, понять
+- hard to tell - трудно сказать
+- I can't tell why are you so misterious - я не могу понять почему ты такая загадочная
+- I can tell that you lie - я могу распознать что ты лжешь
+
+marijuana - марихуана
+
+you shouldn't mess with her - лучше к ней не приставать
+
+everybody knew Adnan to be a friend
+he is supposed to be a friend
+
+shall we say - скажем так
+let's say - скажем
+let's go to the cinema, shall we?
+I shall say that's impossible - (предписанное моральными нормами)
+
+- really, do - действительно
+- I really am smart/tired - я действительно устал
+- He really was an actor - он действительно был актером
+- you really are magnificent - Ты действительно великолепен
+- I do love ice-cream - я действительно люблю мороженое
+
+what happened the day - что случилось тем днем
+
+he wasn't supposed to be dating at all
+
+getting dark - становится темнее
+got colder - стало холоднее
+got tired - я устал
+let's get going - 
+
+they are married - они поженились
+they got married - они стали женатыми
+
+must - изнутри должен
+have to - извне должен
+
+what a liar he is - какой же он лжец
+what a cool bike you have - какой замечательный байк у тебя
+what a wonderful result you have - какой замечательный результат (ед ч)
+what wonderful skills you have - какой замечательный опыт (мн ч)
+
+if he is guilty of anything, it's
+if he talks about smth it's always about 
+
+Передать речь
+- I was like ...
+- And she goes ...
+
+can you tell me where the bank is
+I don't know what my sister knows - а не знаю что моя сестра знает
+I don't know if my sister even knows - я не знаю знает ли даже моя сестра
+does my sister even know?
+what does my sister know?
+
+I'm dating her - я встречаюсь с ней
+I was dating a girl - я встречался с девочкой
+
+way back then - намного раньше
+way too much - слишком много
+way too early - слишком рано
+
+TMI - too much information (личное)
+FYI - for your information
+
+apart from - кроме
+besides - кроме
+
+EMT - врач скорой помощи
+
+loosey goosey - небрежный
+teeny weeny - крошечный

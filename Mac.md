@@ -3,6 +3,18 @@
 - Одновременно нажмите клавиши Shift, Control и Option и, не отпуская их, нажмите кнопку питания.
 - Отпустите клавиши и еще раз нажмите кнопку питания, чтобы включить ноутбук Mac.
 
+# Curl
+`curl -O <url>` Работает также как `wget <url>` поэтому можно в .zprofile (или .bashrc) добавить
+
+```bash
+alias wget='curl -O'
+```
+
+
+cd (change directory) переход в директорию
+```
+cd folder
+```
 # Shortcuts
 ```
 Ctrl+A - jump to the beginning of a line inside the OS X terminal
@@ -138,11 +150,20 @@ curl https://download.java.net/java/ga/jdk11/openjdk-11_osx-x64_bin.tar.gz \
  && sudo mv jdk-11.jdk /Library/Java/JavaVirtualMachines \
  && java -version
 
+curl https://download.oracle.com/java/23/latest/jdk-23_macos-aarch64_bin.tar.gz | tar -xz \
+ && sudo mv jdk-23.0.1.jdk /Library/Java/JavaVirtualMachines \
+ && java -version
+
 export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home
 export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-17.0.12.jdk/Contents/Home
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-23.0.1.jdk/Contents/Home
 
 alias java11='export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home'
 alias java17='export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-17.0.12.jdk/Contents/Home'
+alias java23='export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-23.0.1.jdk/Contents/Home'
+
+Write aliases to profile:
+echo alias java23=\"export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-23.0.1.jdk/Contents/Home\" >>~/.zprofile
 
 Check installed java:
 /usr/libexec/java_home -V
@@ -159,7 +180,7 @@ jdk() {
 
 and switch with: jdk 11
 ```
-
+Unr9xtuh
 ```
 # Scala install
 
@@ -181,4 +202,11 @@ make
 sudo make install
 
 telnet rainmaker.wunderground.com
+telnet ao-ads-fraud-test.db.osmp.ru 5432
+```
+
+Username
+```
+id -F
+id -un | whoami | echo $USER
 ```

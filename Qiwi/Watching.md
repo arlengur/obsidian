@@ -20,9 +20,3 @@ Test errors:
 	- DM request error - ao-ads-antifraud-gateway
 	- Internal server error, sending 500 response - ao-ads-decision-maker  
 	- Http code 500 Internal Server Error DM response - ao-ads-antifraud-gateway
-
-
-```
-	
-
-```

@@ -15,7 +15,7 @@
 - садрананда-вишешатма (интенсивное счастье)
 - шри-кришнакаршини (привлекательное для Кришны)
 
-The Easten Section
+# The Easten Section
 Defining the Different Types of Pure Bhakti
 
 # The First Wave Concerning An Overview of Bhakti 
@@ -398,7 +398,7 @@ yesam grhan avasatiti saksad
 gudham param brahma manusya-lingam || 43
 
 Similarly Narada says in the Seventh Canto of Bhagavatam:
-My dear Maharaja Yudhisthira, all of you [the Pandavas] are extremely fortunate, for the Supreme Personality of Godhead, Krishna, lives in your palace just like a human being. Great saintly persons know this very well, and therefore they constantly visit this house. SB 7.10.48
+My dear Maharaja Yudhisthira, all of you (the Pandavas) are extremely fortunate, for the Supreme Personality of Godhead, Krishna, lives in your palace just like a human being. Great saintly persons know this very well, and therefore they constantly visit this house. SB 7.10.48
 
 1.1.44
 agrato vaksyamanayas tridha bhakter anukramat |
@@ -430,7 +430,7 @@ sa bhaktih sadhanam bhavah prema ceti tridhodita  || 1
 
 There are three types of bhakti: sadhana, bhava and prema.
 
-Sadhya-rupa or harda-rupa-bhakti has five types: bhava, prema, pranaya, sneha and raga. In Ujjvala-nila-mani, three more types are mentioned: mana, anuraga and maha-bhava.
+Sadhya-rupa or harda-rupa-bhakti has five types: bhava, prema, pranaya, sneha and raga. In Ujjvala-nila-mani, three more types are mentioned: mana, anuraga and maha-bhava. ^b042d2
 
 ## 1.2.2
 tatra sadhana bhaktih -
@@ -2675,30 +2675,33 @@ raganuga-vivekartham adau ragatmikocyate || 271
 
 In order to define raganuga-bhakti first ragatmika-bhakti should be discussed.
 
-## 1.2.272 ☀ (ragatmika-bhakti)
+## 1.2.272 (ragatmika-bhakti)
 iste svarasiki ragah paramavistata bhavet |
 tan-mayi ya bhaved bhaktih satra ragatmikodita || 272
 
 Raga is defined as spontaneous, deep thirst for the object of love. Bhakti that is impelled exclusively by such a thirst is called ragatmika-bhakti.
 
-1.2.273
+## 1.2.273
 sa kamarupa sambandha-rupa ceti bhaved dvidha || 273
 
 There are two types of ragatmika-bhakti: that impelled by conjugal feelings (kama-rupa) and that impelled by other relationships (sambandha-rupa).
 
-1.2.274
+1.2.274-275
 tatha hi saptame -
 kamad dvesad bhayat snehad yatha bhaktyesvare manah |
 avesya tad agham hitva bahavas tad-gatim  gatah || 274
+
+gopyah kamad bhayat kamso dvesac caidyadayo nripah |
+sambandhad vrisnayah snehad yuyam bhaktya vayam vibho || 275
 
 These two types of ragatmika-bhakti are illustrated in the Seventh Canto:
 Just as by vaidhi-bhakti one can attain one’s spiritual goals, many persons have attained suitable forms, according to their type of absorption, after absorbing their minds in the Lord out of lust, hatred, fear and affection, and after giving up their sinful mentality (in the case of hatred and fear). SB 7.1.30
 
 My dear King Yudhisthira, the gopis by their conjugal desires, Kamsa by his fear, Sisupala and other kings by envy, the Vrisnis of Vraja (see footnote 43) by their relationship with Krisna, you Pandavas by your great affection for Krisna, and we (Narada), by our vaidhi-bhakti, have obtained the mercy of Krisna. SB 7.1.31
 
-1.2.275
-gopyah kamad bhayat kamso dvesac caidyadayo nripah |
-sambandhad vrisnayah snehad yuyam bhaktya vayam vibho || 275
+The love in separation of the two lovers, before they ever meet each other, is called pūrva-rāga. BRS 3.5.26
+
+Vṛṣṇis refers to the inhabitants of Vraja, who are rāgātmika-bhaktas having relationships (sambandha) other than kāma rather than the Vṛṣṇis of Dvārakā, who do not have rāgātmika-bhakti
 
 1.2.276-277
 anukulya-viparyasad bhiti-dvesau parahatau |
@@ -2709,19 +2712,24 @@ bhaktya vayam iti vyaktam vaidhi bhaktir udirita || 277
 
 Because fear and hatred are not favorable, they are rejected as modes of bhakti. Affection (sneha) of the Pandavas, if it means friendliness (sakhya), belongs to vaidhi-bhakti (because the sakhya is predominated by veneration). If sneha means prema or a stage of prema, it still could not be admitted here, as the topic is sadhana-bhakti. In the phrase “bhaktya vayam” (and we, the sages (Narada), attained befitting goals by bhakti), bhakti refers to vaidhi-bhakti.
 
+Jiva:
+Though many ways of attaining Kṛṣṇa were mentioned in the Bhāgavatam verse, only two among them — kāma and sambandha — are accepted as causes of rāgātmika- bhakti.
+
+A lusty man, who is absorbed in women, is called _strī-maya_
+
 1.2.278
 yad-arinam priyanam ca prapyam ekam ivoditam |
 tad brahma-krisnayor aikyakt kiranarkopama-jusoh || 278
 
 When it is said that the enemies and the dear friends of the Lord attained the same end, it means the same end only in the sense that brahman and the personal form of Krisna are one entity, in the manner that the rays of the sun and the sun are one.
 
-1.2.279
+## 1.2.279
 brahmany eva layam yanti prayena ripavo hareh |
 kecit prapyapi sarupyabhasam majjanti tat-sukhe || 279
 
 The enemies of the Lord generally merge into the impersonal brahman. Some of them, even though they attain semblance of a form similar to the Lord’s (sarupyabhasam), remain absorbed in the happiness of brahman.
 
-1.2.280
+## 1.2.280
 tatha ca brahmanda purane -
 siddha-lokas tu tamasah pare yatra vasanti hi |
 siddha brahma-sukhe magna daityas ca harina hatah || 280
@@ -2745,7 +2753,10 @@ vayam api te samah sama-driso 'nghri-saroja-sudhah || 282
 Thus, it says in the Tenth Canto:
 Simply by constantly thinking of Him, the enemies of the Lord attain the same brahman that sages fixed in yoga worship by controlling their breath, mind and senses. Similarly, the srutis, adopting the mood similar to the gopis, and finally attaining similar bodies, will achieve the same nectar from Your lotus feet that Your consorts are able to relish because of their loving attraction to Your mighty, serpentine arms. SB 10.87.23
 
-1.2.283
+Jiva
+The _gopīs_ mentioned in the _Bhāgavatam_ verse are those _kāma-rūpa-rāgātmika_ devotees, and the personified _śrutis,_ who are speaking, are _kāmānuga_ devotees (those performing _rāgānuga-sādhana_ following after the _kāma-rūpa gopīs_.) Similarly, the Vṛṣṇis should be understood to be _sambandha-rūpa-rāgātmika-bhaktas_, and those who follow after them would be _sambandhānuga-sādhana-bhaktas_.
+
+## 1.2.283 (kamarupa-ragatmika-bhakti)
 tatha kamarupa -
 sa kamarupa sambhoga-trisnam ya nayati svatam |
 yad asyam krisna-saukhyartham eva kevalam udyamah || 283
@@ -2779,7 +2790,7 @@ But the wise agree that the attraction to Krisna seen in Kubja is essentially du
 
 Chapter 16
 
-1.2.288
+## 1.2.288 (sambandha-rupa-ragatmika-bhakti)
 tatra sambandha-rupa -
 sambandha-rupa govinde pitritvady-abhimanita |
 atropalaksanataya vrisninam vallava matah |
@@ -2787,6 +2798,9 @@ yadaisya-jnana-sunyatvad esam rage pradhanata || 288
 
 Next sambandha-rupa-ragatmika-bhakti will be discussed:
 Sambandha-rupa-ragatmika-bhakti is that bhakti inspired by great absorption arising from identifying oneself as the parent, friend or servant of Govinda. This refers to the bhakti of the cowherd people, which is indicated by the word, sambandhad vrisnayah, quoted in verse 175 as an example of sambandha. This is because these other relationships in Vraja also have a predominance of intense affection (raga), caused by a lack of awareness of Krisna as God.
+
+Jiva
+One should take the word Vṛṣṇi to mean the cowherd men rather than the inhabitants of Mathurā and Dvārakā.
 
 1.2.289
 kama-sambandha-rupe te prema-matra-svarupake |
@@ -2800,7 +2814,7 @@ kamanuga ca sambandhanuga ceti nigadyate || 290
 
 From this two types of ragatmika-bhakti (siddha-bhakti), two types of raganuga-bhakti (sadhana-bhakti), called kamanuga and sambandhanuga-bhakti, are derived.
 
-1.2.291 ☀
+## 1.2.291 ☀ (qualification for raganuga-bhakti)
 tatra adhikari -
 ragatmikaika-nistha ye vraja-vasi-janadayah |
 tesam bhavaptaye lubdho bhaved atradhikaravan || 291
@@ -2820,7 +2834,7 @@ atra sastram tatha tarkam anukulam apeksate || 293
 
 Those qualified for vaidhi-bhakti are dependent on the rules of scriptures and favorable use logic until the appearance of bhava-bhakti.
 
-1.2.294 ☀
+## 1.2.294 ☀ (method of rāgānuga-sādhana-bhakti)
 krisnam smaran janam casya prestham nija-samihitam |
 tat-tat-katha-ratas casau kuryad vasam vraje sada || 294
 
@@ -2838,7 +2852,7 @@ yany angani ca tany atra vijneyani manisibhih || 296
 
 The discriminating practitioners should accept the angas which were mentioned in vaidhi-bhakti such as hearing and chanting as the angas of raganuga-bhakti.
 
-1.2.297-298
+## 1.2.297-298
 tatra kamanuga -
 kamanuga bhavet trisna kama-rupanugamini || 297
 sambhogeccha-mayi tat-tad-bhavecchatmeti sa dvidha || 298
@@ -2846,7 +2860,7 @@ sambhogeccha-mayi tat-tad-bhavecchatmeti sa dvidha || 298
 The elements of kamanuga will be described:
 That raganuga-sadhana-bhakti which is filled with longing and which follows after the kama-rupa-ragatmika-bhakti of the siddha-bhaktas, is called kamanuga-bhakti. There are two types: sambogeccha-mayi and tad-tad-bhavecchatma.
 
-1.2.299
+## 1.2.299
 keli-tatparyavaty eva sambhogeccha-mayi bhavet |
 tad-bhavecchatmika tasam bhava-madhurya-kamita || 299
 
@@ -2870,11 +2884,13 @@ harim samprapya kamena tato mukta bhavarnavat || 302
 Examples of males becoming gopis are as follows:
 Previously, all the sages living in Dandakaranya forest, who after seeing Lord Rama, desired enjoyment with His form, attained forms of women and appeared in Gokula. Attaining the Lord by that kama, they became liberated from the ocean of the material world.
 
-1.2.303
+## 1.2.303 (how to get to Dvaraka)
 riramsam susthu kurvan yo vidhi-margena sevate |
 kevalenaiva sa tada mahisitvam iyat pure || 303
 
 A person who serves on the path of vaidhi-bhakti with a desire for a conjugal relationship with the Lord and a high position, but without desire for the gopis’ type of love, after some time becomes a queen in Dvaraka.
+
+Laghu-bhāgavatāmṛta explains that Mathurā has two parts: Gokula and the city of Mathurā. Gokula has a majestic part called Goloka.
 
 1.2.304
 tatha ca maha-kaurme -
@@ -2884,7 +2900,7 @@ bhartaram ca jagad-yonim vasudevam ajam vibhum || 304
 Thus, it says in the Maha-kurma Purana:
 The saintly sons of Agni attained bodies of women by the path of vaidhi-bhakti, and attained as their husband (not lover), the unborn, powerful Vasudeva, source of the universe.
 
-1.2.305
+## 1.2.305 (sambandhanuga-bhakti )
 atha sambandhanuga -
 sa sambandhanuga bhaktih procyate sadbhir atmani |
 ya pitritvadi-sambandha-mananaropanatmika || 305
@@ -2921,14 +2937,35 @@ The mercy of Krisna and His devotees is the only cause of attaining raganuga-bha
 
 Chapter 17
 
-The Third Wave Concerning Bhava-bhakti 
+# The Third Wave Concerning Bhava-bhakti 
+
 In the Eastern Section of Bhakti-rasamrita-sindhu
 
-1.3.1
+## 1.3.1 (bhava-bhakti)
 suddha-sattva-visesatma prema-suryamsu-samya-bhak |
 rucibhis citta-masrnya-krd asau bhava ucyate || 1 
 
 That part of bhakti is called bhava, whose essence in samvit and hladini sakti, which is one ray of the sun of prema which will soon rise in the heart, and which softens the heart with desire to meet, serve, and exchange love with the Lord.
+
+There are two types of bhakti: ceṣṭā-rūpa and bhāva-rūpa.
+
+Ceṣṭā-rūpa-bhakti (bhakti consisting of action) has two types: 
+- sādhana-rūpa for attaining bhāva-bhakti (actions as practice for attaining bhāva), and 
+- kārya-rūpa (actions after attaining bhāva—the goal of practice). It takes the form of anubhāvas when one experiences rasa.
+
+Bhāva-rūpa-bhakti has two types: 
+- sthāyi-rūpa (permanent emotion) and 
+- sañcāri-rūpa (transitory emotion).
+
+Sthāyi-rūpa has two types: 
+1) prema, which also indicates higher states such aspraṇaya; and 
+2) bhāva, also called rati, which is the preliminary stage of bud of prema.
+
+By using the phrase śuddha-sattva-viśeṣātmā, the author indicates that, in the future, this bhāva will transform into more elevated states, culminating in mahā-bhāva.
+
+- śuddha-sattva refers to saṁvit, which is a transformation of the Lord’s svarūpa-śakti. 
+- śuddha-sattva-viśeṣa (excellent part of śuddha-sattva), refers to another transformation of the svarūpa-śakti called hlādinī.
+- Concentration of this condensed hlādinī will transform bhāva into the highest state of mahā-bhāva called modana.
 
 1.3.2
 tatha hi tantre -
@@ -2955,14 +2992,14 @@ krsnadi-karmakasvada-hetutvam pratipadyate || 5
 
 Appearing in the mental functions, bhava becomes the mental state itself. Though bhava is self-revealing, it appears to become manifest by the mind. Though in its essential nature bhava is taste itself, it also acts as a cause of tasting the pastimes of Krisna, His associates and His pastimes.
 
-1.3.6
+## 1.3.6
 sadhanabhinivesena krsna-tad-bhaktayos tatha |
 prasadenati-dhanyanam bhavo dvedhabhijayate |
 adyas tu prayikas tatra dvitiyo viralodayah || 6
 
 Bhava appears in very fortunate persons in two ways: by absorption in sadhana or by the mercy of Krisna or His devotee. Its appearance by sadhana is normal, and its appearance by mercy is rare.
 
-1.3.7-8
+## 1.3.7-8 (Bhava from sadhana)
 tatra sadhanabhinivesa-jah -
 vaidhi-raganuga-marga-bhedena parikirtitah I 
 dvividhah khalu bhavo 'tra sadhanabhinivesajah || 7
@@ -2972,7 +3009,7 @@ harav asaktim utpadya ratim samjanayaty asau || 8
 
 Bhava, arising from absorption in sadhana, will be discussed first: Bhava arising from sadhana has two types: arising from vaidhi-sadhana, and arising from raganuga-sadhana. Absorption in sadhana (nistha) produces ruci, then asakti, and then rati or bhava for the Lord.
 
-1.3.9
+1.3.9 (Bhava arising from vaidhi-sadhana)
 tatra adyo -
 tatranvaham krsna-kathah pragayatam
 anugrahenasrnavam manoharah |
@@ -3014,7 +3051,7 @@ samanarthataya hy atra dvayam aikyena laksitam || 13
 
 In the puranas and Natya-sastra, rati and bhava have the same meaning. Thus, in this work, they will have the same meaning.
 
-1.3.14
+1.3.14 (Bhava arising from raganuga-sadhana)
 dvitiyo, yatha padme -
 ittham manoratham bala kurvatI nrtya utsuka |
 hari-pritya ca tam sarvam ratrim evatyavahayat || 14
@@ -3030,7 +3067,7 @@ sa bhavah krsna-tad-bhakta-prasadaja itIyate || 15
 Now, bhava arising from the mercy of Krisna or His devotee is defined:
 That bhava which appears suddenly without performance of sadhana is known as bhava produced from the mercy of Krisna or His devotee.
 
-1.3.16
+## 1.3.16 (Bhava from Krisna’s mercy)
 atha sri-krsna-prasadajah  -
 prasada vacikaloka-dana-hardadayo hareh || 16
 
@@ -3096,14 +3133,28 @@ agre vivicya vaktavya tena natra prapancyate || 24
 
 According to the different types of devotees (with five different sthayi-bhavas), there are five different types of rati. These will be considered and explained later, and thus will not be discussed here.
 
-1.3.25-26 ☀
+Chapter 18
+## 1.3.25-26 (9 anubhavas)
 ksantir avyartha-kalatvam viraktir mana-sunyata |
 asa-bandhah samutkantha nama-gane sada ruchi || 25
 
 asaktis tad-gunakhyane pritis tad-vasati-sthale |
 ity adyo 'nubhavah syur jata-bhavankure jane || 26 
 
-The anubhavas or characteristics of a person who has developed the bud of bhava are as follows: tolerance, not wasting time, detachment from enjoyment, pridelessness, confidence in the Lord’s mercy, longing for the Lord, taste for chanting the name of the Lord, attachment to discussing about the Lord’s qualities, and attachment to living in the abode of the Lord.
+The anubhavas or characteristics of a person who has developed the bud of bhava are as follows: 
+1. tolerance, 
+2. not wasting time, 
+3. detachment from enjoyment, 
+4. pridelessness, 
+5. confidence in the Lord’s mercy, 
+6. longing for the Lord, 
+7. taste for chanting the name of the Lord, 
+8. attachment to discussing about the Lord’s qualities, and 
+9. attachment to living in the abode of the Lord.
+
+pridelessness (mana-sunyata)
+confidence in the Lord’s mercy (asa-bhandhah)
+longing for the Lord (samutkantha)
 
 1.3.27
 tatra ksantih -
@@ -3215,151 +3266,1790 @@ Attachment to discussing about the Lord’s qualities is described in the Krisna
 That youthful Krisna, with the qualities of Cupid, who is extremely sweet and extremely fickle, has stolen my heart. What should I do? 
 
 1.3.40
-tad vasati-sthale pritih, yatha padyavalyam -
-atrasit kila nanda-sadma sakatasyatrabhavad bhanjanam 
-bandha-ccheda-karo 'pi damabhir abhud vaddho 'tra damodarah |
-ittham mathura-vrddha-vaktra-vigalat-piyusa-dharam pibann
-anandasru-dharah kada madhu-purim dhanyas carisyamy aham || 40 
+tad vasati-sthale prītiḥ, yathā padyāvalyām—
+atrāsīt kila nanda-sadma śakaṭasyātrābhavad bhañjanaṁ
+bandha-ccheda-karo ’pi dāmabhir abhūd baddho ’tra dāmodaraḥ |
+itthaṁ māthura-vṛddha-vaktra-vigalat-pīyūṣa-dhārāṁ pibann
+ānandāśru-dharaḥ kadā madhu-purīṁ dhanyaś cariṣyāmy aham ||40||
 
+1.3.41
+api ca—
+vyaktaṁ masṛṇitevāntar lakṣyate rati-lakṣaṇam |
+mumukṣu-prabhṛtīnāṁ ced bhaved eṣā ratir na hi ||41||
 
+However it should be said:
+If softness of the heart, the symptom of rati, becomes clearly visible in persons desiring liberation, or in other unqualified persons, it is not real rati.
 
-apl ca 
-vyaktam masrnitevantar-laksate rati-laksanam ~ 
-mumuksu-prabhrtinam ced bhaved esa ratir na hi ~~0 1 ~~ 
+1.3.42-43
+vimuktākhila-tarṣair yā muktair api vimṛgyate |
+yā kṛṣṇenātigopyāśu bhajadbhyo ’pi na dīyate ||42||
 
-vimuktakilatar yair ya muktir api vimrgyate ~ 
-ya krsnenatigopy asu bhajadbhyo 'pi na diyate ~~ 02 ~~ 
-sa bhukti-mukti-kamatva cchuddham bhaktim akurvatam ~ 
-hrdaye sambhavat yesam katham bhagavati ratih ~~ 03 ~~ 
+sā bhukti-mukti-kāmatvāc chuddhāṁ bhaktim akurvatām |
+hṛdaye sambhavaty eṣāṁ kathaṁ bhāgavatī ratiḥ ||43||
 
-kintu bala-camatkara-kari tac-cihna-viksaya ~ 
-abhijnena subodho 'yam raty-abhasah prakirtitah ~~ 04 ~~ 
+How can rati appear in persons having desires for enjoyment or liberation? Those persons do not perform pure bhakti. Rati is sought out by those liberated from all desires and is not given immediately by Kṛṣṇa even to the devotees, since it is most secret.
 
-pratibimbas tatha cchaya ratyabhaso dvidha mathah ~~0 5 ~~ 
+## 1.3.44-45 (pratibimba & chāyā raty-ābhāsa)
+kintu bāla-camatkāra-karī tac-cihna-vīkṣayā |
+abhijñena subodho ’yaṁ raty-ābhāsaḥ prakīrtitaḥ ||44||
 
-tatra pratibimba 
-asramabhista-nirvahi rati-laksana-laksitah ~ 
-mogapavarga-saukhyam savyamj akaphr atibimbakah ~ 0~6 ~~ 
+pratibimbas tathā cchāyā raty-ābhāso dvidhā mataḥ ||45||
 
-daivat sad-bhakta-sangena kirtanady anusarinam ~ 
-prayah prasanna-manasam bhoga-moksadi raginam ~~ 07 ~~ 
-kesamcit-hrdi bhavendoh pratibimba udancati ~ 
-tad-bhakta-hrn nabhah sthasya tad samsarga-prabha-vatah ~~0 8 ~~ 
+Though this semblance of rati is very astounding to the innocent, those in knowledge understand what it really is by seeing the characteristics. This is called raty-ābhāsa, a semblance of rati. This semblance of rati has two types: reflection (pratibimba) and splendor (chāyā).
 
-atha chaya 
-ksudra-kautuhala-mayi cancala duhkha-harini ~ 
-rates chaya bhavet kimcit tat sadrsy avalambini ~~0 9 ~~ 
+1.3.46
+tatra pratibimbaḥ—
+aśramābhīṣṭa-nirvāhī rati-lakṣaṇa-lakṣitaḥ |
+bhogāpavarga-saukhyāṁśa-vyañjakaḥ pratibimbakaḥ ||46||
 
-hari-priya-kriya-kala-desa-patradi-sangamat ~ 
-apy anusangikad esa kvacid ajnesv apIksyate ~~ 50 ~~ 
+Pratibimba or reflection is described as follows:
+When there are apparent qualities of rati, accompanied by desires for enjoyment and liberation, it is called the pratibimba (reflection) raty-ābhāsa. This pratibimba raty-ābhāsa awards the goals of enjoyment and liberation to those persons without their having to exert effort.
 
-kintu bhagyam vina nasau bhava-cchayapy udancati ~ 
-yad abhyudayatah ksemam tatra syad uttar ottaram ~~ 51 ~~ 
+1.3.47-48
+daivāt sad-bhakta-saṅgena kīrtanādy-anusāriṇām |
+prāyaḥ prasanna-manasāṁ bhoga-mokṣādi rāgiṇām ||47||
 
-hari-priyaj anas yaiva prasada-bhara-labhatah ~ 
-bhavabhaso 'pi sahasa bhavatvam upagacchati ~~ 52 ~~ 
+keṣāṁcit hṛdi bhāvendoḥ pratibimba udañcati |
+tad-bhakta-hṛn-nabhaḥ-sthasya tat-saṁsarga-prabhāvataḥ ||48||
 
-tasminn evaparadhena bhavabhaso 'py anuttamah ~ 
-kramena ksayam-apnoti khathah purna-sasI yatha ~ ~ 53 ~ ~ 
+This reflection of the moon of bhāva appears in the hearts of some persons who are attached to enjoyment or liberation, but who become somewhat satisfied by following the aṅgas of bhakti through occasional association with real devotees. That moon of bhāva is situated in the sky of the real devotee’s heart, and it appears as a reflection in the non-devotee for some time by its impressions.
 
-kimca 
-bhavo 'py abhava-mayati krsna-presthaparadhatah ~ 
-abhasatam ca sanakair-nyunajati-yatam api ~~ 59 ~~ 
+1.3.49
+atha chāyā—
+kṣudra-kautūhala-mayī cañcalā duḥkha-hāriṇī |
+rateś chāyā bhavet kiṁcit tat-sādṛśyāvalambinī ||49||
 
-gadha-sangat sadayati mumuksau supratisthite ~ 
-abhasatam asau kim-va bhajaniyesa-bhavatam ~~ 55 ~~ 
+The splendorous type of semblanceofbhāva is now described:
+That which has some similarity to real rati, which possesses a small amount of interest in the Lord, which is unstable, and which destroys suffering, is called chāyā-raty-ābhāsa.
 
-ataeva kvact tesu navya-bhaktesu drsyate ~ 
-ksanam isvara-bhavo 'yam nrtyadau mukti-paksagah ~ 5~6 ~ ~ 
+1.3.50-51
+hari-priya-kriyā-kāla-deśa-pātrādi-saṅgamāt |
+apy ānuṣaṅgikād eṣa kvacid ajñeṣv apīkṣyate ||50||
 
-sadhaneksam vina yasminn akasmad bhava iksyate ~ 
-vighna-sthagitam-atrohyam prag-bhaviyam susadhanam ~~ 57 ~~ 
+kintu bhāgyaṁ vinā nāsau bhāva-cchāyāpy udañcati |
+yad abhyudayataḥ kṣemaṁ tatra syād uttarottaram ||51||
 
-lokottara-camatkara-karakah sarva-saktidah ~ 
-yah prathiyan bhaved-bhavah sa tkrus na-prasadaj ah ~~ 5 8 ~~ 
+This chāyā-raty-ābhāsa appears sometimes even in ignorant people by a combination of performing actions dear to the Lord, observing the festivals of the Lord, residing in the dhāma of the Lord, and associating with the devotees of the Lord. Even this chāyā-raty-ābhāsa, which eventually bestows auspiciousness to those people, appears only with great good fortune.
 
-jane cejj ata-bhave 'pi vaigunyam iva drsyate ~ 
-karya thathapi nasuya krtarthah sarvathaiva sah ~~5 9 ~~ 
+Jiva:
+There should be simultaneous participation in the items listed (performing actions dear to the Lord, observing the festivals of the Lord, residing in the _dhāma_ of the Lord, and associating with the devotees of the Lord) in order for _chāyā-raty-ābhāsa_ to manifest in ignorant people.
 
-yatha narasimha 
-bhagavati ca harav ananya-ceta, 
-bhrsmalino 'pi viraj ate manusyah ~ 
-na hi sasa-kalusacchavih kadacit 
-timira-parabhavatam-upaiti candrah ~~6 0 ~~ 
+1.3.52-53
+hari-priya-janasyaiva prasāda-bhara-lābhataḥ |
+bhāvābhāso ’pi sahasā bhāvatvam upagacchati ||52||
 
-ratiranisa-nisargosna-pravalatarananda-pura-rupaiva ~ 
-usmanam api vamantI sudhamsu-koterapi svadvI ~~6 1 ~~ 
+tasminn evāparādhena bhāvābhāso ’py anuttamaḥ |
+krameṇa kṣayam āpnoti kha-sthaḥ pūrṇa-śaśī yathā ||53||
 
+By the great mercy of a dear devotee of the Lord, the semblance of bhāva suddenly becomes real bhāva. By offending that devotee, even the best bhāvābhāsa gradually wanes just as the full moon in the sky gradually wanes.
 
+## 1.3.54 (offense against the devotee)
+kiṁ ca—
+bhāvo ’py abhāvam āyāti kṛṣṇa-preṣṭhāparādhataḥ |
+ābhāsatāṁ ca śanakair nyūna-jātīyatām api ||54||
 
-samyan masrnita-svanto mamatvatisayankitah ~ 
-bhavah sa evsaa ndratma budhaih prema nigadyate ~~1 ~~ 
+Moreover, it should be stated:
+By an offense against the dearest devotee of the Lord, even real bhāva will be destroyed, if the offense is grave. If the offense is medium, the bhāva will turn to bhāvābhāsa. If the offense is slight, the bhāva will become an inferior type.
 
-yatha pancaratre 
-ananya-mamata visnau mamata prema-sangata ~ 
-bhaktir ity ucyate bhisma-prahladoddhava-naradaih ~~ 2 ~ 
+Jiva:
+By two types of grave offenses—offense to the dearest devotee, or to Kṛṣṇa Himself (kṛṣṇa-pṛeṣṭha aparādhataḥ)—even real bhāva is destroyed. By medium offense, bhāva becomes bhāvābhāsa. By slight offense, the bhāva degrades in category. Becoming an inferior type means that there will be degradation in term of the five rasas and the eight stages from mahā-bhāva to rati. [BRS 1.2.1](Bhakti%20Rasamrita%20Sindhu.md#^b042d2)
 
-bhaktih premocyate bhisma-mukhair yatra tu sangata ~ 
-mamatanya-mamatvena varjitety atra yojana ~~ 3 ~~ 
+VCT:
+An example is Dvivida the monkey, a follower of Rāma. By aparādha to Lakṣmaṇa, his bhāva disappeared...If the aparādha is slight, the bhāva changes type. Madhura-rati becomes dāsya-rati. Dāsya-rati becomes śānta-rati.
 
-bhavottho 'ti-prasadotthah sri-harer iti sa dvidha ~~ 0 ~~ 
+1.3.55
+gāḍhāsaṅgāt sadāyāti mumukṣau supratiṣṭhite |
+ābhāsatām asau kiṁ vā bhajanīyeśa-bhāvatām ||55||
 
-tatra bhavotthah 
-bhava evantar-anganam-anganam-anusevaya ~ 
-arudhah parama-utkarsam bhava-uttah parikirtitah ~~ 5 ~~ 
+By intimate association with a person who strongly desires impersonal liberation, real bhāva becomes bhāvābhāsa, or becomes worship of the self as the Lord.
 
-tatra vaidha-bhavot tho, yathai kadase1 37 
-evam-vratah sva-priya-nama-kirtya j atanurago druta-citta uccaih ~ 
-hasaty atho roditi rauti gayaty unmadavan nrtyati loka-bahyah ~~ 6 ~~
- 
-raganugiya-bhavottho 
-yatha padme 
-na patim kamayet kancid-brahmacarya-sthita sada ~ 
-tam-eva murtim dhyayanti candrakantir-varanana ~~ 7 ~~ 
-sri-krsna-gatham gayanti romancodbheda-laksana ~ 
-asmin-manvantare snigdha sri-krsna-priya-vartaya ~~8 ~~ 
+1.3.56
+ata eva kvacit teṣu navya-bhakteṣu dṛśyate |
+kṣaṇam īśvara-bhāvo ’yaṁ nṛtyādau mukti-pakṣagaḥ ||56||
 
+It is seen sometimes that new devotees, absorbed in the goals of different types of liberation, identify themselves with the Lord momentarily, during dancing or other acts of devotion.
 
-atha harer-ati-prasadot thah 
-harer-ati-prasado 'yam sanga-danadir atmanah ~~9 ~~ 
+1.3.57
+sādhanekṣāṁ vinā yasminn akasmād bhāva īkṣyate |
+vighna-sthagitam atrohyaṁ prāg-bhavīyaṁ susādhanaṁ ||57||
 
-yathai kadase13 8 
-te nadhIta-sruti-gana nopasita-mahattamah ~ 
-avratatapta-tapasah mat-sangan mam upagatah ~~1 0 ~~ 
+Bhāva sometimes appears suddenly in a person without performance of sādhana or mercy, and without scriptural knowledge. It should be inferred that, in a previous life, some obstacle interrupted that person’s skillful sādhana, and in this life the obstacle has finally been removed.
 
-mahatmyajnana-yuktas ca kevalas ceti sa dvidha ~~1 1 ~~ 
+1.3.58
+lokottara-camatkāra-kārakaḥ sarva-śaktidaḥ |
+yaḥ prathīyān bhaved bhāvaḥ sa tu kṛṣṇa-prasādajaḥ ||58||
 
-atha adyo 
-yatha pancaratre 
-mahatmyajnana-yuktas tu sudrdhah sarvato 'dhikah ~ 
-sneho bhaktir iti proktas taya sarstyadi nanyatha ~~ 12 ~~ 
+That bhāva which is more amazing than anything in this world, which gives all powers, and which is very deep, is caused by the mercy of Kṛṣṇa.
 
-Kevalo, yatha tatraiva 
-manogatir-avicchinna harau prema-paripluta 
-abhisandhi-vinirmukta bhaktir-visnu-vasankan ~~1 3 ~~ 
+1.3.59
+jane cej jāta-bhāve ’pi vaiguṇyam iva dṛśyate |
+kāryā tathāpi nāsūyā kṛtārthaḥ sarvathaiva saḥ ||59||
 
-mahimajnana-yuktah syad vidhi-marganusarinam ~ 
-raganugasrtianan tu prayasah kevalo bhavet ~~1 0 ~~ 
+If some apparent fault is seen in a person who has developed real bhāva, one should not be hostile to him, because he has accomplished the goal in all respects.
 
-adau sraddha tatah sadhu-sango 'tha bhajana-kriya ~ 
-tato 'nartha-nivrttih syat tato nistha rucis tatah ~~ 15 ~~ 
-athasaktis tato bhavas tatah premabhyudancati ~ 
-sadhakanam ayam premnah pradurbhave bhavektra mah ~~1 6 ~~ 
+1.3.60
+yathā nārasiṁhe—
+bhagavati ca harāv ananya-cetā
+bhṛśa-malino ’pi virājate manuṣyaḥ |
+na hi śaśa-kaluṣa-cchaviḥ kadācit
+imira-parābhavatām upaiti candraḥ ||60||
 
-dhanyasyayam navah prema yasyonmilati cetasi ~ 
-antarvanibhir apy asya mudra susthu sudurgama ~~1 7 ~~ 
+Thus, it is said in the Narasiṁha Purāṇa:
+A person who is dedicated completely to the Lord may show, externally, serious contamination (but internally he is pure). The full moon, though marked by the figure of a rabbit, is never overcome by darkness.
 
+In the Hari-vaṁśa, it is said: loke cchāyā-mayaṁ lakṣma tavāṅke śaśa-saṁjñitam: the dark spot on the moon is called a rabbit.
 
-ataeva sri-narada pancaratre yatha 
-bhavonmatto hareh kincin na veda sukham-atmanah ~ 
-dukham-ceti mahesani paramananda aplutah ~~1 8 ~~ 
+1.3.61
+ratir aniśa-nisargoṣṇa-prabalatarānanda-pūra-rūpaiva |
+uṣmāṇam api vamantī sudhāṁśu-koṭer api svādvī ||61||
 
-premna eva vilasatvad-vairalyat sadhakesv api ~ 
-atra snehadayo bheda vivicya na hi samsitah ~~1 9 ~ 
+Rati is naturally and eternally unstable because of its continuous, ever-increasing desires for pleasing the Lord and it is full of bliss. Manifesting this instability in the form of a variety of sañcāri-bhāvas, it is tastier than millions of moon.
 
-srimat prabhupadambhoj aishar va bhagavatamrte ~ 
-vyakti-krtasti gudhapi bhakti-siddhanta-madhun ~~2 0 ~~ 
+Chapter 19
+# # The Fourth Wave (Prema-bhakti) 
 
-gopala-rupa-sobham dadhad api raghunatha-bhava-vistari ~ 
-tusya-tu sanatanatma prathama-vibhage sudhambu-nidheh ~ 2~ 1 
+## 1.4.1 (prema-bhakti)
+samyaṅ-masṛṇita-svānto mamatvātiśayāṅkitaḥ |
+bhāvaḥ sa eva sāndrātmā budhaiḥ premā nigadyate ||1||
+
+When bhāva becomes extremely condensed, it is called prema by the learned. It softens the heart completely and produces extreme possessiveness of the Lord in the experiencer.
+
+bhāva -> prema -> sneha -> rāga -> māna -> praṇaya -> anurāga -> mahā-bhāva
+
+1.4.2
+yathā pañcarātre—
+ananya-mamatā viṣṇau mamatā prema saṅgatā |
+bhaktir ity ucyate bhīṣma-prahlādoddhava-nāradaiḥ ||2||
+
+In the Pañcarātra, it is said:
+Prema is defined by Bhīṣma, Prahlāda, Uddhava and Nārada as that bhāva which has possessiveness related to Viṣṇu (or any other form of the Lord) and to no one else.
+
+1.4.3
+bhaktiḥ premocyate bhīṣma-mukhyair yatra tu saṅgatā |
+mamatānya-mamatvena varjitety atra yojanā ||3||
+
+The analysis of the grammar of the above verse is as follows: Bhāva is called prema by Bhīṣma and others where there is possessiveness (mamatā) related to (saṅgatā) to Viṣṇu and where possessiveness of other things (ananya-mamatā) is absent.
+
+1.4.4
+bhāvottho ’ti-prasādotthaḥ śrī-harer iti sa dvidhā ||4||
+
+This prema for the Lord has two types: that arising from bhāva and that arising from mercy.
+
+1.4.5
+tatra bhāvotthaḥ—
+bhāva evāntar-aṅgāṇam aṅgānām anusevayā |
+ārūḍhaḥ parama-utkarṣam bhāva-uttaḥ parikīrtitaḥ ||5||
+
+Prema arising from bhāva is explained:
+That bhāva which reaches the highest excellence by continual service using all essential aṅgas is called “prema arising from bhāva.”
+
+The aṅgas were defined in relation to sādhana-bhakti, but the same activities continue in bhāva and prema, though they are called anubhāvas after sādhana is finished.
+
+1.4.6
+tatra vaidha-bhāvottho, yathā ekādaśe—
+evaṁ-vrataḥ sva-priya-nāma-kīrtyā
+jātānurāgo druta-citta uccaiḥ |
+hasaty atho roditi rauti gāyaty
+unmāda-van nṛtyati loka-bāhyaḥ ||6||
+
+An example of prema arising from vaidha-bhāva is supplied from the Eleventh Canto:
+Having performed his vows according to vaidhi-bhakti, chanting the holy name of his beloved Lord, he develops great attachment. As his heart melts with ecstatic love, he laughs very loudly, cries, or shouts. Sometimes he sings and dances like a madman, for he is indifferent to public opinion. SB 11.2.40
+
+1.4.7-8
+rāgānugīya-bhāvottho, yathā pādme—
+na patiṁ kāmayet kañcid brahmacarya-sthitā sadā |
+tam eva mūrtiṁ dhyāyantī candrakāntir varānanā ||7||
+
+śrī-kṛṣṇa-gāthāṁ gāyantī romāṇcodbheda-lakṣaṇā |
+asmin-manvantare snigdhā śrī-kṛṣṇa-priya-vartayā ||8||
+
+Prema arising from bhāva, based on rāgānuga-sādhana, is described in the Padma Purāṇa:
+In this manvantara period, the beautiful-faced Candrakānti observed continuous celibacy, and continuously meditated only on the form of Kṛṣṇa, thinking, “One should not desire anyone else as a husband.” She sang songs about Him with hairs standing on end. She developed complete affection for Kṛṣṇa by hearing stories about Kṛṣṇa.
+
+1.4.9
+atha harer atiprasādotthaḥ—
+harer atiprasādo ’yaṁ saṅga-dānādir ātmanaḥ ||9||
+
+Prema arising from the great mercy of the Lord is explained:
+The great mercy of the Lord includes such things as the Lord giving His association to the devotee.
+
+1.4.10
+yathā ekādaśe —
+te nādhīta-śruti-gaṇā nopāsita-mahattamāḥ |
+avratātapta-tapasaḥ mat-saṅgān mām upāgatāḥ ||10||
+
+In the Eleventh Canto, prema arising from the Lord’s mercy (in this case, association) is illustrated as follows:
+The persons I have mentioned did not undergo serious studies of the Vedic literature, nor did they worship great saintly persons, nor did they execute severe vows or austerities. Simply by association with My devotees and Me, they achieved Me. SB 11.12.7
+
+1.4.11
+māhātmya-jñāna-yuktaś ca kevalaś ceti sa dvidhā ||11||
+
+Prema arising from the Lord’s mercy has two types: that endowed with knowledge of the Lord’s powers, and that endowed with only knowledge of the Lord’s sweetness.
+
+Realizing only sweetness takes place exclusively in the form of Vraja Kṛṣṇa, not even in Mathurā or Dvārakā Kṛṣṇa, where sweetness is mixed with awareness of Kṛṣṇa as God. Realization of Vaikuṇṭha Viṣṇu produces a predominance of māhātmya-jñāna-yukta-prema.
+
+1.4.12
+atha ādyo, yathā pañcarātre—
+māhātmya-jñāna-yuktas tu sudṛḍhaḥ sarvato ’dhikaḥ |
+sneho bhaktir iti proktas tayā sārṣṭyādinānyathā ||12||
+
+Prema endowed with knowledge of the power of the Lord, arising from the Lord’s mercy, is described in the Pañcarātra:
+Affection for the Lord more than anyone else, which is very firm, and includes knowledge of the Lord’s powers, is called bhakti. By that bhakti, a person attains powers in the spiritual world as well as other rewards. There is no other way of attaining such things.
+
+VCT:
+Māhātmya-jñānam — knowledge of the Lord’s powers — means awareness that “He is God.” This awareness, with particular respect for the Lord, restricts feelings of sakhya, vatsala and madhura. Though there is also awareness of the Lord’s powers in persons practicing rāgānuga-bhakti, that awareness does not restrict their feelings of sakhya, vatsala and madhura-bhakti.
+
+1.4.13
+kevalo, yathā tatraiva—
+mano-gatir avicchinnā harau prema-pariplutā |
+abhisandhi-vinirmuktā bhaktir viṣṇu-vaśaṅkarī ||13|| iti |
+
+Prema with knowledge of the Lord’s sweetness, arising from the Lord’s mercy, is described as follows in the Pañcarātra:
+That bhakti inundated with prema, with continuous, spontaneous desires to please the Lord free of desires for other results (even the desire to see His powers), brings even Viṣṇu under control.
+
+Perhaps this is equivalent of paramāviṣṭatā, completely absorbed in the object of love, which was the definition of rāga. [BRS 1.2.272 (ragatmika-bhakti)](Bhakti%20Rasamrita%20Sindhu.md#1.2.272%20(ragatmika-bhakti))
+
+Actually, kevala-prema is prema for Vraja Kṛṣṇa, though the text says viṣṇu-vaśaṅkarī, which means literally “bringing Viṣṇuunder control.” In this context it must mean that bhakti for Vraja Kṛṣṇa is so attractive that even Viṣṇu becomes attracted. An example is Mahā-viṣṇu calling Kṛṣṇa and Arjuna to His abode to see them. In Arjuna’s bhakti however there is a mixture of awareness of Kṛṣṇa as God along with sweetness. Viṣṇu’s attraction to kevala-prema would be the Viṣṇu expansions as cowherd boys and calves serving Vraja Kṛṣṇa for one year. 
+
+1.4.14
+mahima-jñāna-yuktaḥ syād vidhi-mārgānusāriṇām |
+rāgānugāśritānāṁ tu prāyaśaḥ kevalo bhavet ||14||
+
+Those who have practiced vaidhi-bhakti (and then get the great mercy of the Lord) attain prema with knowledge of the Lord’s powers. Those who have practiced rāgānuga-bhakti (and then get the great mercy of the Lord) usually attain prema with knowledge of the Lord’s sweetness.
+
+## 1.4.15-16 (9 steps of faith)
+ādau śraddhā tataḥ sādhusaṅgo ’tha bhajanakriyā |
+tato ’narthanivṛttiḥ syāt tato niṣṭhā rucis tataḥ ||15||
+
+tathāsaktis tato bhāvas tataḥ premābhyudañcati |
+sādhakānām ayaṁ premṇaḥ prādurbhāvaḥ bhavet kramaḥ ||16||
+
+First, there is association with devotees, by which one gains faith. Then, one associates with the devotees to learn the scriptures, and then practices bhakti. The anarthas are then destroyed. Steady bhakti without confusion follows. Desire for the Lord (ruci) appears. This is followed by spontaneous desire for the Lord (āsakti). This becomes bhāva and then prema. This is the progression for manifesting prema for those performing sādhana-bhakti.
+
+Jiva:
+In the beginning (ādau), by hearing the scriptures in association with the devotees, one attains faith (śraddhā). Śraddhā means trust or confidence. Then, after faith appears, again association with devotees takes place (sadhu-saṅga), for learning how to practice bhakti. Niṣṭhā means continuous bhakti without confusion. Ruci means desire for the Lord, but with direction by the intellect. Āsakti means desire, which is natural or spontaneous (without intellectual direction).
+
+1.4.17
+dhanyasyāyaṁ navaḥ premā yasyonmīlati cetasi |
+antarvāṇībhir apy asya mudrā suṣṭhu sudurgamā ||17||
+
+This ever fresh prema arises in the heart of a person who is very fortunate. That person’s behavior is very difficult to comprehend even for those knowledgeable of scriptures.
+
+1.4.18
+ata eva śrī-nārada-pañcarātre, yathā—
+bhāvonmatto hareḥ kiñcin na veda sukham ātmanaḥ |
+dukhaṁ ceti maheśāni paramānanda āplutaḥ ||18||
+
+Therefore, in Nārada-pañcarātra it is said:
+O goddess Pārvatī, the person who is mad with love of the Lord, being absorbed in the highest bliss, does not know at all his own happiness or distress.
+
+1.4.19
+premṇa eva vilāsatvād vairalyāt sādhakeṣv api |
+atra snehādayo bhedā vivicya na hi śaṁsitāḥ ||19||
+
+Sneha and other advanced stages are the manifestations of prema, but because they are rare, even in those who have practiced bhakti, the distinctions will not be described here.
+
+1.4.20
+śrīmat-prabhupadāmbhojaiḥ sarvā bhāgavatāmṛte |
+vyaktīkṛtāsti gūḍhāpi bhakti-siddhānta-mādhurī ||20||
+
+Śrī Sanātana Gosvāmī, my master, has clearly described all the sweetness of the conclusions of bhakti in Bṛhad-bhāgavatāmṛta, though it is very esoteric.
+
+1.4.21
+gopāla-rūpa-śobhāṁ dadhad api raghunātha-bhāva-vistārī |
+tuṣyatu sanātanātmā prathama-vibhāge sudhāmbu-nidheḥ ||21||
+
+May the eternal Lord in the beautiful form of a cowherd boy, who distributes his mood of love to Rāma and other forms, be pleased with this first part of the Bhakti-rasāmṛta-sindhu.
+May the person named Sanātana Gosvāmī, who glorified Gopāla Bhaṭṭa Gosvāmī and Rūpa Gosvāmī and bestowed kṛṣṇa-prema to Raghunātha dāsa Gosvāmī, be pleased with this first section of the ocean of nectar!
+
+Jiva:
+Kṛṣṇa is the source of all avatāras, the avatārī.
+
+Chapter 20
+# The Southern Section
+
+Defining the Components of Rasa
+
+# The First Wave (Vibhāva)
+
+2.1.1
+prabalam ananya-śrayiṇā niṣevitaḥ sahaja-rūpeṇa |
+agha-damano mathurāyāṁ sadā sanātana-tanur jayati ||1||
+
+May the eternal form of Kṛṣṇa, killer of Aghāsura, served strongly by His natural beauty, which is attractive even without ornaments, and which is non-different from His very self, remain with all attractive features eternally in the district of Mathurā.
+May Sanātana Gosvāmī, who conquers all sins and is served with devotion by his younger brother Rūpa, who has taken shelter of him alone, remain eternally in Mathurā district.
+
+2.1.2
+rasāmṛtābdher bhāge ’smin dvitīye dakṣiṇābhidhe |
+sāmānya-bhagavad-bhakti-rasas tāvad udīryate ||2||
+
+The second part of the sweet ocean of rasa is called the Southern Section. It describes the general rasas within devotion to the Lord.
+
+2.1.3
+asya pañca-laharyaḥ syur vibhāvākhyāgrimā matā |
+dvitīyā tv anubhāvākhyā tṛtīyā sāttvikābhidhā |
+vyabhicāry-abhidhā turyā sthāyi-saṁjñā ca pañcamī ||3||
+
+There are five waves or chapters in this Southern Section of the ocean. The first deals with vibhāva; the second with anubhāva; the third with sāttvika-bhāva; the fourth with vyabhicāri-bhāva; and the fifth with sthāyi-bhāva.
+
+2.1.4
+athāsyāḥ keśava-rater lakṣitāyā nigadyate |
+sāmagrī-paripoṣeṇa paramā rasa-rūpatā ||4||
+
+The Southern Section describes how rati (bhāva) for the Lord (sthāyi-bhāva), which has been described previously, takes on the form of the highest rasa through nourishment by the ingredients of vibhāva, anubhāva, sāttvika-bhāva and vyabhicāri-bhāva.
+
+2.2.5
+vibhāvair anubhāvaiś ca sāttvikair vyabhicāribhiḥ |
+svādyatvaṁ hṛdi bhaktānām ānītā śravaṇādibhiḥ |
+eṣā kṛṣṇa-ratiḥ sthāyi-bhāvo bhakti-raso bhavet ||5||
+
+This rati for Kṛṣṇa, called the sthāyi-bhāva, takes on a pleasurable nature in the hearts of the devotees by the vibhāvas, anubhāvas, sāttvika-bhāvas and vyabhicāri-bhāvas, through activities such as hearing, and then becomes bhakti-rasa.
+
+2.1.6
+prāktany ādhunikī cāsti yasya sad-bhakti-vāsanā |
+eṣa bhakti-rasāsvādas tasyaiva hṛdi jāyate ||6||
+
+The taste for bhakti-rasa arises in the heart of a person who has had experiences of pure bhakti in previous and present life.
+
+2.1.7-10
+bhakti-nirdhūta-doṣāṇāṁ prasannojjvala-cetasām |
+śrī-bhāgavata-raktānāṁ rasikāsaṅga-raṅgiṇām ||7||
+
+jīvanī-bhūta-govinda-pāda-bhakti-sukha-śriyām |
+premāntaraṅga-bhūtāni kṛtyāny evānutiṣṭhatām ||8||
+
+bhaktānāṁ hṛdi rājantī saṁskāra-yugalojjvalā |
+ratir ānanda-rūpaiva nīyamānā tu rasyatām ||9||
+
+kṛṣṇādibhir vibhāvādyair gatair anubhavādhvani |
+prauḍhānanda-camatkāra-kāṣṭhām āpadyate parām ||10||
+
+Rati, which is the very form of ānanda, appears in the hearts of devotees who have been purified of all faults by bhakti, whose hearts have become joyful (hlādinī) and bright (saṁvit), who have developed great relish for the Bhāgavatam and for the association of others who have taste for Kṛṣṇa, whose life and soul becomes the profound happiness of devotion at the feet of Govinda, and who have become absorbed in actions such as kīrtana, imbued with the Lord’s mercy. This rati, strengthened by past and present life impressions of bhakti, then attains a state of relish by realizing vibhāva, anubhāva, sāttvika-bhāva and vyabhicāri-bhāva in relation to Kṛṣṇa, and finally attains the highest, astonishing peak of profound bliss.
+
+2.1.11
+kintu premā vibhāvādyaiḥ svalpair nīto ’py aṇīyasīm |
+vibhāvanādy-avasthāṁ tu sadya āsvādyatāṁ vrajet ||11||
+
+However, prema, even becoming slightly pleasurable by a slight mixture of vibhāva and the other ingredients, quickly becomes fully tasteful.
+
+Jiva:
+Rati, increasing in intensity, becomes prema. Becoming more intense, in the case of dāsya-rasa, rati, prema, sneha and rāga manifest. In the sakhya-rasa rati, praṇaya, prema, sneha and rāga manifest. In vatsala-rasa, rati, prema, sneha and the highest level of rāga manifest. In the case of madhura-rasa, the order is rati, prema, sneha, māna, praṇaya, rāga, anurāga and mahā-bhāva.
+
+## 2.1.12-13 (Defs of vibhāva, anubhāva, sāttvika-bhāva & vyabhicāri-bhāva)
+atra vibhāvādi-sāmānya-lakṣaṇam –
+ye kṛṣṇa-bhakta-muralī-nādādyā hetavo rateḥ |
+kārya-bhūtāḥ smitādyāś ca tathāṣṭau stabdhatādayaḥ ||12||
+
+nirvedādyāḥ sahāyāś ca te jñeyā rasa-bhāvane |
+vibhāvā anubhāvāś ca sāttvikā vyabhicāriṇaḥ ||13||
+
+The general characteristics of the ingredients are as follows.
+In tasting rasa, the causes of rati such as Kṛṣṇa, His devotee, and the sound of the flute are called vibhāvas. The effects of rati, such as smiling are called anubhāvas and the eight symptoms such as being stunned are called sāttvika-bhāvas. The assistants such as self-criticism are called vyabhicāri-bhāvas.
+
+2.1.14
+tatra vibhāva –
+tatra jñeyā vibhāvās tu raty-āsvādana-hetavaḥ |
+te dvidhālambanā eke tathaivoddīpanāḥ pare ||14||
+
+In rasa, the vibhāvas should be known as the causes of relishing rati. They take the form of support (ālambana) of two types and stimuli (uddīpana).
+
+## 2.1.15 (def vibhava)
+tad uktam agni-purāṇe (alaṅkāra section, 3.35) –
+vibhāvyate hi raty-ādir yatra yena vibhāvyate |
+vibhāvo nāma sa dvedhālambanoddīpanātmakaḥ ||15||
+
+This is mentioned in the Agni Purāṇa (Alaṅkāra section, 3.35):
+Vibhāva refers to the two types of ālambana - the person in relation to whom the rati and other elements are experienced (viṣaya), the person in whom the rati and other elements are experienced (āśraya) and to uddīpana, the stimuli by which rati is experienced.
+
+## 2.1.16 (ālambanā)
+tatra ālambanāḥ –
+kṛṣṇaś ca kṛṣṇa-bhaktāś ca budhair ālambanā matāḥ |
+raty-āder viṣayatvena tathādhāratayāpi ca ||16||
+
+Ālambanas are described as follows:
+The wise consider the ālambanas to be Kṛṣṇa, as the object of love experienced in rati, and His devotees, as the experiencer (subject) of rati (the five major and seven secondary sthāyi-bhāvas).
+
+2.1.17
+tatra śrī-kṛṣṇaḥ –
+nāyakānāṁ śiro-ratnaṁ kṛṣṇas tu bhagavān svayam |
+yatra nityatayā sarve virājante mahā-guṇāḥ |
+so ’nyarūpa-svarūpābhyām asminn ālambano mataḥ ||17||
+
+Now Kṛṣṇa as the object of rati is discussed:
+Kṛṣṇa, Svayam Bhagavān, is the crest jewel of heroes, in whom all great qualities shine eternally. He is considered the ālambana or support for rati (viṣaya) through His svarūpa and through other forms that He may assume.
+
+2.1.18
+anyarūpeṇa, yathā –
+hanta me katham udeti sa-vatse, vatsa-pāla-paṭale ratir atra |
+ity aniścita-matir baladevo vismaya-stimita-mūrtir ivāsīt ||18||
+
+The “other forms” are now explained as follows:
+“How is it that I have developed rati for the calves and the cowherd boys similar to my rati for Kṛṣṇa?” In this way Balarāma with indecision remained struck with wonder.
+
+Chapter 21
+
+2.1.19
+atha svarūpam –
+āvṛtaṁ prakaṭaṁ ceti svarūpaṁ kathitaṁ dvidhā ||19||
+
+The svarūpa as the ālambana is now discussed:
+The svarūpa takes two forms: covered and manifested.
+
+2.1.20
+atra āvṛtam –
+anya-veśādinācchannaṁ svarūpaṁ proktam āvṛtam ||20||
+
+The covered svarūpa is explained:
+The svarūpa is called covered when it is covered or disguised by others’ clothing.
+
+2.1.21
+tena, yathā –
+māṁ snehayati kim uccair mahileyaṁ dvārakāvarodhe’tra |
+
+An example of a disguised svarūpa is given:
+Why does this queen in the inner chambers of Dvārakā attract me so much? Ah! I can understand that Kṛṣṇa has assumed the dress of a queen out of curiosity and is wandering about the palace.
+
+2.1.22
+prakaṭa-svarūpeṇa, yathā –
+ayaṁ kambu-grīvaḥ kamala-kamanīyākṣi-paṭimā
+tamāla-śyāmāṅga-dyutir atitarāṁ chatrita-śirāḥ |
+dara-śrī-vatsāṅkaḥ sphurad-ari-darādy-aṅkita-karaḥ
+karoty uccair modaṁ mama madhura-mūrtir madhu-ripuḥ ||22||
+
+An example of the manifested svarūpa is given:
+This sweet form of the enemy of the demon Madhu gives me intense bliss. He has a neck like a conch shell, beautiful eyes envied by the lotuses, and the bodily glow of the dark tamāla tree. His head is sheltered by an umbrella, His chest is marked with the śrīvatsa whorl, and His hands are marked with cakra, conch and other symbols.
+
+## 2.1.23 (6 qualities of Krṣṇa) (6/50)
+atha tad guṇāḥ –
+ayaṁ netā suramyāṅgaḥ sarva-sal-lakṣaṇānvitaḥ |
+ruciras tejasā yukto balīyān vayasānvitaḥ ||23||
+
+The qualities of Krṣṇa will be described:
+The hero Kṛṣṇa has beautiful limbs, has all auspicious bodily features, is pleasing to behold, possesses vitality, is strong and is endowed with ideal age.
+
+1. has beautiful limbs - у Него прекрасная внешность
+2. has all auspicious bodily features - на Его теле можно обнаружить все благоприятные знаки
+3. is pleasing to behold - Его вид радует глаз
+4. possesses vitality - Он исполнен жизненной силы (энергии)
+5. is strong - Он сильный
+6. is endowed with ideal age - пребывает в идеальном возрасте
+
+## 2.1.24 (7 qualities of Krṣṇa) (13/50)
+vividhādbhuta-bhāṣā-vit satya-vākyaḥ priyaṁ vadaḥ |
+vāvadūkaḥ supāṇḍityo buddhimān pratibhānvitaḥ ||24||
+
+He knows a variety of astonishing languages, is truthful, speaks in a pleasing manner, is eloquent, learned, intelligent, and filled with new ideas.
+
+7. knows a variety of astonishing languages - Он знает множество удивительных языков
+8.  is truthful - правдивый
+9. speaks in a pleasing manner - Он приятный собеседник
+10. is eloquent - красноречивый
+11. learned - образованный
+12. intelligent - разумный
+13. filled with new ideas - полон новых идей
+
+## 2.1.25 (9/50 qualities of Krṣṇa) (22/50)
+vidagdhaś caturo dakṣaḥ kṛtajñaḥ sudṛḍha-vrataḥ |
+deśa-kāla-supātrajñaḥ śāstra-cakṣuḥ śucir vaśī ||25||
+
+He is aesthetic, clever, skilful, and grateful. He keeps his vows, is knowledgeable of time, place and person, sees through the eyes of scripture, is pure, and controls His senses.
+
+14. He is aesthetic - Он эстетичен (способен видеть и ценить прекрасное)
+15. clever - ловкий
+16. skilful - искусен в делах
+17. grateful - благодарен
+18. He keeps his vows - Он соблюдает свои обеты
+19. is knowledgeable of time, place and person - знает, как поступать согласно времени, месту и личности
+20. sees through the eyes of scripture - на все смотрит глазами писаний
+21. is pure - Он чист
+22. controls His senses - контролирует свои чувства
+## 2.1.26 (11/50 qualities of Krṣṇa) (33/50)
+sthiro dāntaḥ kṣamā-śīlo gambhīro dhṛtimān samaḥ |
+vadānyo dhārmikaḥ śūraḥ karuṇo mānya-mānakṛt ||26||
+
+He is persevering, patient, tolerant, inscrutable, steadfast, uniform, generous, virtuous, heroic, compassionate, and respectful to persons worthy of respect.
+
+23. He is persevering - Он настойчив
+24. patient - терпелив
+25. tolerant - толерантный
+26. inscrutable - непроницаемый
+27. steadfast - непоколебимый
+28. uniform - постоянный
+29. generous - щедрый
+30. virtuous - добродетелен
+31. heroic - героический
+32. compassionate - сострадателен
+33. respectful to persons worthy of respect - уважителен к людям, достойным уважения
+## 2.1.27 (8/50 qualities of Krṣṇa) (41/50)
+dakṣiṇo vinayī hrīmān śaraṇāgata-pālakaḥ |
+sukhī bhakta-suhṛt prema-vaśyaḥ sarva-śubhaṅkaraḥ ||27||
+
+He is compliant, modest, bashful, the protector of those who take shelter of Him, happy, friend of the devotees, controlled by love, and the benefactor of all.
+
+34. He is compliant - Он уступчив
+35. modest - скромен
+36. bashful - застенчив
+37. the protector of those who take shelter of Him - Он - защитник тех, кто принял у Него прибежище
+38. happy - Он счастлив
+39. friend of the devotees - Он - друг преданных
+40. controlled by love - его контролирует любовь
+41. benefactor of all - благодетель всех
+## 2.1.28 (7/50 qualities of Krṣṇa) (48/50)
+pratāpī kīrtimān rakta-lokaḥ sādhu-samāśrayaḥ |
+nārī-gaṇa-manohārī sarvārādhyaḥ samṛddhimān ||28||
+
+He is glorious, renowned, the object of attraction for all, the shelter of the devotees, attractive to women, worshipable by all, and endowed with the greatest wealth.
+
+42. He is glorious - Он прославленный
+43. renowned - знаменитый
+44. the object of attraction for all - является объектом всеобщего внимания
+45. the shelter of the devotees - Он - прибежище преданных
+46. attractive to women - Он привлекателен для женщин
+47. worshipable by all - является объектом всеобщего поклонения
+48. endowed with the greatest wealth - наделен величайшим богатством
+## 2.1.29 (2/50 qualities of Krṣṇa) (50/50)
+varīyān īśvaraś ceti guṇās tasyānukīrtitāḥ |
+samudrā iva pañcāśad durvigāhā harer amī ||29||
+
+He is the most important and the controller. These fifty qualities of Kṛṣṇa which have been listed are difficult to fathom, like the ocean.
+
+49. He is the most important - самый гланый
+50. the controller - повелитель
+
+2.1.30
+jīveṣu ete vasanto ’pi bindu-bindutayā kvacit |
+paripūrṇatayā bhānti tatraiva puruṣottame ||30||
+
+These qualities are present even in the jīvas to a very small degree now and then. However, they are present in full in the Supreme Lord.
+
+2.1.31
+tathā hi pādme pārvatyai śiti-kaṇṭhena tad-guṇāḥ |
+kandarpa-koṭi-lāvaṇya ity ādyāḥ parikīrtitāḥ ||31||
+
+In this way, in the Padma Purāṇa, Śiva tells Pārvatī about the qualities of Kṛṣṇa, starting with His beauty, which is greater than that of ten million Cupids.
+
+2.1.32
+eta eva guṇāḥ prāyo dharmāya vana-mālinaḥ |
+pṛthivyā prathama-skandhe prathayāñcakrire sphuṭam ||32||
+
+The earth also describes the qualities of Kṛṣṇa clearly and extensively in order to instruct the deity of dharma, in the First Canto.
+
+2.1.33-36
+yathā prathame –
+satyaṁ śaucaṁ dayā kṣāntis tyāgaḥ santoṣa ārjavam |
+śamo damas tapaḥ sāmyaṁ titikṣoparatiḥ śrutam ||33||
+
+jñānaṁ viraktir aiśvaryaṁ śauryaṁ tejo balaṁ smṛtiḥ |
+svātantryaṁ kauśalaṁ kāntir dhairyaṁ mārdavam eva ca ||34||
+
+prāgalbhyaṁ praśrayaḥ śīlaṁ saha ojo balaṁ bhagaḥ |
+gāmbhīryaṁ sthairyam āstikyaṁ kīrtir māno ’nahaṅkṛtiḥ ||35||
+
+ime cānye ca bhagavan nityā yatra mahā-guṇāḥ |
+prārthyā mahattvam icchadbhir na viyanti sma karhicit ||36||
+
+In Him reside (1) truthfulness, (2) cleanliness, (3) intolerance of another’s unhappiness, (4) the power to control anger, (5) self-satisfaction, (6) straightforwardness, (7) steadiness of mind, (8) control of the sense organs, (9) responsibility, (10) equality, (11) tolerance, (12) equanimity, (13) faithfulness, (14) knowledge, (15) absence of sense enjoyment, (16) leadership, (17) chivalry, (18) influence, (19) the power to make everything possible, (20) the discharge of proper duty, (21) complete independence, (22) dexterity, (23) fullness of all beauty, (24) serenity, (25) kindheartedness, (26) ingenuity, (27) gentility, (28) magnanimity, (29) determination, (30) perfection in all knowledge, (31) proper execution, (32) possession of all objects of enjoyment, (33) joyfulness, (34) immovability, (35) fidelity, (36) fame, (37) worship, (38) pridelessness, (39) being (as the Personality of Godhead), (40) eternity, and many other transcendental qualities which are eternally present and never to be separated from Him. SB 1.16.27-30
+
+2.1.37
+atha pañca-guṇā ye syur aṁśena giriśādiṣu ||37||
+
+Now, five qualities of Kṛṣṇa, which will also be present in Śiva and others when they are the Lord’s expansions, will be listed.
+
+VCT:
+Giriśa means Sadāśiva
+
+## 2.1.38 (5 qualities of Kṛṣṇa which will also be present in Śiva and other expansions)
+sadā svarūpa-samprāptaḥ sarva-jño nitya-nūtanaḥ |
+sac-cid-ānanda-sāndrāṅgaḥ sarva-siddhi-niṣevitaḥ ||38||
+
+He is always situated in His eternal form; He is omniscient; He is forever young; He has a body made of condensed eternity, knowledge and bliss; and He possesses all siddhis (mystic powers).
+
+51. He is always situated in His eternal form - Он всегда пребывает в Своей вечной форме
+52. He is omniscient - Он всезнающий
+53. He is forever young - Он вечно юн
+54. He has a body made of condensed eternity, knowledge and bliss - Его тело - это концентрированная форма вечности, знания и блаженства
+55. He possesses all siddhis (mystic powers) - Он обладает всеми _сиддхами_ (мистическими силами)
+
+## 2.1.39-40 (5 qualities of Kṛṣṇa which will also be present in Nārāyaṇa, and the puruṣāvatāras)
+athocyante guṇāḥ pañca ye lakṣmīśādi-vartinaḥ |
+avicintya-mahā-śaktiḥ koṭi-brahmāṇḍa-vigrahaḥ ||39||
+
+avatārāvalī-bījaṁ hatāri-gati-dāyakaḥ |
+ātmārāma-gaṇākarṣīty amī kṛṣṇe kilādbhutāḥ ||40||
+
+Now will be listed the amazing qualities present in Kṛṣṇa but present also in Nārāyaṇa, and the puruṣāvatāras. He has inconceivable, great energies; He is the form which expands over tens of millions of universes; He is the source of the numerous avatāras; He rewards even the enemies He kills; and He attracts the ātmārāmas. These qualities become even more astonishing in Kṛṣṇa.
+
+56. He has inconceivable, great energies - Он обладает непостижимыми огромными энергиями
+57. He is the form which expands over tens of millions of universes - из Его тела исходят десятки миллионов вселенных
+58. He is the source of the numerous avatāras - Он является источником многочисленных _аватар_
+59. He rewards even the enemies He kills - Он вознаграждает даже врагов, которых убивает
+60. He attracts the ātmārāmas - Он привлекает к Себе _атмарам_
+
+Jiva:
+Nārāyaṇa is the source of the puruṣāvatāras. The puruṣavatāras are the source of the līlāvatāras.
+
+## 2.1.41-43 (4 qualities possessed by Govinda alone)
+sarvādbhuta-camatkāra-līlā-kallola-vāridhiḥ |
+atulya-madhura-prema-maṇḍita-priya-maṇḍalaḥ ||41||
+
+trijagan-mānasākarṣi-muralī-kala-kūjitaḥ |
+asamānordhva-rūpa-śrī-vismāpita-carācaraḥ ||42||
+
+līlā-premṇā priyādhikyaṁ mādhuryaṁ veṇu-rūpayoḥ |
+ity asādhāraṇaṁ proktaṁ govindasya catuṣṭayam ||43||
+
+The four extraordinary qualities possessed by Govinda alone are as follows. He is a wave-filled ocean of the most astonishing display of pastimes. He is surrounded by loving associates decorated with incomparably sweet prema. He plays sweet notes on His flute which attract all the minds in the three worlds. He astonishes all moving and non-moving entities with the beauty of His form to which there is no equal or superior. His extraordinary qualities are His special pastimes, His devotees endowed with abundant prema, the sweetness of His flute and the sweetness of His form.
+
+61. His special pastimes - Его особые игры
+62. His devotees - Его преданные
+63. the sweetness of His flute - сладость Его флейты
+64. the sweetness of His form - сладость Его облика
+
+Jiva
+His first quality is His _līlā_. 
+Secondly, accompanying Him is an abundance of dear devotees filled with _prema_ (_premnā priyādhikyam_). 
+The sweetness of His flute is the third quality. 
+The sweetness of His form is the fourth quality.
+
+2.1.44
+evaṁ guṇāś catur-bhedāś catuḥ-ṣaṣṭir udāhṛtāḥ |
+sodāharaṇam eteṣāṁ lakṣaṇaṁ kriyate kramāt ||44||
+
+The sixty-four qualities in four divisions will each be described with examples.
+
+Jiva
+The four divisions are: the first fifty qualities, the second five qualities, the third five qualities, and the last four qualities.
+
+(1) suramyāṅgaḥ: beautifully-limbed
+
+2.1.45
+ślāghyāṅga-sanniveśo yaḥ suramyāṅgaḥ sa kathyate ||45||
+
+A person who is endowed with praiseworthy bodily parts is called “beautifully-limbed.”
+
+2.1.46
+yathā –
+mukhaṁ candrākāraṁ karabha-nibham uru-dvayam idaṁ
+bhujau stambhārambhau sarasija-vareṇyaṁ kara-yugam |
+kavāṭābhaṁ vakṣaḥ-sthalam aviralaṁ śroṇi-phalakaṁ
+parikṣāmo madhyaḥ sphurati murahantur madhurimā ||46||
+
+What sweetness the form of Murāri reveals. His face is like the moon. His thighs are like elephant trunks. His arms are as sturdy as the bases of pillars. His hands are the object of praise for lotuses. His chest is as broad as a door. His hips are massive and His waist is thin.
+
+(2) sarva-sal-lakṣaṇānvitaḥ: Kṛṣṇa’s body is endowed with all of the auspicious features.
+
+2.1.47
+tanau guṇottham aṅkottham iti sal-lakṣaṇaṁ dvidhā ||47||
+
+Good indications or auspicious characteristics are of two types: bodily features (guṇottham) and the markings on the hands and feet (aṅkottham).
+
+2.1.48
+guṇotthaṁ syād guṇair yogo raktatā-tuṅgatādibhiḥ ||48||
+
+Guṇottham refers to such things as redness or elevation of a limb.
+
+2.1.49
+yathā –
+rāgaḥ saptasu hanta ṣaṭsv api śiśor aṅgeṣv alaṁ tuṅgatā
+visāras triṣu kharvatā triṣu tathā gambhīratā ca triṣu |
+dairghyaṁ pañcasu kiṁ ca pañcasu sakhe samprekṣyate sūkṣmatā
+dvātriṁśad-vara-lakṣaṇaḥ katham asau gopeṣu sambhāvyate ||49||
+
+O friend! I see that your child has twenty-three auspicious marks on His body. How is it possible that such a child could be born in a cowherd’s house? Seven places on his body are red. Six limbs are elevated. Three limbs are broad. Three limbs are short. Three limbs are deep. Five limbs are long. Five limbs are fine.
+
+Jiva:
+- The red parts of the body are: edges of the eyes, soles of the feet, palms of the hand, roof of the mouth, upper and lower lips, tongue, and nails.
+- Six elevated limbs are: chest, shoulders, nails, nose, waist, and mouth. 
+- The three broad limbs are: waist, forehead and chest. 
+- The three short limbs are: neck, lower legs and genital. 
+- Three deep limbs are: navel, voice, and intelligence. 
+- The five long limbs are: nose, arms, eyes, cheeks, and knees. 
+- The five fine limbs are: skin, head hair, body hair, teeth and finger joints.
+
+These are the marks of a great personality according to literature concerning bodily markings. With these thirty-two auspicious markings, Kṛṣṇa possesses the best markings among all the cowherd people with auspicious markings. 
+
+2.1.50
+aṅkottham –
+rekhāmayaṁ rathāṅgādi syād aṅkotthaṁ karādiṣu ||50||
+
+Aṅkottham refers to lines such as a cakra on the hands or feet.
+
+## 2.1.51 (signs on Krisna's feet)
+yathā –
+karayoḥ kamalaṁ tathā rathāṅgaṁ
+sphuṭa-rekhāmayam ātmajasya paśya |
+pada-pallavayoś ca vallavendra
+dhvaja-vajrāṅkuśa-mīna-paṅkajāni ||51||
+
+O king of the cowherd men! See, on the hands of your child, there are clear lines of the lotus and cakra, and on His feet there are marks of a flag, thunderbolt, goad, fish and a lotus.
+
+Jiva:
+In the _Padma Purāṇa_ Brahmā speaks to Narada. I speak the truth, for I have seen sixteen marks on His feet. On His right foot are eight marks and on His left foot are seven marks. O best of Vaiṣṇavas! On his right foot can be seen the marks of the flag, lotus, thunderbolt, goad, barley corn, _svastika_, an upward line and an octagon. O best of the Vaiṣṇavas! Now I will tell you about the seven marks on His left foot. There is a rainbow, a triangle, a pot, a crescent moon, a compass, a fish and a hчoof print of a cow. Whenever one sees these marks on the feet of someone, O learned sage, without doubt the supreme Brahman has taken birth on earth as that person. O best of Vaiṣṇavas, two, three, four or five of these marks will sometimes be found on the feet of Kṛṣṇa’s _avatāras_. Hear about the sixteen marks, O best of the sages among the _devatās_. Sometimes a mark resembling a _jambu_ fruit will be seen.” From other scriptures, from the _tāpanīs_, _āgamas_ and the _Varāha Purāṇa_ it is understood that there are also signs of the conch, _cakra_ and umbrella on His feet.
+
+2.1.52
+(3) ruciraḥ –
+saundaryeṇa dṛg-ānanda-kārī rucira ucyate ||52||
+
+Rucira means “He gives bliss to the eye by His beauty.”
+
+2.1.53
+yathā –
+yad dharma-sūnor bata rājasūye
+nirīkṣya dṛk-svastyayanaṁ tri-lokaḥ |
+kārtsnyena cādyeha gataṁ vidhātur
+arvāk-sṛtau kauśalam ity amanyata ||53||
+
+All the demigods from the upper, lower and middle universal planetary systems assembled at the altar of the rājasūya sacrifice performed by Mahārāja Yudhiṣṭhira. After seeing the beautiful bodily features of Lord Kṛṣṇa, they all realized that whatever Brahmā had previously created had now completely entered into Kṛṣṇa. SB 3.2.13
+
+2.1.54
+yathā vā –
+aṣṭānāṁ danujabhid-aṅga-paṅkajānām
+ekasmin katham api yatra ballavīnām |
+lolākṣi-bhramara-tatiḥ papāta tasmān
+notthātuṁ dyuti-madhu-paṅkilāt kṣamāsīt ||54||
+
+Or, another example:
+If the bee-like eyes of the gopīs fall upon one among the eight lotus-like bodily parts of Kṛṣṇa, the enemy of the Dānavas, they will not be able to rise from the thick honey of His beauty.
+
+Jiva:
+The eight lotus-like parts of Kṛṣṇa’s body are: His face, His two eyes, His navel, His two feet, and His two hands.
+
+2.1.55
+(4) tejasā yuktaḥ–
+tejo dhāma prabhāvaś cety ucyate dvividhaṁ budhaiḥ ||55||
+
+The wise say there are two meanings of tejas: dhāma (effulgence) and prabhāva (conquering the enemy).
+
+2.1.56
+tatra dhāma–
+dīpti-rāśir bhaved dhāma ||56||
+
+Dhāma refers to effulgence.
+
+2.1.57
+yathā –
+ambara-maṇi-nikurambaṁ viḍambayann api marīci-kulaiḥ |
+hari-vakṣasi ruci-niviḍe maṇirāḍ ayam uḍur iva sphurati ||57||
+
+Though the Kaustubha jewel, the king of jewels, discredits the sun by its shining rays, it appears like only a star on the Lord’s chest, which shines much brighter than the Kaustubha.
+
+2.1.58
+prabhāvaḥ –
+prabhāvaḥ sarvajit-sthitiḥ ||58||
+
+Prabhāva refers to His capacity to conquer all others.
+
+2.1.59
+yathā –
+dūratas tam avalokya mādhavaṁ
+komalāṅgam api raṅga-maṇḍale |
+parvatodbhaṭa-bhujāntaro ’py asau
+kaṁsa-malla-nivahaḥ sa vivyathe ||59||
+
+Seeing Mādhava with His tender body from a distance in the wrestling arena, the group of wrestlers, though endowed with chests greater than mountains, became agitated with fear.
+
+2.1.60
+(5) balīyān –
+prāṇena mahatā pūrṇo balīyān iti kathyate ||60||
+
+Balīyān means “filled with great strength.”
+
+2.1.61
+yathā –
+paśya vindhya-girito ’pi gariṣṭhaṁ
+daitya-puṅgavam udagram ariṣṭam |
+tula-khaṇḍam iva piṇḍitam ārāt
+puṇḍarīka-nayano vinunoda ||61||
+
+See! Lotus-eyed Kṛṣṇa has thrown to a far distance, like a piece of cotton, the greatest demon Ariṣṭa, who is heavier and higher than the Vindhya mountain range.
+
+2.1.62
+yathā vā –
+vāmas tāmarasākṣasya bhuja-daṇḍaḥ sa pātu vaḥ |
+krīḍā-kandukatāṁ yena nīto govardhano giriḥ ||62||
+
+Another example:
+May the left hand of lotus-eyed Kṛṣṇa, which has lifted Govardhana Hill like a ball, protect you!
+
+2.1.63
+(6) vayasānvitaḥ –
+vayaso vividhatve ’pi sarva-bhakti-rasāśrayaḥ |
+dharmī kiśora evātra nitya-nānā-vilāsavān ||63||
+
+Though Kṛṣṇa is endowed with all ages which become most excellent, the age of kaiśora, ever-fresh, endowed with all pastimes, manifesting all good qualities, and the shelter of all rasas, is considered the best.
+
+Jiva:
+Kṛṣṇa has three progressive ages: kaumāra, paugaṇḍa and kaiśora.
+
+2.1.64
+yathā –
+tadātvābhivyaktīkṛta-taruṇimārambha-rabhasaṁ
+smita-śrī-nirdhūta-sphurad-amala-rākā-pati-madam |
+darodañcat-pañcāśuga-nava-kalā-meduram idaṁ
+murārer mādhuryaṁ manasi madirākṣīr madayati ||64||
+
+Filled with the joy of recently manifested youth, the sweetness of Murāri, defeating the spotless, full moon with the effulgence of His smile, and made soft with a hint of the fresh sports of Cupid, gives great joy to the minds of the sweet-eyed gopīs.
+
+2.1.65
+(7) vividhādbhuta-bhāṣāvit –
+vividhādbhuta-bhāṣāvit sa prokto yas tu kovidaḥ |
+nānā-deśyāsu bhāṣāsu saṁskṛte prākṛteṣu ca ||65||
+
+A person who knows the languages of various countries, saṁskṛta, the vernacular and the languages of animals is called a knower of astonishing languages.
+
+2.1.66
+yathā –
+vraja-yuvatiṣu śauriḥ śaurasenīṁ surendre
+praṇata-śirasi saurīṁ bhāratīm ātanoti |
+ahaha paśuṣu kīreṣv apy apabhraṁśa-rūpāṁ
+katham ajani vidagdhaḥ sarva-bhāṣāvalīṣu ||66||
+
+Kṛṣṇa, śauri, expresses Himself in the vernacular to the young gopīs of Vraja, in saṁṣkṛta to the respectful Indra, and in the colloquial dialect to the animals, to the people of Kāśmīra and to the parrots. How amazing! How has he become expert in all these languages?
+
+Jiva:
+_śaurasenī_ - language of Mathurā
+_saṁskṛta_ - the language of the _devas_
+
+2.1.67
+(8) satya-vākyaḥ –
+syān nānṛtaṁ vaco yasya satya-vākyaḥ sa kathyate ||67||
+
+A person is called a speaker of the truth whose words are never false.
+
+2.1.68
+yathā –
+pṛthe tanaya-pañcakaṁ prakaṭam arpayiṣyāmi te
+raṇorvaritam ity abhūt tava yathārtham evoditam |
+ravir bhavati śītalaḥ kumuda-bandhur apy uṣṇalas
+tathāpi na murāntaka vyabhicariṣṇur uktis tava ||68||
+
+You said, “O Kunti! I will bring back your five sons to you from the battlefield alive and with great honor.” Your statement has come true. O Murari! Even though the sun may become cold and the moon may become hot, Your words will never be untrue.
+
+2.1.69
+yathā vā –
+gūḍho ’pi veṣeṇa mahī-surasya
+harir yathārthaṁ magadhendram ūce |
+saṁsṛṣṭam ābhyāṁ saha pāṇḍavābhyāṁ
+māṁ viddhi kṛṣṇaṁ bhavataḥ sapatnam ||69||
+
+Though disguising Himself as a brāhmaṇa, Kṛṣṇa told the truth to Jarāsandha. “O king of Magadha! Understand that it is I, Kṛṣṇa, your enemy, accompanying the two sons of Pāṇḍu.”
+
+2.1.70
+(9) priyaṁvadaḥ –
+jane kṛtāparādhe ’pi sāntva-vādī priyaṁvadaḥ ||70||
+
+“Speaking in a pleasing manner” means speaking in a pleasing manner even to those who have offended.
+
+2.1.71
+yathā –
+kṛta-vyalīke ’pi na kuṇḍalīndra
+tvayā vidheyā mayi doṣa-dṛṣṭiḥ |
+pravāsyamāno ’si surārcitānāṁ
+paraṁ hitāyādya gavāṁ kulasya ||71||
+
+O king of the snakes! Though I have afflicted you, do not find fault in Me. For the good of the cows, worthy of respect by the devatās, you should live far from here.
+
+2.1.72
+(10) vāvadūkaḥ –
+śruti-preṣṭhoktir akhila-vāg-guṇānvita-vāg api |
+iti dvidhā nigadito vāvadūko manīṣibhiḥ ||72||
+
+The wise say that there are two types of eloquence: speaking which is pleasing to the ear, and speaking with clever meaning.
+
+2.1.73
+tatra ādyo, yathā –
+aśliṣṭa-komala-padāvali-mañjulena
+pratyakṣara-kṣarad-amanda-sudhā-rasena |
+sakhyaḥ samasta-jana-karṇa-rasāyanena
+nāhāri kasya hṛdayaṁ hari-bhāṣitena ||73||
+
+An example of speaking in a pleasing manner:
+O friends! Whose heart will not be stolen by the words of Kṛṣṇa, sweet with clear, soft pronunciation, an elixir of intense nectar in the placement of each syllable, a medicine, giving life to the ears of all people by its sweet intonation?
+
+2.1.74
+dvitīyo, yathā –
+prativādi-citta-parivṛtti-paṭur
+jagad-eka-saṁśaya-vimarda-karī |
+pramitākṣarādya-vividhārtha-mayī
+hari-vāg iyaṁ mama dhinoti dhiyaḥ ||74||
+
+An example of the skilful meaning of words is as follows:
+The words of Kṛṣṇa, skilful at changing the hearts of His adversaries, superior to all in extinguishing all doubts in the universe, authoritative and economical, endowed with many meanings, have today made all my mental functions blissful.
+
+2.1.75
+(11) supaṇḍityaḥ –
+vidvān nītijña ity eṣa supaṇḍityo dvidhā mataḥ |
+vidvān akhila-vidyā-vin nītijñas tu yathārha-kṛt ||75||
+
+Being knowledgeable has two aspects: knowledgeable of all branches of all subjects and knowledgeable of proper conduct.
+
+2.1.76
+tatra ādyo yathā –
+yaṁ suṣṭhu pūrvaṁ paricarya gauravāt
+pitāmahādy-ambudharaiḥ pravartitāḥ |
+kṛṣṇārṇavaṁ kāśya-guru-kṣamābhṛtas
+tam eva vidyā-saritaḥ prapedire ||76||
+
+An example of knowing all branches of knowledge:
+Previously the clouds, in the form of Brahmā and others, by expertly serving with reverence the ocean, in the form of Kṛṣṇa, produced rivers of knowledge. Now those rivers of knowledge are flowing from the mountain of Sāndīpani back into the ocean of Kṛṣṇa.
+
+2.1.77
+yathā vā –
+āmnāya-prathitānvayā smṛtimatī bāḍhaṁ ṣaḍ-aṅgojjvalā
+nyāyenānugatā purāṇa-suhṛdā mīmāṁsayā maṇḍitā |
+tvāṁ labdhāvasarā cirād gurukule prekṣya svasaṅgārthinaṁ
+vidyā nāma vadhūś caturdaśa-guṇā govinda śuśrūṣate ||77||
+
+Another example:
+O Govinda! The bride of knowledge with fourteen branches whose lineage is distributed by the four Vedas, and which includes the smṛtis, is made brilliant by the six aṅgas, is followed by the saḍ-darśaṇas, is assisted by the Purāṇas, and decorated with the karma and jñāna-kāṇḍas. This bride known as knowledge, seeing You eager for gaining her association (knowledge) at the house of Your guru, desires to serve You - finding this opportunity after a long time.
+
+Jiva:
+The six _aṅgas_ of the Vedas are defined by the wise as 
+- _śikṣa_ (pronunciation), 
+- _kalpa_ (rules of ritual), 
+- _vyākaraṇa_ (grammar), 
+- _jyotiṣa_ (astrology and astronomy), 
+- _chandas_ (meter), and 
+- _nirukta_ (etymology)
+
+2.1.78
+dvitīyo, yathā –
+mṛtyus taskara-maṇḍale sukṛtināṁ vṛnde vasantānilaḥ
+kandarpo ramaṇīṣu durgata-kule kalyāṇa-kalpa-drumaḥ |
+indur bandhu-gaṇe vipakṣa-paṭale kālāgni-rudrākṛtiḥ
+śāsti svasti-dhurandharo madhupurīṁ nītyā madhūnāṁ patiḥ ||78||
+
+The second type of learning, knowledge of conduct is illustrated:
+The lord of the Madhus, Kṛṣṇa, is death for the thieves; the spring breeze for the pious; Cupid for the young women; a desire tree for the poverty-stricken; the cooling moon for His friends; the fire of final destruction in the form of Rudra for the enemies. He protects Mathurā and Dvārakā by His judicious conduct (in relation to all people.)
+
+2.1.79
+(12) buddhimān –
+medhāvī sūkṣmadhīś ceti procyate buddhimān dvidhā ||79||
+
+Buddhimān means “the capacity to absorb knowledge” and “possessing fine intelligence (acuity).”
+
+2.1.80
+tatra medhāvī, yathā –
+avanti-pura-vāsinaḥ sadanam etya sāndīpaner
+guror jagati darśayan samayam atra vidyārthinām |
+sakṛn nigada-mātrataḥ sakalam eva vidyā-kulaṁ
+dadhau hṛdaya-mandire kim api citravan mādhavaḥ ||80||
+
+An example of the ability to absorb knowledge:
+Mādhava, going to the house of Sāndīpani, His guru living in Avantipura, in order to teach the proper method to those who desire knowledge, received all the knowledge in the temple of His heart after just one recitation by the guru. How astonishing it is!
+
+2.1.81
+sūkṣma-dhīḥ, yathā –
+yadubhir ayam avadhyo mleccha-rājas tad enaṁ
+tarala-tamasi tasmin vidravann eva neṣye |
+sukhamaya-nija-nidrā-bhañjana-dhvaṁsi-dṛṣṭir
+jhara-muci mucukundaḥ kandare yatra śete ||81||
+
+An example of having fine intelligence:
+This Kālayavana cannot be killed by the Yadus. By running away from him into the dimly lit cave, I will bring him there. In that cave decorated with waterfalls, Mucukunda is sleeping. When Mucukunda opens his eyes, being rudely awakened from comfortable sleep by Kālayavana, he will destroy this enemy with his glance.
+
+2.1.82
+(13) pratibhānvitaḥ –
+sadyo navanavollekhi-jñānaṁ syāt pratibhānvitaḥ ||82||
+
+Pratibhānvitaḥ (possessed with creativity) means immediate, novel manifestation of ideas.
+
+2.1.83
+yathā padyāvalyāṁ –
+vāsaḥ samprati keśava kva bhavato mugdhekṣaṇe nanv idaṁ
+vāsaṁ brūhi śaṭha prakāma-subhage tvad-gātra-saṁsargataḥ |
+yāminyām uṣitaḥ kva dhūrta vitanur muṣṇāti kiṁ yāminī
+śaurir gopa-vadhūṁ chalaiḥ parihasann evaṁvidhaiḥ pātu vaḥ ||83||
+
+An example from Padyāvalī (283) –
+Rādhā said: O Kṛṣṇa, where do You stay (vāsa) now?
+Kṛṣṇa said: O Rādhā, with bewitching eyes! Can you not see that I am wearing my cloth (vāsam)?
+Rādhā said: How crafty You are! I am talking about Your residence, not your cloth!
+Kṛṣṇa said: O Rādhā with natural sweet aroma! I am fragrant (vāsa) by touching your limbs.
+Rādhā said: O cheater! Where did You stay during the night (yāminyām uṣitaḥ)?
+Kṛṣṇa said: How could I be stolen by the night, which does not even have a body (yāminyā muṣitaḥ)?
+In this way may Kṛṣṇa, who joked with Rādhā using tricky words, protect you!
+
+2.1.84
+(14) vidagdhaḥ –
+kalā-vilāsa-digdhātmā vidagdha iti kīrtyate ||84||
+
+One whose mind is absorbed in the sixty-four arts such as dancing and singing, and in various amusements, is called vidagdha (aesthete).
+
+2.1.85
+yathā –
+gītaṁ gumphati tāṇḍavaṁ ghaṭayati brūte prahelī-kramaṁ
+veṇuṁ vādayate srajaṁ viracayaty ālekhyam abhyasyati |
+nirmāti svayam indrajāla-paṭalīṁ dyūte jayaty unmadān
+paśyoddāma-kalā-vilāsa-vasatiś citraṁ hariḥ krīḍati ||85||
+
+Look! Kṛṣṇa is composing songs and dancing. He is making riddles, playing the flute, stringing garlands, and drawing pictures. He is making magical objects and winning at dice against persons showing pride. Kṛṣṇa, the residence of pastimes of unlimited arts, is now enjoying His leisure.
+
+2.1.86
+(15) caturaḥ –
+caturo yugapad-bhūri-samādhāna-kṛd ucyate ||86||
+
+A clever person is one who brings about a solution to many problems simultaneously.
+
+2.1.87
+yathā –
+pārāvatī-viracanena gavāṁ kalāpaṁ
+gopāṅganā-gaṇam apāṅga-taraṅgitena |
+mitrāṇi citratara-saṅgara-vikrameṇa
+dhinvann ariṣṭa-bhayadena harir vireje ||87||
+
+Kṛṣṇa gives bliss to all the cows by composing cowherd songs. He pleases the gopīs by the movement of His brow. He brings joy to His friends by heroic actions. All of these simultaneously give fear to Ariṣṭāsura (seeing how fearless Kṛṣṇa remains).
+
+2.1.88
+(16) dakṣaḥ –
+duṣkare kṣipra-kārī yas taṁ dakṣaṁ paricakṣate ||88||
+
+An expert is a person who does very quickly what is difficult to do.
+
+2.1.89
+yathā śrī-daśame –
+yāni yodhaiḥ prayuktāni
+śastrāstrāṇi kurūdvaha |
+haris tāny acchinat tīkṣṇaiḥ
+śarair ekaika-śastribhiḥ ||89||
+
+An example from the Tenth Canto:
+Lord Hari then struck down all the missiles and weapons that the enemy soldiers threw at Him, O hero of the Kurus, destroying each and every one with three sharp arrows. SB 10.59.17
+
+2.1.90
+yathā vā –
+aghahara kuru yugmībhūya nṛtyaṁ mayaiva
+tvam iti nikhila-gopī-prārthanā-pūrti-kāmaḥ |
+atanuta gati-līlā-lāghavormiṁ tathāsau
+dadṛśur adhikam etās taṁ yathā sva-sva-pārśve ||90||
+Перевод:
+
+“O killer of the Agha demon! Please dance only with me!” Desiring to fulfill this request by all of the gopīs, Kṛṣṇa quickly produced a multitude of gopīs and Himself going to a suitable place and performing the dance - but in such a manner that each of the gopīs without doubt saw Him at her side alone.
+
+2.1.91
+(17) kṛtajñaḥ–
+kṛtajñaḥ syād abhijño yaḥ kṛta-sevādi-karmaṇām ||91||
+Перевод:
+A grateful person is one who acknowledges others who have done service.
+
+2.1.92
+yathā mahābhārate –
+ṛṇam etat pravṛddhaṁ me hṛdayān nāpasarpati |
+yad govindeti cukrośa kṛṣṇā māṁ dūra-vāsinam ||92||
+Перевод:
+An example from the Mahābhārata (5.58.21):
+Draupadī cried out “O Govinda!” though I was situated far away. That crying out has created an ever-increasing debt which does not leave My heart.
+
+2.1.93
+yathā vā –
+anugatim ati-pūrvaṁ cintayann ṛkṣa-mauler
+akuruta bahumānaṁ śaurir ādāya kanyām |
+katham api kṛtam alpaṁ vismaren naiva sādhuḥ
+kim uta sa khalu sādhu-śreṇi-cūḍāgra-ratnam ||93||
+
+Another example:
+Though Jāmbavān had offended Kṛṣṇa, the Lord, remembering his service in the past during the time of Lord Rāma, married his daughter and gave him great respect. Since the well-bred never forget what little service is rendered to them, what then can be said of Kṛṣṇa, who is the head jewel among all well-behaved persons?
+
+2.1.94
+(18) sudṛḍha-vrataḥ –
+pratijñā-niyamau yasya satyau sa sudṛḍha-vrataḥ ||94||
+Перевод:
+A person who is true to his promises and to his perpetual vows is called “fixed in vows”.
+
+2.1.95
+tatra satya-pratijño, yathā hari-vaṁśe –
+na deva-gandharva-gaṇā na rākṣasā
+na cāsurā naiva ca yakṣa-pannagāḥ |
+mama pratijñām apahantum udyatā
+mune samarthāḥ khalu satyam astu te ||95||
+Перевод:
+Being true to His promises is illustrated in Hari-vaṁśa (2.68.38)–
+O Nārada! All of the devas, Gandharvas, Rākṣasas, asuras, Yakṣas and Pannagas are trying to make Me break My promise, but they cannot do so. May My promise to you be fruitful!
+
+2.1.96
+yathā vā –
+sa-helam ākhaṇḍala-pāṇḍu-putrau
+vidhāya kaṁsārir apārijātau |
+nija-pratijñāṁ saphalāṁ dadhānaḥ
+satyāṁ ca kṛṣṇāṁ ca sukhām akārṣīt ||96||
+Перевод:
+Another example:
+Very easily Kṛṣṇa, the enemy of Kaṁsa, made Indra bereft of the Pārijāta tree and pleased Satyabhāmā. He also made Yudhiṣṭhira devoid of enemies and pleased Draupadī. In this way, He fulfilled His promises.
+
+2.1.97
+satya-niyamo, yathā –
+girer uddharaṇaṁ kṛṣṇa duṣkaraṁ karma kurvatā |
+mad-bhaktaḥ syān na duḥkhīti sva-vrataṁ vivṛtaṁ tvayā ||97||
+Перевод:
+An example of being true to perpetual vows:
+O Kṛṣṇa! You vowed that Your devotee will never suffer. You have illustrated that by performing the difficult task of lifting Govardhana Hill.
+
+2.1.98
+(19) deśa-kāla-supātrajñaḥ –
+deśa-kāla-supātrajñas tat-tad-yogya-kriyā-kṛtiḥ ||98||
+Перевод:
+The knower of place, time and person is one who performs actions suitable to the time, place and person.
+
+2.1.99
+yathā –
+śaraj-jyotsnā-tulyaḥ katham api paro nāsti samayas
+trilokyām ākṛīḍaḥ kvacid api na vṛndāvana-samaḥ |
+na kāpy ambhojākṣī vraja-yuvati-kalpeti vimṛśan
+mano me sotkaṇṭhaṁ muhur ajani rāsotsava-rase ||99||
+Перевод:
+There is no time compared to the autumn season in the moonlight. There is not place of amusement equal to Vṛndāvana in the three worlds. There are no lotus-eyed women like the young women of Vraja. Considering this, My heart longs for the taste of the rāsa dance.
+
+2.1.100
+(20) śāstra-cakṣuḥ –
+śāstrānusāri-karmā yaḥ śāstra-cakṣuḥ sa kathyate ||100||
+Перевод:
+A person with “the eyes of scripture” is the person who performs his actions according to the rules of scripture.
+
+2.1.101
+yathā –
+abhūt kaṁsa-ripor netraṁ
+śāstram evārtha-dṛṣṭaye |
+netrāmbujaṁ tu yuvatī-
+vṛndān mādāya kevalam ||101||
+Перевод:
+The eyes of scripture which belong to Kṛṣṇa, the enemy of Kaṁsa, exist only to see the practical action in a given situation, and His lotus eyes exist only to bewilder the young women.
+
+## 2.1.102 (two types of purity)
+(21) śuciḥ –
+pāvanaś ca viśuddhaś cety ucyate dvividhaḥ śuciḥ |
+pāvanaḥ pāpa-nāśī syād viśuddhas tyakta-dūsaṇaḥ ||102||
+Перевод:
+There are two types of purity: pāvana and viśuddha. Pāvana means he who destroys sin and viśuddha means he who is without faults.
+
+2.1.103
+tatra pāvano, yathā pādme –
+taṁ nirvyājaṁ bhaja guṇa-nidhiṁ pāvanaṁ pāvanānāṁ
+śraddhā-rajyan-matir atitarām uttamaḥ-śloka-maulim |
+prodyann antaḥ-karaṇa-kuhare hanta yan-nāma-bhānor
+ābhāso ’pi kṣapayati mahā-pātaka-dhvānta-rāśim ||103||
+Перевод:
+Purification of sin (pāvana) is illustrated in the Padma Purāṇa:
+With intellect purified by faith and all sincerity, please intently worship Kṛṣṇa, an ocean of good qualities, whose glory destroys all darkness, who purifies those who purify others. When just the semblance of His name appears in the heart, it destroys the greatest accumulation of sins, just as the light prior to the rising of the sun destroys all darkness.
+
+2.1.104
+viśuddho, yathā –
+kapaṭaṁ ca haṭhaś ca nācyute
+bata satrājiti nāpy adīnatā |
+katham adya vṛthā syamantaka
+prasabhaṁ kaustubha-sakhyam icchasi ||104||
+Перевод:
+Viśuddha (faultlessness) is illustrated as follows:
+O Syamantaka jewel! There is no deception in Kṛṣṇa to try to take you from Satrājit, and there is plenty of miserliness in Satrājit to keep you. Then why do you desire so forcibly to make a friendship with the Kaustubha jewel today?
+
+2.1.105
+(22) vaśī
+vaśī jitendriyaḥ proktaḥ ||105||
+Перевод:
+A subjugator is one who controls his senses.
+
+2.1.106
+yathā prathame –
+uddāma-bhāva-piśunāmala-valgu-hāsa-
+vrīḍāvaloka-nihato madano ’pi yāsām |
+saṁmuhya cāpam ajahāt pramadottamās tā
+yasyendriyaṁ vimathituṁ kuhakair na śekuḥ ||106||
+Перевод:
+This is illustrated in the First Canto:
+Although the queens’ beautiful smiles and furtive glances were all spotless and exciting, and signified deep love, and although they could conquer Cupid himself by making him give up his bow in frustration, other women who approached Kṛṣṇa with false smiles and glances could not agitate the senses of the Lord. SB 1.11.37
+
+2.1.107
+(23) sthiraḥ –
+āphalodayakṛt sthiraḥ ||107||
+Перевод:
+He is called sthira or persevering who works steadily until realizing his goals.
+
+2.1.108
+yathā –
+nirvedam āpa na vana-bhramaṇe murārir
+nācintayad vyasanam ṛkṣa-vilapraveśe |
+āhṛtya hanta maṇim eva puraṁ prapede
+syād udyamaḥ kṛta-dhiyāṁ hi phalodayāntaḥ ||108||
+Перевод:
+Kṛṣṇa did not loathe wandering in the forest looking for the Syamantaka jewel, and did not consider fear on entering the cave of Jāmbavān. Taking the jewel, He returned to Dvārakā. Those of steady intelligence persevere in their work until attaining the result.
+
+2.1.109
+(24) dāntaḥ –
+sa dānto duḥsaham api yogyaṁ kleśaḥ saheta yaḥ ||109||
+Перевод:
+The person who endures difficult but necessary suffering is called patient.
+
+2.1.110
+yathā –
+gurum api guru-vāsa-kleśam avyāja-bhaktyā
+harir ajagaṇad antaḥ komalāṅgo ’pi nāyam |
+prakṛtir ati-durūhā hanta lokottarāṇāṁ
+kim api manasi citraṁ cintyamānā tanoti ||110||
+Перевод:
+Though Kṛṣṇa’s body was very soft, He did not consider in His heart the intolerable difficulties of living at the house of guru, because of His sincere devotion. One becomes amazed on contemplating the inscrutable character of extraordinary people.
+
+2.1.111
+(25) kṣamāśīlaḥ
+kṣamāśīlo ’parādhānāṁ sahanaḥ parikīrtyate ||111||
+Перевод:
+A person who endures the offenses of others is called tolerant.
+
+2.1.112
+yathā māgha-kāvye –
+prativācam adatta keśavaḥ
+śapamānāya na cedi-bhūbhṛte |
+anuhuṅkurute ghana-dhvaniḥ
+na hi gomāyu-rutāni keśarī ||112||
+Перевод:
+An example from Śiṣupāla-vadha, Māgha-kāvya (16.25):
+Though Śiṣupāla criticized Kṛṣṇa hundreds of times, Kṛṣṇa did not give any response. Though the lion replies to the thunder, it does not pay attention to the howl of the jackal.
+
+1.2.113
+yathā vā yāmunācārya-stotre –
+raghuvara yad abhūs tvaṁ tādṛśo vāyasasya
+praṇata iti dayālur yac ca caidyasya kṛṣṇa |
+pratibhavam aparāddhur mugdha sāyujyado ’bhūr
+vada kim apadam āgatas tasya te ’sti kṣamāyāḥ ||113||
+Перевод:
+Another example from Stotra-ratna of Yāmunācārya (60)
+O Rāmacandra, best of the Raghu dynasty! You were so merciful to the crow which pecked Sītā’s breast, but which then offered respects to You. O Kṛṣṇa, so forgetful of others sins! You gave attractive impersonal liberation to Śiṣupāla who offended You for many lifetimes. Tell me what offense exists in him that You would not tolerate?
+
+2.1.114
+(26) gambhīraḥ –
+durvibodhāśayo yas tu sa gambhīraḥ itīryate ||114||
+Перевод:
+A person whose intentions are difficult to comprehend is called inscrutable.
+
+2.1.115
+yathā –
+vṛndāvane varābhiḥ stutibhir nitarām upāsyamāno ’pi |
+śakto na harir vidhinā ruṣṭas tuṣṭo’thavā jñātum ||115||
+Перевод:
+When Brahmā worshipped Kṛṣṇa by offering the best praises in Vrndāvana, Kṛṣṇa remained silent. Brahmā could not understand if Kṛṣṇa was satisfied or angry with him.
+
+2.1.116
+yathā vā –
+unmado ’pi harir navya-rādhā-praṇaya-sīdhunā |
+abhijñenāpi rāmeṇa lakṣito’yam avikriyaḥ ||116||
+Перевод:
+Another example:
+Though Kṛṣṇa, while lifting Govardhana Hill, was intoxicated with the new liquor of Rādhā’s love, even omniscient Balarāma could not notice any indications of change.
+
+2.1.117
+(27) dhṛtimān –
+pūrṇa-spṛhaś ca dhṛtimān śāntaś ca kṣobha-kāraṇe ||117||
+Перевод:
+The person who is fully satisfied in his desires, or who is peaceful when there is cause for agitation by control of his mind, is called steadfast.
+
+2.1.118
+tatra ādyo –
+svīkurvann api nitarāṁ yaśaḥ-priyatvaṁ
+kaṁsārir magadha-pater vadha-prasiddhām |
+bhīmāya svayam atulām adatta kīrtiṁ
+kiṁ lokottara-guṇa-śālinām apekṣyam ||118||
+Перевод:
+The fully satisfied person is illustrated in the following:
+Though Kṛṣṇa is fond of fame, He gave that incomparable fame to Bhīma in the killing of Jarāsandha. What remains to be desired by those of superior character?
+
+2.1.119
+dvitīyo, yathā –
+ninditasya dama-ghoṣa-sūnunā
+sambhrameṇa munibhiḥ stutasya ca |
+rājasūya-sadasi kṣitīśvaraiḥ
+kāpi nāsya vikṛtir vitarkitā ||119||
+
+An example of being peaceful, in spite of causes of agitation:
+In spite of being rebuked by Śiśupāla and being praised by the sages in the assembly of the rājasūya sacrifice, Kṛṣṇa showed such steadiness that the kings present could not detect any change in Kṛṣṇa’s appearance.
+
+2.1.120
+(28) samaḥ –
+rāga-dveṣa-vimukto yaḥ samaḥ sa kathito budhaiḥ ||120||
+Перевод:
+The learned say that a person who is free of attraction and disgust is called impartial.
+
+2.1.121
+yathā śrī-daśame–
+nyāyyo hi daṇḍaḥ kṛta-kilbiṣe ’smiṁs
+tavāvatāraḥ khala-nigrahāya |
+ripoḥ sutānām api tulya-dṛṣṭer
+dhatse damaṁ phalam evānuśaṁsan ||121||
+Перевод:
+An example from the Tenth Canto:
+The punishment that this offender has been subjected to is certainly just. After all, You have incarnated within this world to curb envious and cruel persons. You are so impartial that You look equally upon Your enemies and Your own sons, for when You impose a punishment on a living being You know it to be for his ultimate benefit. SB 10.16.33
+
+2.1.122
+yathā vā –
+ripur api yadi śuddho maṇḍanīyas tavāsau
+yaduvara yadi duṣṭo daṇḍanīyaḥ suto ’pi |
+na punar akhila-bhartuḥ pakṣapātojjhitasya
+kvacid api viṣamaṁ te ceṣṭitaṁ jāghaṭīti ||122||
+Перевод:
+Another example:
+O best of the Yadus, if Your enemy does something correctly You reward him, and if Your son becomes spoiled You punish him. You are the protector of all people and without prejudice. Thus partiality can never occur in Your actions.
+
+2.1.123
+(29) vadānyaḥ –
+dāna-vīro bhaved yas tu sa vadānyo nigadyate ||123||
+Перевод:
+The person who is very charitable is called generous.
+
+2.1.124
+yathā –
+sarvārthināṁ bāḍham abhīṣṭa-pūrtyā
+vyarthīkṛtāḥ kaṁsa-nisūdanena |
+hriyeva cintāmaṇi-kāmadhenu-
+kalpa-drumā dvāravatīṁ bhajanti ||124||
+Перевод:
+The wishing jewel, the desire cow and the desire tree, being made useless by Kṛṣṇa, who fully satisfies all the supplicants’ desires, serve Dvārakā in shame.
+
+2.1.125
+yathā vā –
+yeṣāṁ ṣoḍaśa-pūritā daśa-śatī svāntaḥ-purāṇāṁ tathā
+cāṣṭāśliṣṭa-śataṁ vibhāti paritas tat-saṅkhya-patnī-yujām |
+ekaikaṁ prati teṣu tarṇaka-bhṛtāṁ bhūṣā-juṣām anvahaṁ
+gṛṣṭīnāṁ yugapac ca baddham adadād yas tasya vā kaḥ samaḥ ||125||
+Перевод:
+Another example:
+In each of the sixteen thousand one hundred and eight palaces with their queens, every day at one time Kṛṣṇa would give in charity thirteen thousand and eighty-four ornamented young cows with first-born calves. Who can be equal to Him in charity?
+
+2.1.126
+(30) dhārmikaḥ –
+kurvan kārayate dharmaṁ yaḥ sa dhārmika ucyate ||126||
+Перевод:
+The person who follows the principles of dharma and engages others in doing so also is called a virtuous man.
+
+2.1.127
+yathā –
+pādaiś caturbhir bhavatā vṛṣasya
+guptasya gopendra tathābhyavardhi |
+svairaṁ carann eva yathā trilokyām
+adharma-sparśāṇi haṭhāj jaghāsa ||127||
+Перевод:
+An example:
+O king of the cowherd men! The bull of dharma with four legs under Your protection has flourished to such an extent that, going everywhere in the three worlds, it has forcefully gobbled up the grass of irreligion.
+
+2.1.128
+yathā vā –
+vitāyamānair bhavatā makhotkarair
+ākṛṣyamāṇeṣu patiṣv anāratam |
+mukunda khinnaḥ sura-subhruvāṁ gaṇas
+tavāvatāraṁ navamaṁ namasyati ||128||
+Перевод:
+Another example:
+O Mukunda! You have performed so many sacrifices and continually attracted all the devatās that the wives of the devatās, feeling suffering in separation from their husbands, are praying to Buddha, Your ninth avatāra, to appear to stop sacrifices.
+
+2.1.129
+(31) śūraḥ –
+utsāhī yudhi śūro ’stra-prayoge ca vicakṣaṇaḥ ||129||
+Перевод:
+A hero is a person who is energetic in fighting and skilful in use of weapons.
+
+2.1.130
+tatra ādyo, yathā –
+pṛthu-samara-saro vigāhya kurvan
+dviṣad aravinda-vane vihāra-caryām |
+sphurasi tarala-bāhu-daṇḍa-śuṇḍas
+tvam agha-vidāraṇa vāraṇendra-līlaḥ ||130||
+Перевод:
+An example of enthusiasm in fighting is illustrated first:
+O destroyer of Agha! Destroyer of sin! With Your trembling trunk-like arms, submerging Yourself in the lake of the expansive battlefield, playing in the forest of lotuses composed of Your enemies, You appear to be playing like the king of the elephants.
+
+2.1.131
+dvitīyo, yathā –
+kṣaṇād akṣauhiṇī-vṛnde jarāsandhasya dāruṇe |
+dṛṣṭaḥ ko ’py atra nādaṣṭo hareḥ praharaṇāhibhiḥ ||131||
+Перевод:
+An example of being expert in handling weapons:
+Within a second, one could not see any soldier among the ferocious phalanx of akṣauhiṇis of Jarāsandha, any person who was not bitten by the snake-like arrows of the Lord.
+
+2.1.132
+(32) karuṇaḥ -
+para-duḥkhāsaho yas tu karuṇaḥ sa nigadyate ||132||
+Перевод:
+A person who cannot tolerate the suffering of others is called compassionate.
+
+2.1.133
+yathā –
+rājñām agādha-gatibhir magadhendra-kārā-
+duḥkhāndhakāra-paṭalaiḥ svayam andhitānām |
+akṣīṇi yaḥ sukhamayāni ghṛṇī vyatānīd
+vṛnde tam adya yadunandana-padma-bandhum ||133||
+Перевод:
+An example of karuṇa:
+I offer my respects to the compassionate son of the Yadus, who like the sun made all the kings’ eyes blossom with joy. These kings had blinded themselves with tears, arising from the impenetrable darkness of suffering caused by being imprisoned by Jarāsandha.
+
+2.1.134
+yathā vā –
+skhalan-nayana-vāribhir viracitābhiṣeka-śriye
+tvarābhara-taraṅgataḥ kavalitātma-visphūrtaye |
+niśānta-śara-śāyinā sura-sarit-sutena smṛteḥ
+sapadya-vaśa-vartmaṇo bhagavataḥ kṛpāyai namaḥ ||134||
+Перевод:
+Another example:
+I offer my respects to the compassion of the Lord, who, because of Bhīṣma’s remembrance of Him while laying the bed of sharp arrows, immediately appeared, beyond His own control. He rushed towards Bhīṣma while forgetting His position as God, His body bathed in a shower of tears.
+
+2.1.135
+(33) mānyamāna-kṛt –
+guru-brāhmaṇa-vṛddhādi-pūjako mānyamāna-kṛt ||135||
+Перевод:
+The person who worships guru, brāhmaṇas, and the elderly is called a respectful person.
+
+2.1.136
+yathā –
+abhivādya guroḥ padāmbujaṁ
+pitaraṁ pūrvajam apy athānataḥ |
+harir añjalinā tathā girā
+yadu-vṛddhān anamat kramādayam ||136||
+Перевод:
+Kṛṣṇa first offered respects to the lotus feet of His guru. He then offered respects to His father and elder brother. Then with folded hands and words, He offered respects to the elders of the Yadu dynasty in proper order.
+
+2.1.137
+(34) dakṣiṇaḥ –
+sauśīlya-saumya-carito dakṣiṇaḥ kīrtyate budhaiḥ ||137||
+Перевод:
+A person who is mild due to his excellent nature is called compliant by the intelligent.
+
+2.1.138
+yathā –
+bhṛtyasya paśyati gurūn api nāparādhān
+sevāṁ manāg api kṛtāṁ bahudhābhyupaiti |
+āviṣkaroti piśuneṣv api nābhyasūyāṁ
+śīlena nirmala-matiḥ puruṣottamo ’yam ||138||
+Перевод:
+The Supreme Lord, who is pure hearted by His very nature, does not see the serious offenses of His servant, but He accepts even a little service as a great thing. He does not find fault even in those of low character.
+
+2.1.139
+(35) vinayī –
+auddhatya-parihārī yaḥ kathyate vinayīty asau ||139||
+Перевод:
+The person who is devoid of arrogance is called modest.
+
+2.1.140
+yathā māgha-kāvye (13.7) –
+avaloka eṣa nṛpateḥ sudūrato
+rabhasād rathād avatarītum icchataḥ |
+avatīrṇavān prathamam ātmanā harir
+vinayaṁ viśeṣayati sambhrameṇa saḥ ||140||
+Перевод:
+An example from Māgha-kāvya:
+Seeing that Yudhiṣṭhira wanted to alight in haste from his chariot on seeing Kṛṣṇa, Kṛṣṇa Himself, by getting down from His chariot first out of great respect for Yudhiṣṭhira, showed more modesty than anyone else.
+
+2.1.141
+(36) hrīmān–
+jñāte ’smara-rahasye ’nyaiḥ kriyamāṇe stave ’thavā |
+śālīnatvena saṅkocaṁ bhajan hrīmān udīryate ||141||
+Перевод:
+A person is called bashful who is shy when praised by others, or when he thinks others are aware of His secret love affairs. This is because of modesty or his unfathomable nature.
+
+2.1.142
+yathā lalita-mādhave (9.40) –
+darodañcad-gopī-stana-parisara-prekṣaṇa-bharāt
+karotkampādīṣac calati kila govardhana-girau |
+bhayārtair ārabdha-stutir akhila-gopaiḥ smita-mukhaṁ
+puro dṛṣṭvā rāmaṁ jayati namitāsyo madhuripuḥ ||142||
+Перевод:
+From Lalita-mādhava:
+All glories to the enemy of Madhu, who made Govardhana Hill shake slightly by the weight of glancing upon the expanse of the gopīs’ upraised breasts and who hung His head in shame when He saw Balarāma smiling before Him, while He was being praised by the fearful cowherd men.
+
+2.1.143
+(37) śaraṇāgata-pālakaḥ –
+pālayan śaraṇāpannān śaraṇāgata-pālakaḥ ||143||
+Перевод:
+He who protects those who surrender is called protector of the surrendered.
+
+2.1.144
+yathā –
+jvara parihara vitrāsaṁ tvam atra samare kṛtāparādhe ’pi |
+sadyaḥ prapadyamāne yad indavati yādavendro ’yam ||144||
+Перевод:
+O fever (weapon), though you are an offender in this battle, give up your fear, because the best of the Yadus, Kṛṣṇa, acts like the moon towards those who completely surrender to Him.
+
+2.1.145
+(38) sukhī –
+bhoktā ca duḥkha-gandhair apy aspṛṣṭaś ca sukhī bhavet ||145||
+Перевод:
+The person who is an enjoyer and is not touched by a trace of sorrow is called a happy person.
+
+2.1.146
+tatra ādyo, yathā –
+ratnālaṅkāra-bhāras tava dhanada-mano-rājya-vṛttyāpy alabhyaḥ
+svapne dambholi-pāṇer api duradhigamaṁ dvāri tauryatrikaṁ ca |
+pārśve gaurī-gariṣṭhāḥ pracura-śaśi-kalāḥ kānta-sarvāṅga-bhājaḥ
+sīmantinyaś ca nityaṁ yaduvara bhuvane kas tvad-anyo ’sti bhogī ||146||
+Перевод:
+The enjoyer is illustrated first:
+O best of the Yadus, the quantity of Your jeweled ornaments cannot even be imagined by Kubera, the lord of wealth. The singing and dancing taking place at Your door cannot be imagined by Indra, even in his dreams. At Your side constantly are beautiful women who enjoy all your attractive limbs, who are decorated with the tips of Your moon-like fingernails, and who are thus superior to the wife of Śiva. In this world there is no enjoyer like You.
+
+2.1.147
+dvitīyo, yathā –
+na hāniṁ na mlāniṁ nija-gṛha-kṛtya-vyasanitāṁ
+na ghoraṁ nodghūrṇāṁ na kila kadanaṁ vetti kim api |
+varāṅgībhiḥ sāṅgīkṛta-suhṛd-anaṅgābhir abhito
+harir vṛndāraṇye param aniśam uccair viharati ||147||
+Перевод:
+“Being without a trace of sorrow” is illustrated next:
+O wives of the brāhmaṇas! Not even a trace of sorrow can touch Kṛṣṇa, for in Him where is no destruction, no decrease, no suffering in household affairs, no cause of fear, and no worry. He does not know any of the suffering of this world. He is eternally engaged in amusing Himself in Vrndāvana with beautiful women, who were perfect, the best of friends, and held the highest love.
+
+2.1.148
+(39) bhakta-suhṛt –
+susevyo dāsa-bandhuś ca dvidhā bhakta-suhṛn mataḥ ||148||
+Перевод:
+There are two ways in which Kṛṣṇa is friendly to devotees: being easily served and being a friend of His servant.
+
+2.1.149
+tatra ādyo, yathā viṣṇu-dharme –
+tulasī-dala-mātreṇa jalasya culukena ca |
+vikrīṇīte svam ātmānaṁ bhaktebhyo bhakta-vatsalaḥ ||149||
+Перевод:
+An example of being easily served from Viṣṇu-dharma:
+If the devotees offer only water and tulasī leaves to the Lord, the Lord, being affectionate to the devotees, puts Himself under the control of the devotees.
+
+2.1.150
+dvitīyo, yathā prathame –
+sva-nigamam apahāya mat-pratijñām
+ṛtam adhikartum avapluto rathasthaḥ |
+dhṛta-ratha-caraṇo ’bhyayāc caladgur
+harir iva hantum ibhaṁ gatottarīyaḥ ||150||
+Перевод:
+An example of being the friend of His servant, from the First Canto:
+Fulfilling my desire and sacrificing His own promise, He got down from the chariot, took up its wheel, and ran towards me hurriedly, just as a lion goes to kill an elephant. He even dropped His upper garment on the way. SB 1.9.37
+
+2.1.151
+(40) prema-vaśyaḥ –
+priyatva-mātra-vaśyo yaḥ prema-vaśyo bhaved asau ||151||
+Перевод:
+He who is controlled only by affection is called “controlled by love.”
+
+2.1.152
+yathā śrī-daśame –
+sakhyuḥ priyasya viprarṣer aṅga-saṅgāti-nirvṛtaḥ |
+prīto vyamuñcad adhvindūn netrābhyāṁ puṣkarekṣaṇaḥ ||152||
+Перевод:
+An example from the Tenth Canto:
+The lotus-eyed Supreme Lord felt intense ecstasy upon touching the body of His dear friend, the wise brāhmaṇa, and thus He shed tears of love. SB 10.80.19
+
+2.1.153
+yathā vā tatraiva –
+sva-mātuḥ svinna-gātrāyā visrasta-kavara-srajaḥ |
+dṛṣṭvā pariśramaṁ kṛṣṇaḥ kṛpayāsīt sva-bandhane ||153||
+Перевод:
+Another example from the Tenth Canto:
+Because of mother Yaśodā’s hard labor, her whole body became covered with perspiration, and the flowers and comb were falling from her hair. When child Kṛṣṇa saw His mother thus fatigued, He became merciful to her and agreed to be bound. SB 10.9.18
+
+2.1.154
+(41) sarva-śubhaṅkaraḥ –
+sarveṣāṁ hita-kārī yaḥ sa syāt sarva-śubhaṅkaraḥ ||154||
+Перевод:
+He who works for the benefit of all beings is called the benefactor of all.
+
+2.1.155
+yathā –
+kṛtāḥ kṛtārthā munayo vinodaiḥ
+khala-kṣayeṇākhila-dhārmikāś ca |
+vapur-vimardena khalāś ca yuddhe
+na kasya pathyaṁ hariṇā vyadhāyi ||155||
+Перевод:
+He gave benefit to the sages by the display of His qualities manifested in Dvārakā. He gave benefit to the followers of dharma by destroying the wicked. He gave success to the rascals by killing them in battle. To whom did Kṛṣṇa not give benefit?
+
+2.1.156
+(42) pratāpī –
+pratāpī pauruṣodbhūta-śatru-tāpi prasiddhi-bhāk ||156||
+Перевод:
+One who is famous for inflicting pain on the enemy with astonishing valor is called glorious (an effulgent person).
+
+2.1.157
+yathā –
+bhavataḥ pratāpa-tapane
+bhuvanaṁ kṛṣṇa pratāpayati |
+ghorāsura-ghukānāṁ
+śaraṇam abhūt kandarā-timiram ||157||
+Перевод:
+When You illuminate the world with Your brilliancy which is like the sun, the darkness of mountain caves becomes the shelter for the terrible demons who are like owls.
+
+2.1.158
+(43) kīrtimān –
+sādguṇyair nirmalaiḥ khyātaḥ kīrtimān iti kīrtyate ||158||
+Перевод:
+A person who is famous for spotless good qualities is called renowned.
+
+2.1.159
+yathā –
+tvad-yaśaḥ-kumuda-bandhu-kaumudī
+śubhra-bhāvam abhito nayanty api |
+nandanandana kathaṁ nu nirmame
+kṛṣṇa-bhāva-kalilaṁ jagat-trayam ||159||
+Перевод:
+O son of Nanda! Since the light of the moon of Your good qualities has already turned everything radiant (white), how can it make the world thick with Kṛṣṇa prema (kṛṣṇa also means darkness)?
+
+2.1.160
+yathā vā lalita-mādhave (5.18) –
+bhītā rudraṁ tyajati girijā śyāmam aprekṣya kaṇṭhaṁ
+śubhraṁ dṛṣṭvā kṣipati vasanaṁ vismito nīla-vāsāḥ |
+kṣīraṁ matvā śrapayati yamī-nīram ābhīrikotkā
+gīte dāmodara-yaśasi te vīṇayā nāradena ||160||
+Перевод:
+Another example, from Lalita-mādhava:
+O Dāmodara Kṛṣṇa! When Nārada, playing his vīṇā, began to sing Your glories, Pārvatī, not seeing the blue color on his throat, left Śiva’s abode; Balarāma seeing his blue cloth turn white, gave it up in astonishment; and the excited cowherd women, seeing the blue water of the Yamunā turn white, began to churn it, thinking it was milk.
+
+2.1.161
+(44) rakta-lokaḥ –
+pātraṁ lokānurāgāṇāṁ rakta-lokaṁ vidur budhāḥ ||161||
+Перевод:
+The intelligent say that the person who is the object of attraction for all people is called “attractive to people.”
+
+2.1.162
+yathā prathame –
+yarhy ambujākṣāpasasāra bho bhavān
+kurūn madhūn vātha suhṛd-didṛkṣayā
+tatrābda-koṭi-pratimaḥ kṣaṇo bhaved
+raviṁ vinākṣṇor iva nas tavācyuta ||162||
+Перевод:
+An example from the First Canto:
+O lotus-eyed Lord, whenever You go away to Vṛndāvana or Hastināpura to meet Your friends and relatives, every moment of Your absence seems like a million years. O infallible one, at that time we become bewildered, just like eyes become bewildered when bereft of the sun. SB 1.11.9
+
+2.1.163
+yathā vā –
+āśīs-tathyā jaya jaya jayety āvirāste munīnāṁ
+deva-śreṇī-stuti-kala-kalo meduraḥ prādurasti |
+harṣād ghoṣaḥ sphurati parito nāgarīṇāṁ garīyān
+ke vā raṅga-sthala-bhuvi harau bhejire nānurāgam ||163||
+Перевод:
+Another example:
+When Kṛṣṇa entered the arena of Kaṁsa the sages uttered blessings of “Victory! Victory! Victory!” The devatās uttered sweet songs of praise. Out of joy, the woman shouted loudly all around. Who did not develop attraction for Kṛṣṇa at the sports arena?
+
+2.1.164
+(45) sādhu-samāśrayaḥ –
+sad-eka-pakṣapātī yaḥ sa syāt sādhu-samāśrayaḥ ||164||
+Перевод:
+He who has exclusive inclination to the devotees is called the person who protects the devotees.
+
+2.1.165
+yathā –
+puruṣottama ced avātariṣyad
+bhuvane ’smin na bhavān bhuvaḥ śivāya |
+vikaṭāsura-maṇḍalān na jāne
+sujanānāṁ bata kā daśābhaviṣyat ||165||
+Перевод:
+O Supreme Person! If You did not appear on this earth to bestow auspiciousness, I do not know what condition would befall the devotees from the persecution by all the fierce demons.
+
+2.1.166
+(46) nārī-gaṇa-mano-hārī –
+nārī-gaṇa-mano-hārī sundarī-vṛnda-mohanaḥ ||166||
+Перевод:
+The person who enchants a group of women by his very nature is called an attractor of women.
+
+2.1.167
+yathā śrī-daśame –
+śruta-mātro ’pi yaḥ strīṇāṁ prasahyākarṣate manaḥ |
+urugāyorugīto vā paśyantīnāṁ ca kiṁ punaḥ ||167||
+Перевод:
+An example from the Tenth Canto:
+The Lord, being glorified in countless ways, forcibly attracts the minds of women who simply hear about Him. What to speak, then, if those women see Him directly? SB 10.90.26
+
+2.1.168
+yathā vā –
+tvaṁ cumbako ’si mādhava loha-mayī nūnam aṅganā-jātiḥ |
+dhāvati tatas tato’sau yato yataḥ krīḍayā bhramasi ||168||
+Перевод:
+Another example:
+O Mādhava! You are a magnet and certain women are iron. Wherever You wander in play, they run after You.
+
+2.1.169
+(47) sarvārādhyaḥ –
+sarveṣām agra-pūjyo yaḥ sa sarvārādhya ucyate ||169||
+Перевод:
+He who should be worshipped before all others is called all-worshipable.
+
+2.1.170
+yathā prathame –
+muni-gaṇa-nṛpa-varya-saṅkule ’ntaḥ-
+sadasi yudhiṣṭhira-rājasūya eṣām |
+arhaṇam upapeda īkṣaṇīyo
+mama dṛśi-gocara eṣa āvir ātmā ||170||
+Перевод:
+An example from the First Canto:
+At the Rājasūya-yajña (sacrifice) performed by Mahārāja Yudhiṣṭhira, there was the greatest assembly of all the elite men of the world, the royal and learned orders, and in that great assembly Lord Śrī Kṛṣṇa was worshiped by one and all as the most exalted Personality of Godhead. This happened during my presence, and I remembered the incident in order to keep my mind upon the Lord. SB 1.9.41
+
+2.1.171
+(48) samṛddhimān –
+mahā-sampatti-yukto yo bhaved eṣa samṛddhimān ||171||
+Перевод:
+He who possesses great treasure is called prosperous.
+
+2.1.172
+yathā –
+ṣaṭ-pañcāśad-yadu-kula-bhuvāṁ koṭayas tvāṁ bhajante
+varṣanty aṣṭau kim api nidhayaś cārtha-jātaṁ tavāmī |
+śuddhāntaś ca sphurati navabhir lakṣitaḥ saudha-lakṣmair
+lakṣmīṁ paśyan mura-damana te nātra citrāyate kaḥ ||172||
+Перевод:
+O subduer of Mura! Five hundred and sixty million Yadus are serving You. Your eight treasures are raining all wealth. Nine hundred thousand pure palaces are shining in glory. Who would not be astonished on seeing Your wealth?
+
+2.1.173
+yathā vā kṛṣṇa-karṇāmṛte –
+cintāmaṇiś caraṇa-bhūṣaṇam aṅganānāṁ
+śṛṅgāra-puṣpa-taravas taravaḥ surāṇām |
+vṛndāvane vraja-dhanaṁ nanu kāma-dhenu-
+vṛndāni ceti sukha-sindhur aho vibhūtiḥ ||173||
+Перевод:
+Another example, from Kṛṣṇa-karṇāmṛta:
+In Vṛndāvana, the ornaments on the feet of the women are cintāmaṇi. The flower trees for making decorations are desire trees. The desire cows are the wealth of Vraja. This display of wealth is an ocean of happiness.
+
+2.1.174
+(49) varīyān –
+sarveṣām ati-mukhyo yaḥ sa varīyān itīryate ||174||
+Перевод:
+He who is the chief of all people is called the best.
+
+2.1.175
+yathā –
+brahmann atra puru-dviṣā saha puraḥ pīṭhe niṣīda kṣaṇaṁ
+tuṣṇīṁ tiṣṭha surendra cāṭubhir alaṁ vārīśa dūrībhava |
+ete dvāri muhuḥ kathaṁ sura-gaṇāḥ kurvanti kolāhalaṁ
+hanta dvāravatī-pater avasaro nādyāpi niṣpadyate ||175||
+Перевод:
+Brahmā and others came to see Kṛṣṇa and arrived at the gate of Dvārakā. The doorkeeper said: O Brahmā! Just sit for a moment with Śiva on this seat. It is not necessary to make hymns of praise. Just remain silent. O Varuṇa! Go away. Why are the devatās making such a clamor at the gate? It is not time for the Lord of Dvārakā to come.
+
+2.1.176
+(50) īśvaraḥ –
+dvidheśvaraḥ svatantraś ca durlaṅghyājñaś ca kīrtyate ||176||
+Перевод:
+It is said that there are two types of controllers: he who is independent and he whose orders cannot be neglected.
+
+2.1.177
+tatra svatantro, yathā –
+kṛṣṇaḥ prasādam akarod aparādhyate’pi
+pādāṅkam eva kila kāliya-pannagāya |
+na brahmaṇe dṛśam api stuvate ’py apūrvaṁ
+sthāne svatantra-carito nigamair nuto’yam ||177||
+Перевод:
+An example of “He who is independent”:
+Though Kāliya offended the Lord, Kṛṣṇa gave him mercy by placing His foot mark on his head. Though Brahmā praised the Lord, Kṛṣṇa did not glance at him. Such unprecedented behavior is suitable to the Lord because the Vedas praise him as being independent.
+
+2.1.178
+durlaṅghyājño, yathā tṛtīye –
+svayaṁ tv asāmyātiśayas tryadhīśaḥ
+svārājya-lakṣmy-āpta-samasta-kāmaḥ
+baliṁ haradbhiś cira-loka-pālaiḥ
+kirīṭa-koṭy-eḍita-pāda-pīṭhaḥ | ||178||
+Перевод:
+An example of “He whose order cannot be neglected,” from the Third Canto:
+Lord Śrī Kṛṣṇa is the Lord of all kinds of threes and is independently supreme by achievement of all kinds of fortune. He is worshiped by the eternal maintainers of the creation, who offer Him the paraphernalia of worship by touching their millions of helmets to His feet. SB 3.2.21
+
+2.1.179
+yathā vā –
+navye brahmāṇḍa-vṛnde sṛjati vidhigaṇaḥ sṛṣṭaye yaḥ kṛtājño
+rudraughaḥ kāla-jīrṇe kṣayam avatanute yaḥ kṣayāyānuśiṣṭaḥ |
+rakṣāṁ viṣṇu-svarūpā vidadhati taruṇe rakṣiṇo ye tvad-aṁśāḥ
+kaṁsāre santi sarve diśi diśi bhavataḥ śāsane ’jāṇḍanāthāḥ ||179||
+Перевод:
+Another example:
+O enemy of Kaṁsa! All the Brahmās, accepting Your order to create, create all the new universes. All the Śivas destroy all the old universes on Your order to destroy. All Your expansions in the form of Viṣṇus, protectors of the universe, carry out Your order to protect the newly created universes. All the masters of the universes in all directions are awaiting Your
+order.
+
+2.1.180
+(51) atha sadā-svarūpa-samprāptaḥ –
+sadā-svarūpa-samprāpto māyā-kāryāvaśīkṛtaḥ ||180||
+Перевод:
+He who is not controlled by māyā or its effects is said to have a constant form.
+
 

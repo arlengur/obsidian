@@ -7,3 +7,15 @@
 - be going to - будущее / намерение что-то сделать / категорично что-то сказать
 	- you're not going to find - ты не найдешь
 	- it's not gonna happen - этому не бывать
+
+Abbreviations
+- thanks - thx
+- thank you - tu
+- see you - see ya
+- see you later - cul8r
+- kiss - keep it simple stupid
+- shakin' my head - smh
+- by the way - btw
+- as soon as possible - asap
+- kiss hug kiss - xox
+- laughing out loud - lol

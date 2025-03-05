@@ -1,3 +1,5 @@
+videos: https://www.tbank.ru/career/it/interview/scala/
+
 Функции - объекты первого рода т.е.:
 - Они могут быть определены где угодно, даже внутри других функций
 - Они могут быть переданы как параметры в функцию и возвращены как результат
@@ -213,15 +215,15 @@ i ++
 Откладываем вычисления до момента когда нужен результат
 - Параметры функции по имени
 - Параметры функции могут: 	 
-Вычисляться до вызова функции - "call by value"
-Вычисляются внутри функции при обращении - "call by name"
+	- Вычисляться до вызова функции - "call by value"
+	- Вычисляются внутри функции при обращении - "call by name"
 
 Пример call by name:
 ```scala
 final def getOrElse[B >: A](default: => B): B =
  if (isEmpty) default else this.get
 
-Option(v). getOrElse(throw new RuntimeException("Err!)) // ошибка будет только если значение пустое
+Option(v).getOrElse(throw new RuntimeException("Err!)) // ошибка будет только если значение пустое
 ```
 
 Еще пример:
@@ -242,10 +244,9 @@ val current = Instant.now
 
 Thread.sleep(1000)
 
-Duration.between(lazyCurrent, current) 
-// разница больше секунды
+Duration.between(lazyCurrent, current) // разница больше секунды
 
-Превращаем call by name в lazy:
+// Превращаем call by name в lazy:
 def repeat(n: Int, v : ⇒ Int) {
   lazy val cached = v // вычисляется 0 или 1 раз  
   List.fill(n)(cached)
@@ -253,7 +254,7 @@ def repeat(n: Int, v : ⇒ Int) {
 ```
 
 # Ленивый список
-Stream (Scala 2.12 и раньше) vs LazyList (Scala 2.13+l) - полностью ленивый
+Stream (Scala 2.12 и раньше, у него только хвост ленивый) vs LazyList (Scala 2.13+) - полностью ленивый
 
 Пример:
 ```scala
@@ -291,7 +292,7 @@ ll.map(_ * 2).take(1).toVector // вычисления будут произве
 Минусы:
 - плохо сочетаются с исключениями и побочными эффектами
 - задержки - иногда тоже побочный эффект
-- бесконечные последовательности можно случайно форсироватть
+- бесконечные последовательности можно случайно форсировать
 - overhead - память и блокировки
 
 ## Управляющие конструкции
@@ -318,11 +319,12 @@ var
 # Функции
 
 ## Функция-метод
-`def sum1(x: Int, y: Int): Int = x + y`
 - именованные параметры
 - конвертируются в функции-значения
 
 ```scala
+def sum1(x: Int, y: Int): Int = x + y
+
 val sum4: (Int, Int) => Int = sum1 // компилятор преобразует функцию-метод sum1 в функцию-значение
 val sum5 = sum1 _
 ```
@@ -425,7 +427,7 @@ val p: Printer = s => println(s)
 Неизменяемая структура данных
 ```scala
 val msg = "The absolute value of %d is %d." 
-msg.format(x, abs(x)
+msg.format(x, abs(x))
 ```
 
 # Scala type system
@@ -2370,7 +2372,7 @@ case class Person(id: Int, name: String, student: Boolean)
 SeqView - последовательный доступ на базе Iterator
 - map/filter/.. выполняются при обращении
 - take не вычисляет то что не нужно
-- drop вычисляет до начала потом по пеобходимости
+- drop вычисляет до начала потом по необходимости
 - append/prepend/concat эффективно
 
 IndexedSeqView - доступ по индексу
@@ -2466,21 +2468,26 @@ import scala.util.Random
 val list = List(2,5,7,1,4)
 val randomList = List.fill(Random.nextInt(100))(Random.nextInt(1000))
 
-def merge(as: List[Int], bs: List[Int], acc: List[Int]=Nil): List[Int] = as match {
- case List() => acc.reverse ++ bs
- case a +: reastA => as match {
-  case List() => acc.reverse ++ as
-  case b +: reastB => 
-   if(a<b) merge(reastA, bs, a :: acc)
-   else merge(as, reastB, b :: acc)
-
-def mergeSort(as: List[Int]): List[Int] = as match {
- case Nil | (_ :: Nil) => as
- case _ => 
-  val (left, right) = as.splitAt(as.length/2)
-  val leftSorted = mergeSort(left)
-  val rightSorted = mergeSort(right)
-  merge(leftSorted, rightSorted)
+@tailrec  
+def merge(as: List[Int], bs: List[Int], acc: List[Int] = Nil): List[Int] = as match {  
+  case Nil => acc.reverse ++ bs  
+  case a +: tailA =>  
+    bs match {  
+      case Nil => acc.reverse ++ as  
+      case b +: tailB =>  
+        if (a < b) merge(tailA, bs, a :: acc)  
+        else merge(as, tailB, b :: acc)  
+    }  
+  case _ => List()  
+}  
+  
+def mergeSort(as: List[Int]): List[Int] = as match {  
+  case Nil | (_ :: Nil) => as  
+  case _ =>  
+    val (left, right) = as.splitAt(as.length / 2)  
+    val leftSorted    = mergeSort(left)  
+    val rightSorted   = mergeSort(right)  
+    merge(leftSorted, rightSorted)  
 }
 
 mergeSort(randomList) = randomList.sorted

@@ -1,3 +1,0 @@
-Shortcuts
-Ctrl+Shift+P - show type
-Opt+Enter - Add type annotation ...

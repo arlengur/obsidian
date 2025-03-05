@@ -28,10 +28,35 @@ println(optionF1)
 IO - тип данных, производящий не ссылочно-прозрачные вычисления
 - Ошибка имеет тип Throwable
 - Нет Env
-IO[A] ~ ZIO[Any, Throwable, A] ~ zio.Task[A]
+`IO[A] ~ ZIO[Any, Throwable, A] ~ zio.Task[A]`
+
+Future сразу запускает вычисление, по завершении которого мы получим значение, при повторном обращении будем получать это значение. `(A => Unit) => Unit`
+
+IO возвращает контейнер с функцией вычисление которой еще не запускалось, оно будет запущено, когда мы попытаемся получить это значение, при повторном обращении будем выполнять вычисление заново. `() => (A => Unit) => Unit`
+
+IO stack safe
+```scala
+def fib(n: Int, a: Long = 0, b: Long = 1): IO[Long] =
+  IO(a + b).flatMap { b2 =>
+    if (n > 0) 
+      fib(n - 1, b, b2)
+    else 
+      IO.pure(a)
+  }
+```
+Относительно flatMap используется trampolining
+
+```scala
+def apply[A](thunk: => A): IO[A] // alias for delay
+def delay[A](thunk: => A): IO[A]
+
+def blocking[A](thunk: => A): IO[A] // uncancelable
+def interruptible[A](thunk: => A): IO[A] // cancelable
+def interruptibleMany[A](thunk: => A): IO[A] // cancelable
+```
 
 Конструкторы
-```java
+```scala
 val pure = IO.pure(println("Hello pure")) // сразу выполняется  
 val sideEff = IO.delay(println("Hello side effect")) // отложенное выполнение  
 sideEff.unsafeRunSync()  

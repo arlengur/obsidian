@@ -1,0 +1,2 @@
+- Copying left audio to right side
+	- Effects > Amplitude and Compression > Channel mixer

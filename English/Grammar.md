@@ -81,15 +81,15 @@ could have =3 - могла бы случиться
 	- Mom's kids - мамины дети
 
 | Sybject (who? кто?) | Object (whom? кому?) | Possessive (whose? чей?) |
-| ---- | ---- | ---- |
-| a man | a man |  |
-| You | you | your (твой) |
-| It | it | its (его) |
-| I | me (мне) | my (мой) |
-| We | us (нам) | our (наш) |
-| She | her (ей) | her (ее) |
-| He | him (ему) | his (его) |
-| They | them (им) | their (их) |
+| ------------------- | -------------------- | ------------------------ |
+| a man               | a man                |                          |
+| You                 | you                  | your (твой)              |
+| It                  | it                   | its (его)                |
+| I                   | me (мне)             | my (мой)                 |
+| We                  | us (нам)             | our (наш)                |
+| She                 | her (ей)             | her (ее)                 |
+| He                  | him (ему)            | his (его)                |
+| They                | them (им)            | their (их)               |
 Предлог подразумевает, что после него идет объект.
 
 Падежи в русском:
@@ -498,3 +498,13 @@ internal systems.
 - You (had) better + V0
 - It's time you + V2
 - Why don't you + V0
+
+# A few + исчисляемые существительные
+- (a) few books
+- (a) few friends
+- (a) few days
+
+# (A) little + неисчисляемые существительные
+- (a) little paper
+- (a) little wine
+- (a) little milk

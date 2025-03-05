@@ -1,9 +1,10 @@
-Схема работы:
+### Схема работы:
 - ДМ отправляет сообщение в кафку, 
-- ПП его читает и запускает скрипт в Луа, 
-- Луа вызывает ПП через af_api, 
+- ПП его читает и запускает скрипт в Луа (командам ПП соответствуют функции в lua скриптах (такие же имена)), 
+- lua вызывает ПП через af_api, 
 - ПП делает запрос в Фасад и возвращает ответ в Луа.
 
+### Пример команды
 ```
 {
   "commandId": "123",
@@ -41,10 +42,15 @@ post-processing {
 
 Проект https://github.com/arlengur/scala-kafka.git
 
-Команда в кафке
+### Команда для кафки в консоли
 ```
-kafka-console-producer.sh --topic decision_maker_postprocessing_v1 --bootstrap-server kafka-ao-broker-test-m1-01.qiwi.com:9093 --producer.config /Users/a.galin/repo/scala-kafka/src/main/resources/ao-kafka-ssl-config-dm.properties
+./kafka-console-producer.sh --topic decision_maker_postprocessing_v1 --bootstrap-server kafka-ao-broker-test-m1-01.qiwi.com:9093 --producer.config /Users/a.galin/repo/scala-kafka/src/main/resources/ao-kafka-ssl-config-dm.properties
 ```
+After running this command you will enter in producer console and from there you can send message:
+```
+{"commandId":"123","sourceOrgId":0,"sourceMessageTypeId":"20","sourceMessageId":"234","command":"create_issue","arguments":["FAT","summary","description","a.galin","Task"],"scheduledIsoTimestamp":null}
+```
+You should stop the producer client with `Ctrl-C` to flush message.
 
 ao-kafka-ssl-config-dm.properties:
 ```
@@ -68,11 +74,11 @@ ssl.protocol=TLSv1.2
 	- pods
 	- тут можно посмотреть логи
 
-Сваггер апи фасада: 
+### Сваггер апи фасада: 
 https://ao-fraud-automatization-api-facade.testing.qiwi.com/api/v1.0/specification
 
 тест
-{"commandId":"124","sourceOrgId":0,"sourceMessageTypeId":"20","sourceMessageId":"234","command":"get_agent_info_by_id1","arguments":[1],"scheduledIsoTimestamp":null}
+{"commandId":"124","sourceOrgId":0,"sourceMessageTypeId":"20","sourceMessageId":"234","command":"wallet_killer","arguments":[123],"scheduledIsoTimestamp":null}
 
 |function get_qd_manager_email_by_agt_id(agtId)  
 |  local manager_email = af_api.get_qd_manager_email_by_agt_id(agtId)  
@@ -82,3 +88,10 @@ https://ao-fraud-automatization-api-facade.testing.qiwi.com/api/v1.0/specificati
 |   error("Wrong manager prs_email=" .. manager_email)  
 |  end  
 |end
+
+### Подтянуть скрипты из ветки для гит хелпера
+в `deployment-template` в контейнер `git-helper` добавить
+```yaml
+- name: BRANCH_NAME  
+  value: refs/changes/56/318056/1
+```

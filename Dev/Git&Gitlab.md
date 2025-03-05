@@ -1,3 +1,10 @@
+## User&Email
+```
+git config --global user.name "Alexey Galin" // задать имя
+git config --global user.email "agalin@web3tech.ru" // задать почту
+git config --global --replace-all user.name "Alexey Galin" // задать имя
+```
+
 # Удалить все ветки, кроме master [Grep](Grep.md)
 `git branch | grep -v "master" | xargs git branch -D;`
 
@@ -41,9 +48,7 @@ git commit -m "message" // создать коммит
 
   
 
-git config --global user.name "Alex Galin" // задать имя
 
-git config --global user.email "agalin@web3tech.ru" // задать почту
 
 git commit --amend --reset-author // применить новые имя и почту
 
