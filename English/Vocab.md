@@ -1,3 +1,114 @@
+
+- caregiver - сиделка
+- me too
+	- It was hard for all of them and me too - Это было трудно для всех них и для меня тоже.
+- so have I
+	- Father has loved me, so have I
+- so do I
+	- My sister likes melons and so do I
+- so am I
+	- If you're happy, so am I - Если ты счастлив, то и я тоже
+- long time no see - давно не виделись
+- tie down - привязывать что-то или кого-то; ограничивать свободу действий или выбор человека
+	- We need to tie down the cargo in the truck so it doesn’t shift during transport - Нам нужно привязать груз в грузовике, чтобы он не сместился во время перевозки
+	- The job ties him down; he can't travel as freely as he used to - Эта работа ограничивает его; он не может путешествовать так свободно, как раньше
+- Catch on – завоевать популярность, прижиться.
+- Get-together – небольшая встреча, вечеринка, междусобойчик
+- Tied down – привязанный, связанный
+- Check out – ознакомиться, осмотреть, заценить, посетить
+- Go with – выбрать что-то, согласиться на что-то
+- Make something up – придумывать
+- Cheer someone up – поднять кому-то настроение, подбодрить
+- Regardless of something – вне зависимости от, невзирая на
+- All over the map – по всей карте, широкий, разнообразный.
+- Take a ride – поехать, прокатиться.
+- make/keep/break a promise – дать/выполнить, сдержать/нарушить обещание
+- dicey /ˈdaɪsi/ – рискованный, непредсказуемый
+- step out – выйти, выходить
+- This’ll do. – Это подойдет. Сойдет!
+- battery is dead – аккумулятор сдох, батарея разряжена
+- give me a ride – подбрось меня на своей машине
+- a whole lot (a lot) – уйма, очень много
+- give away – отдать, дать безвозмездно
+- run out of – заканчиваться, иссякать
+- take a stroll – не спеша прогуляться
+- take something up - занимать место или время
+- Figured it out - понять, найти решение для чего-либо.
+- Come across – случайно найти, наткнуться.
+- look up – искать информацию
+- look into - расследовать, изучит
+- look after - заботиться о
+- Point out– упоминать о чем-либо, указывать, обратить внимание.
+- Go through–пройти, тщательно изучить или исследовать что-либо; пережить, пройти через что-то.
+
+- mess with someone-приставать, связываться, надсмехаться, подкалывать
+- go out with someone-встречаться, быть в отношениях с кем-то
+- break up (with someone)- расставаться, разрывать отношения.
+- run around with someone- водиться, проводить много времени с кем-то
+- find out - выяснить, узнать
+- grow up - вырастать, становиться взрослым
+- show up-появиться, прийти
+- pick up- забрать кого-то на машине
+- go ahead- начинать, (по разрешению)
+- stand out – выделяться, бросаться в глаза
+- happen to – случайно оказаться, совпасть
+- come over – заходить в гости, приезжать
+- drop (somebody) off – подвезти, высадить
+- tool around- кататься, бесцельно разъезжать (разг.)
+- drive around — кататься без определенной цели
+- end up — оказаться в итоге
+- come in — поступать (о звонке, сообщении)
+- go back — возвращаться
+- check on — проверить, удостовериться
+- get over — пережить, оправиться отчего-то
+- hold on to — держаться за что-то (в переносном смысле — сохранять уверенность)
+- bring up — поднимать тему в разговоре
+
+- Run out of smth
+	-  Run out of time - to have no time left.
+	- Run out of money - to have no money left.
+	- Run out of gas - to deplete fuel in a vehicle.
+	- Run out of ideas - to exhaust all possible thoughts or concepts.
+	- Run out of patience - to lose the ability to remain calm or tolerant.
+	- Run out of supplies - to use up all available materials or resources.
+	- Run out of options - to have no alternatives left.
+	- Run out of energy - to become tired or depleted of physical strength.
+
+- conviction - убеждение
+- overturn - отменять
+- court - суд
+- trial - суд
+- judge - судья
+- convicted - осужденный
+- justice - правосудие
+- to emerge - возникнуть
+- new evidence - новые доказательства
+- to bribe - давать взятки
+- to undermine trust in - подорвать доверие к
+- unfair trials -   несправедливый судебный процесс
+- to prevent - предотвратить 
+- be presented at trial - быть представленным в суде
+- how information is framed - как подается информация 
+- a big role of media - большая роль СМИ
+- shaping perceptions - формирование восприятия
+
+
+- collect debts - собирать, взыскивать долги
+- chase up debts - выбивать долги
+- chase - преследовать
+
+- emphasize certain facts - подчеркивать определенные факты
+- to persuade - убеждать
+- an eloquent speaker   /ˈeləkwənt/ - красноречивый оратор
+- ethical questions - этические вопросы
+- an accomplice  -  соучастник
+
+- have someone over - принимать кого-то у себя в гостях
+- come over (to) - приходить в гости
+- go over (to) - идти в гости
+- invite someone over - пригласить кого-то в гости
+- stay over - остаться с ночевкой в гостях
+
 take/drive/deliver me
 
 come across - встретить, столкнуться с
@@ -76,8 +187,6 @@ you cracked me up - ты меня очень рассмешил
 	- We will be taking off momentarily, so please fasten your seatbelts.
 - seizure - припадок
 	- The man had a seizure during the flight, and the crew had to assist him.
-- get used to - привыкать к чему-то
-	- It took me a while to get used to long flights.
 - to taxi - рулить, выруливать
 - stuffed animals - мягкие игрушки
 - fit - поместиться
@@ -113,7 +222,7 @@ had trouble/problem/issues/difficulties communicating with him
 
 f-word / swearing-words
 
-- show up - появиться (мб сарказмом)
+
 - I am/was wondering if  - Мне интересно, если
 	- I am wondering what you are thinking
 
@@ -287,6 +396,11 @@ you will be always filmed - тебя всегда будут снимать
 	- I think he’s up to something; he’s been acting suspiciously.
 	- Are you up to something fun this weekend?
 	- She was up to something when she kept looking at her watch.
+- get used to - привыкать к чему-то
+	- It took me a while to get used to long flights.
+- to be used to - привыкать к чему-то
+	- I'm used to winning - я привык побеждать
+	- I'm used to getting up early - я привык рано вставать
 -  used to - раньше делал (сейчас не делаю)
 	- I used to love playing the piano, but I haven't touched it in years.
 	- She used to do yoga every morning, but now she prefers running.

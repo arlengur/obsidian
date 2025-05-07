@@ -3,6 +3,8 @@ Lessons https://www.youtube.com/c/TimesaverVFX/playlists
 Ниламбара:
 - Лого: 846x-291x0.17
 - Youtube thumbnail: 1280x720
+
+Video wall https://www.youtube.com/watch?v=B3ya3MNMgLs
 # Settings (Системные настройки)
 Cmd+, - settings
 - System

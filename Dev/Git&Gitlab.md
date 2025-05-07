@@ -1,8 +1,9 @@
 ## User&Email
 ```
 git config --global user.name "Alexey Galin" // задать имя
-git config --global user.email "agalin@web3tech.ru" // задать почту
+git config --global user.email "satovritti@gmail.com" // задать почту
 git config --global --replace-all user.name "Alexey Galin" // задать имя
+git config --list // вывести параметры
 ```
 
 # Удалить все ветки, кроме master [Grep](Grep.md)

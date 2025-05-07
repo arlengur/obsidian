@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b7643e42340f9a9",
+        "id": "7ab6380c669d4115",
         "type": "tabs",
         "children": [
           {
-            "id": "ded1e2a1b19a8267",
+            "id": "840c7def5fab5885",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"intensity",
+                "query": "court",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -151,12 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "English/Vocab.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Vocab"
             }
           },
           {
@@ -190,35 +191,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ded1e2a1b19a8267",
+  "active": "cb012c0042d9638b",
   "lastOpenFiles": [
+    "English/Rules.md",
     "English/Vocab.md",
+    "Davinci.md",
     "ИСККОН/Slokas.md",
-    "Дхама.md",
     "ИСККОН/Шастра-чакшуш.md",
+    "ИСККОН/Бхакти-веданта.md",
+    "Golang.md",
+    "Заметки.md",
+    "ИСККОН/Школа санкиртаны.md",
+    "ИСККОН/Заметки разные.md",
     "ИСККОН/Книги.md",
+    "Dev/Git&Gitlab.md",
+    "Resources/Pasted image 20250422122414.png",
+    "Dev/Microservices.md",
+    "Dev/Доступ к БД.md",
+    "Dev/Scala.md",
+    "Dev/Архитектура.md",
+    "Дхама.md",
     "ИСККОН/Bhakti Rasamrita Sindhu.md",
     "Dev/Rust.md",
     "Dev/БД.md",
     "Dev/Scala 3.md",
-    "ИСККОН/Школа санкиртаны.md",
     "Qiwi/Заметки.md",
     "Resources/Pasted image 20250228125200.png",
     "Nilambara.md",
     "Qiwi/Watching.md",
     "ИСККОН/Бхакта-програм.md",
-    "ИСККОН/Заметки разные.md",
     "ИСККОН/Основы философии и духовной практики СК.md",
-    "ИСККОН/Смена научной парадигмы ведическая альтернатива.md",
-    "ИСККОН/Links.md",
-    "Dev/Cats-effect.md",
-    "Dev/Scala.md",
-    "Dev/FP.md",
-    "Dev/SQL vs NoSQL.md",
-    "Science/Эстетика.md",
-    "Dev/Docker.md",
-    "Qiwi/Cassandra.md",
-    "ИСККОН/Правовые основы распространения книг.md",
     "Untitled",
     "Untitled 2",
     "Untitled 1",
@@ -232,7 +234,6 @@
     "Resources/Pasted image 20240212163753.png",
     "Resources/vect_projection.png",
     "Resources/vect_sum.png",
-    "Resources/orts_axis.png",
     "Science",
     "English",
     "Crypto",
