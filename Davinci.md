@@ -20,7 +20,7 @@ Cmd+, - settings
 Shift+9 - project settings
 Project Settings - Master Settings:
 - Timeline format
-	- Timeline resolution
+	- Timeline resolution 1280x720
 	- Timeline frame rate: 25
 - Optimized Media and render cache (разрешение и качество прокси и оптимизированных медиа)
 	- Proxy media resolution: Quarter

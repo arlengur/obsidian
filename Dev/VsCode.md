@@ -1,9 +1,11 @@
 # Shortcuts
+| Обозначение       | Тип           |
+| ----------------- | ------------- |
+| `Ctrl + ~`        | open terminal |
+| `Cmd + Shift + K` | remove line   |
 Cmd+X - cut line
-Cmd+Shift+K - remove line
 Cmd+B - Скрыть/развернуть сайдбар
 Cmd+~ - Скрыть/развернуть терминал
-Ctrl+` - open terminal
 Cmd+P - Переход к файлу
 Cmd+| - Открыть контекстное меню во время ввода
 Cmd+/ - comment
@@ -18,7 +20,7 @@ Cmd+Shift+P - exec command (zen, minimap, markdown,theme, snippet)
 Cmd+P - find file
 Cmd+B - open/close side bar
 Cmd+D - add selection to next find much
-Cmd+~ - open/close terminal
+Control+~ - open/close terminal
 Cmd+K - clear terminal
 Ctrl+Tab - switch open file
 Cmd+W - close file
@@ -158,6 +160,84 @@ keybindings.json
         "**/target": true,
     },
     "workbench.editor.highlightModifiedTabs": true,
+}
+```
+
+```json
+settings.json:
+{
+ "workbench.colorTheme": "Shades of Purple (Super Dark)",
+
+ //Prettier
+ "editor.formatOnPaste": true,
+ "editor.defaultFormatter": "esbenp.prettier-vscode",
+ "prettier.useTabs": true,
+ "prettier.semi": false,
+ "prettier.jsxSingleQuote": true,
+ "prettier.singleQuote": true,
+ "prettier.arrowParens": "avoid",
+
+ // - Font size (code, terminal) -
+ "editor.fontSize": 18,
+ "terminal.integrated.fontSize": 16,
+
+ // Default terminal - Command Prompt
+ "terminal.integrated.defaultProfile.windows": "Command Prompt",
+
+ // Breadcrumbs
+ "breadcrumbs.icons": false,
+ "breadcrumbs.showKeys": false,
+ "breadcrumbs.showFiles": false,
+ "breadcrumbs.symbolPath": "off",
+ "breadcrumbs.showArrays": false,
+ "breadcrumbs.showBooleans": false,
+ "breadcrumbs.showClasses": false,
+ "breadcrumbs.showConstants": false,
+ "breadcrumbs.showConstructors": false,
+ "breadcrumbs.showEnumMembers": false,
+ "breadcrumbs.showEvents": false,
+ "breadcrumbs.showFields": false,
+ "breadcrumbs.showEnums": false,
+ "breadcrumbs.showFunctions": false,
+ "breadcrumbs.showInterfaces": false,
+ "breadcrumbs.showMethods": false,
+ "breadcrumbs.showModules": false,
+ "breadcrumbs.showNamespaces": false,
+ "breadcrumbs.showNull": false,
+ "breadcrumbs.showNumbers": false,
+ "breadcrumbs.showObjects": false,
+ "breadcrumbs.showOperators": false,
+ "breadcrumbs.showPackages": false,
+ "breadcrumbs.showProperties": false,
+ "breadcrumbs.showStrings": false,
+ "breadcrumbs.showStructs": false,
+ "breadcrumbs.showTypeParameters": false,
+ "breadcrumbs.showVariables": false,
+
+ // Disable Minimap
+ "editor.minimap.renderCharacters": false,
+ "editor.minimap.enabled": false,
+
+ // Other cosmetic
+ "editor.wordWrap": "on",
+ "editor.unicodeHighlight.ambiguousCharacters": false,
+ "explorer.confirmDelete": false,
+ "explorer.confirmDragAndDrop": false,
+ "editor.tabSize": 2, // размер таба
+ "editor.formatOnSave": true, // форматировать код при сохранении
+ "explorer.compactFolders": false, // компактные папки
+ "editor.smoothScrolling": true, // плавный скролл
+ "workbench.list.smoothScrolling": true, // плавный скролл
+ "terminal.integrated.smoothScrolling": true, // плавный скролл в терминале
+ "editor.cursorBlinking": "expand", // мигающей курсор
+ "terminal.integrated.cursorBlinking": true, // мигающей курсор
+ "editor.glyphMargin": false,
+ "editor.linkedEditing": true,
+ "editor.padding.top": 15,
+ "files.defaultLanguage": "go",
+ "[go]": {
+  "editor.defaultFormatter": "golang.go"
+ } 
 }
 ```
 

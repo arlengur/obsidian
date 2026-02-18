@@ -415,25 +415,25 @@ I love English - я люблю английский (действие)
 Все глаголы, кроме быть - это действие!
 Состояние - когда выражаем смысл через глагол быть, все остальное - действие
 
-| do (актив)<br><span style="text-decoration: underline double">???</span> | be (состояние) <br>$\_\mspace3pt\underparen{be}$ <span style="text-decoration: underline wavy">???</span> | be done (пассив)   <br>$\_\mspace3pt\underparen{be}=^3$ (by ...) |
-| ---- | ---- | ---- |
+| do (актив)<br><span style="text-decoration: underline double">???</span> | be (состояние) <br>$\_\mspace3pt\underparen{be}$ <span style="text-decoration: underline wavy">???</span>                                                                                                                                                                         | be done (пассив)   <br>$\_\mspace3pt\underparen{be}=^3$ (by ...) |
+| ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | get<br>have<br>love<br>feel<br>agree | be at home<br>be hungry<br>be smart<br>be in touch<br>be interesting<br>be tired<br>be boring - что-то скучное<br>be bored - быть заскучавшим<br>be exciting - быть в восторге<br>be excited - быть в состоянии возбуждения<br>be in - быть в теме, согласным<br>be out<br>be off | be written - быть написанным<br>be loved - быть любимым<br>be respected - быть уважаемым<br>be read - быть прочитанным<br>be listened to - быть тем кого слушают<br>be looked at - быть тем на кого смотрят |
-| I love English | I'm in love English | English is loved by people - английский любим людьми |
-| I want to eat - я хочу есть | I'm hungry | Pie was eaten - пирожок был съеден |
-| I would like to eat - я бы хотел поесть | I'm starving - я умираю от голода | This man is wanted by police - этот человек разыскивается полицией |
-| I've eaten - я поел | I'm excited - я в восторге | That dog was fed by neighbors - эту собаку накормили соседи |
-| I ate yesterday - я поел вчера | I'm off - я пошел | I was asked - меня попросили |
-| The streaming stoped | Streaming is off - трансляция не работает | The streaming was stoped by something |
-| It doesn't word | I'm done - я все! (закончил) | It was canceled |
-| It surprised me - это меня удивило | I'm surprised - я удивленный | I was surprised by it - я был удивлен этим |
-|  | It's interesting - она интересная |  |
-|  | I'm interested - я заинтересован |  |
-|  | It's over - она завершилась |  |
-| He invited me | I'm an invited guest - я - приглашенный гость | I was invited by him |
-| He told me to do it - он сказал мне это сделать | I'm not in charge - я не главный | I was told to do it - мне сказали это сделать |
-|  | I want to be listened to - я хочу чтобы меня слышали (меня слушали) |  |
-|  | I want to be looked at - я хочу чтобы на меня смотрели |  |
-|  | I'm loved by my kids - меня любят мои дети |  |
+| I love English | I'm in love English                                                                                                                                                                                                                                                               | English is loved by people - английский любим людьми |
+| I want to eat - я хочу есть | I'm hungry                                                                                                                                                                                                                                                                        | Pie was eaten - пирожок был съеден |
+| I would like to eat - я бы хотел поесть | I'm starving - я умираю от голода                                                                                                                                                                                                                                                 | This man is wanted by police - этот человек разыскивается полицией |
+| I've eaten - я поел | I'm excited - я в восторге                                                                                                                                                                                                                                                        | That dog was fed by neighbors - эту собаку накормили соседи |
+| I ate yesterday - я поел вчера | I'm off - я пошел                                                                                                                                                                                                                                                                 | I was asked - меня попросили |
+| The streaming stoped | Streaming is off - трансляция не работает                                                                                                                                                                                                                                         | The streaming was stoped by something |
+| It doesn't word | I'm done - я все! (закончил)                                                                                                                                                                                                                                                      | It was canceled |
+| It surprised me - это меня удивило | I'm surprised - я удивленный                                                                                                                                                                                                                                                      | I was surprised by it - я был удивлен этим |
+|  | It's interesting - она интересная                                                                                                                                                                                                                                                 |  |
+|  | I'm interested - я заинтересован                                                                                                                                                                                                                                                  |  |
+|  | It's over - она завершилась                                                                                                                                                                                                                                                       |  |
+| He invited me | I'm an invited guest - я - приглашенный гость                                                                                                                                                                                                                                     | I was invited by him |
+| He told me to do it - он сказал мне это сделать | I'm not in charge - я не главный                                                                                                                                                                                                                                                  | I was told to do it - мне сказали это сделать |
+|  | I want to be listened to - я хочу чтобы меня слышали (меня слушали)                                                                                                                                                                                                               |  |
+|  | I want to be looked at - я хочу чтобы на меня смотрели                                                                                                                                                                                                                            |  |
+|  | I'm loved by my kids - меня любят мои дети                                                                                                                                                                                                                                        |  |
 
 
 # Neither/nor

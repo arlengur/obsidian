@@ -1,3 +1,11 @@
-Old habits die hard - от старой привычки трудно избавиться
-take your time - не торопись
-fair enough - справедливо
+- Old habits die hard - от старой привычки трудно избавиться
+- tastes differ - о вкусах не спорят (вкусы отличаются)
+- money likes to be counted - деньги любят счет (деньги любят быть посчитанными)
+- three is the magic number - бог любит троицу (тройка является магическим числом)
+- seeing is believing - пока не увижу - не поверю (видение является верением)
+- business is business - дело есть дело
+- It is | better be envied than pitied - лучше вызывать в людях зависть, чем жалость (лучше быть завидуемым, чем жалеемым)
+- Everything can be sold and bought - все продается и покупается (все может быть проданным и купленным)
+- Love cannot be forced and ordered - сердцу не прикажешь (любовь не может быть принуждаемой и приказываемой)
+- out of sight and out of mind - с глаз долой из сердца вон
+- Tomorrow Never Comes

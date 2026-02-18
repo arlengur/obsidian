@@ -1,5 +1,5 @@
 - mean, meant, meant ^17cb72
-- seek, sought, sought ^05691b
+- seek, sought, sought - искать, стремиться ^05691b
 - hear, heard, heard
 - laugh, laughed, laughed
 - feel, felt, felt
@@ -7,6 +7,16 @@
 - bear, bore, born - носить, терпеть, рожать, родила, рожден ^b9dd16
 - arise, arose, arisen, arises, arising - возникать
 - strike, struck, struck - поражать
+- string, strung, strung - нанизывать, натягивать, связывать ^ca7206
 - smite, smote, smitten - поражать ^b8147a
 - hold, held, held - держать, обладать ^d0c24b
+- behold, beheld, beheld - смотреть, созерцать ^35b899
 - hurry, hurried, hurried - спешить ^2a4f87
+- stick, stuck, stuck - придерживаться ^46c246
+- wear, wore, worn - носить
+- hide, hid, hidden - прятать, скрывать, прятаться
+- bend, bent, bent - согнуть, наклониться ^3bd75c
+- shine, shone, shone - светить, сиять, блестеть
+- flee, fled, fled - бежать ^c05cbf
+- shake, shook, shaken - трясти, дрожать
+- draw, drew, drawn - рисовать

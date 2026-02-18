@@ -97,10 +97,14 @@ services:
 Открыть kafdrop `http://localhost:9000` и содать топик topic1
 
 Получить список топиков
-`docker exec -it kafka-kafka-1 /usr/bin/kafka-topics --list --bootstrap-server localhost:9091`
+```
+docker exec -it kafka-kafka-1 /usr/bin/kafka-topics --list --bootstrap-server localhost:9091
+```
 
 Отправить сообщение
-`docker exec -it kafka-kafka-1 /usr/bin/kafka-console-producer --topic topic1 --bootstrap-server localhost:9091`
+```
+docker exec -it kafka-kafka-1 /usr/bin/kafka-console-producer --topic topic1 --bootstrap-server localhost:9091
+```
 
 Каждая строка - одно сообщение. Прервать Control-C
 
@@ -234,3 +238,4 @@ object Cons extends App {
   }
 }
 ```
+

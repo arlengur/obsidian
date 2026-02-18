@@ -1,4 +1,9 @@
 
+# Shortcuts
+– `opt+-`
+— `opt+shift+-`
+Блокировка - `cmd+ctrl+q`
+
 Сброс параметров контроллера управления системой (SMC)
 - Одновременно нажмите клавиши Shift, Control и Option и, не отпуская их, нажмите кнопку питания.
 - Отпустите клавиши и еще раз нажмите кнопку питания, чтобы включить ноутбук Mac.
@@ -20,6 +25,9 @@ cd folder
 Ctrl+A - jump to the beginning of a line inside the OS X terminal
 Ctrl+E - jump to the end of a line inside the OS X terminal
 ```
+
+## Update shortcuts
+System Settings - Keyboard - Spotlight
 # Мониторинг системы
 ```
 top -o cpu
@@ -34,9 +42,11 @@ echo -n "GET /p/1 HTTP/1.0\r\n\r\n" | nc localhost 9000
 lsof -w -n -i tcp:8080
 ```
 
-## Block sleep mode
+## Caffeinate
+Command to prevent sleep.
+Time in sec (an hour).
 ```
-caffeinate -u -t 3600 // time in sec / an hour
+caffeinate -u -t 3600
 ```
 
 # Base64
@@ -51,8 +61,33 @@ base64 -d <<< string
 ```
 where scala
 ```
-## Path 
+# Path 
 .zshrc
+
+## Zsh promt
+
+source ~/.zshrc - load from settings
+
+Параметры
+- %n - username
+- %m - hostname
+- %1~ - current directory
+	- %~ - home directory
+	- %/ - root directory
+- %# - `#` with root privileges, `%` otherwise
+- %(x.true-text.false-text) - ternary operator
+	- %(?.✓.x)
+	- %(!.#.&gt;) - shows the `#` if we're root, and `>` otherwise
+- %? - exit code of previous command
+	- %F{red}?%?)%f
+- %F{colour} and `%f` - The `%F{colour}` will set the foreground colour, and `%f` will reset it back to the default. Ex. %(?.%F{blue}✓.%F{red}x)%f
+	- there is 256 color pallet with `%F{0}` through `%F{255}` [colors](https://www.calmar.ws/vim/256-xterm-24bit-rgb-color-chart.html)
+- `%B` `%b` - start/stop bold
+	- %B%F{240}~%f%b
+
+```
+PROMPT='%(?.%F{14}✓.%F{9}x %?)%f %~ %(!.#.>)'
+```
 
 Example:
 ```
@@ -68,7 +103,7 @@ alias java8='export JAVA_HOME=$JAVA_8_HOME'
 alias java11='export JAVA_HOME=$JAVA_11_HOME'
 ```
 
-## Show the full Path in the Finder Title Bar
+# Show the full Path in the Finder Title Bar
 - Launch Terminal
 - Enter the following command:
 ```
@@ -79,38 +114,36 @@ defaults write com.apple.finder _FXShowPosixPathInTitle -bool true; killall Find
 defaults write com.apple.finder _FXShowPosixPathInTitle -bool NO;
 ```
 
-## Run program from everywhere
+# Run program from everywhere
 ```
 /usr/local/bin
 ```
 
-## Store program for all
+# Store program for all
 ```
 /opt or /usr/local
 ```
 
-## Создать символическую ссылку
+# Создать символическую ссылку
 ```
 ln -s <откуда> <куда> (sudo ln -s /usr/local/sbt/bin/sbt /usr/local/bin/sbt)
 ```
 
-## Переместить папку
+# Переместить папку
 ```
 mv <откуда> <куда> (sudo mv ~/Downloads/test /opt)
 ```
 
-## Filename extensions
+# Filename extensions
 ```
 Finder > Settings, then click Advanced. Select or deselect “Show all filename extensions.”
 ```
 
-## Заметки
+# Заметки
 ```
-– opt+-
-— opt+shift+-
-
 Mobile File Transfer
 https://www.android.com/filetransfer/
+https://android.p2hp.com/filetransfer/index.html
 ```
 
 Расположение приложения
@@ -123,6 +156,48 @@ which ls
 tar -czf LotsOfFiles.tgz LotsOfFiles // create tgz
 
 tar -zxf LotsOfFiles.tgz // unpack tgz
+
+tar -xvzf community_images.tar.gz
+```
+
+Опции:
+- f - последний в списке команд и tar файл должен идти за ним. Указывает имя и путь до файла
+- z - распакавать архив используя g**z**ip
+- x - говорит что файлы надо извлечь
+- v - выводит подробный лог сообщений
+
+# SSH
+```
+ssh-keygen # generate ssh key
+
+cat ~/.ssh/id_rsa.pub | pbcopy # copy key to clipboard
+```
+## SSH to Connect to a Remote Server
+`ssh user@machine`
+
+# Java install
+```zsh
+curl https://download.java.net/java/ga/jdk11/openjdk-11_osx-x64_bin.tar.gz \
+ | tar -xz \
+ && sudo mv jdk-11.jdk /Library/Java/JavaVirtualMachines \
+ && java -version
+
+curl https://download.oracle.com/java/17/archive/jdk-17.0.12_macos-aarch64_bin.tar.gz \
+| tar -xz \
+&& sudo mv jdk-17.0.12.jdk /Library/Java/JavaVirtualMachines \
+&& java -version
+```
+
+execute:
+```zsh
+echo "\nalias java11='export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home'" >>~/.zshrc
+echo "\nalias java17='export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-17.0.12.jdk/Contents/Home'" >>~/.zshrc
+```
+
+Or add these lines to ~/.zshrc:
+```zsh
+alias java11='export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home'
+alias java17='export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-17.0.12.jdk/Contents/Home'
 ```
 
 Найти JAVA_HOME
@@ -130,69 +205,32 @@ tar -zxf LotsOfFiles.tgz // unpack tgz
 java -XshowSettings:properties -version 2>&1 > /dev/null | grep 'java.home'
 ```
 
-SSH
+# Maven install
+```zsh
+curl https://dlcdn.apache.org/maven/maven-3/3.9.9/binaries/apache-maven-3.9.9-bin.tar.gz \
+| tar -xz \
+&& sudo mv apache-maven-3.9.9 /opt \
+&& /opt/apache-maven-3.9.9/bin/mvn -version
 ```
-ssh-keygen # generate ssh key
 
-cat ~/.ssh/id_rsa.pub | pbcopy # copy key to clipboard
+Add these lines to ~/.zshrc:
+```zsh
+export PATH=$PATH:/opt/apache-maven-3.9.9/bin
 ```
 
-# Java install
-```
-$ curl -C - https://download.java.net/java/ga/jdk11/openjdk-11_osx-x64_bin.tar.gz -O openjdk-11_osx-x64_bin.tar.gz
-$ tar xf openjdk-11_osx-x64_bin.tar.gz
-$ sudo mv jdk-11.jdk /Library/Java/JavaVirtualMachines/
-$ java -version
-
-
-curl https://download.java.net/java/ga/jdk11/openjdk-11_osx-x64_bin.tar.gz \
- | tar -xz \
- && sudo mv jdk-11.jdk /Library/Java/JavaVirtualMachines \
- && java -version
-
-curl https://download.oracle.com/java/23/latest/jdk-23_macos-aarch64_bin.tar.gz | tar -xz \
- && sudo mv jdk-23.0.1.jdk /Library/Java/JavaVirtualMachines \
- && java -version
-
-export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home
-export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-17.0.12.jdk/Contents/Home
-export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-23.0.1.jdk/Contents/Home
-
-alias java11='export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home'
-alias java17='export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-17.0.12.jdk/Contents/Home'
-alias java23='export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-23.0.1.jdk/Contents/Home'
-
-Write aliases to profile:
-echo alias java23=\"export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-23.0.1.jdk/Contents/Home\" >>~/.zprofile
-
-Check installed java:
-/usr/libexec/java_home -V
-
-Check location sertain version:
-/usr/libexec/java_home -v 17
-
-Switch between several java: add function to ~/.zshrc:
-jdk() {
-    version=$1
-    export JAVA_HOME=$(/usr/libexec/java_home -v"$version");
-    java -version
-}
-
-and switch with: jdk 11
-```
-Unr9xtuh
-```
 # Scala install
 
-https://www.scala-lang.org/download/
+Download scala https://www.scala-lang.org/download/
+Unpack
+Move to /opt
+Add to PATH `export PATH=$PATH:/opt/scala-2.13.15/bin`
+Check `scala -version`
 
-curl -fL https://github.com/VirtusLab/coursier-m1/releases/latest/download/cs-aarch64-apple-darwin.gz | gzip -d > cs && chmod +x cs && (xattr -d com.apple.quarantine cs || true) && ./cs setup
+## Uninstall
+Remove folder `/Users/agalin/Library/Application Support/Coursier`
+Clear coursier install directory from PATH
 
-location scala & sbt:
-/Users/agalin/Library/Application Support/Coursier/bin/scala
-```
-
-Telnet
+# Telnet
 ```
 www.gnu.org/software/inetutils
 Download "inetutils-1.9.4.tar.gz"
@@ -210,3 +248,5 @@ Username
 id -F
 id -un | whoami | echo $USER
 ```
+
+Плеер https://iina.io/

@@ -1,2 +1,4 @@
 - Copying left audio to right side
 	- Effects > Amplitude and Compression > Channel mixer
+- Mono to stereo
+	- Edit > Convert Sample Type or press Shift + T and select "Convert to Stereo"
