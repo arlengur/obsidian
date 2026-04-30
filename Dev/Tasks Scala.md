@@ -54,19 +54,56 @@ object BinaryTreeFold extends App {
 }
 ```
 
-3. Вывести индексы элементов в массиве сумма которых равна искомому
+3. Вывести индексы элементов в массиве сумма которых равна искомому.
+
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+You can return the answer in any order.
 ```scala
 def twoSum(nums: Array[Int], target: Int): Array[Int] = {  
-	val tmpMap = scala.collection.mutable.Map[Int, Int]()  
-	for (i <- nums.indices) {  
-		val complement = target - nums(i)  
-		if (tmpMap.contains(complement)) {  
-			return Array(tmpMap(complement), i)  
-		}  
-		tmpMap(nums(i)) = i  
-	}  
-	Array()  
+  for (i <- nums.indices) {  
+    for (j <- i + 1 until nums.length) {  
+      println(i,j)  
+      if (nums(i) + nums(j) == target)  
+        return Array(i, j)  
+    }  
+  }  
+  Array()  
 }
+// time complexity O(n^2): первое значение сравниваем с n-1, второе с n-2 и последнее с 0, сумма арифметической прогрессии S=n*(a1+an)/2 получим n*(n-1)/2 
+// space complexity O(1)
+
+def twoSum(nums: Array[Int], target: Int): Array[Int] = {  
+  val numMap = nums.zipWithIndex.toMap  
+  for (i <- nums.indices) {  
+    val complement = target - nums(i)  
+    if (numMap.contains(complement) && numMap(complement) != i) {  
+      return Array(i, numMap(complement))  
+    }  
+  }  
+  Array()  
+}
+
+// time complexity O(n): делаем 2 прохода по массиву: заполнить хэш мап значениями и их индексами из массива и пройти по массиву и найти в хэш таблице его дополнение до искомого значения: O(n) + O(n) = O(n)
+// space complexity O(n)
+
+import scala.util.boundary, boundary.break
+def twoSum(nums: Array[Int], target: Int): Array[Int] = {
+  val numMap = scala.collection.mutable.Map[Int, Int]()
+  boundary {
+    for (i <- nums.indices) {
+      val complement = target - nums(i)
+      if (numMap.contains(complement)) {
+        break(Array(numMap(complement), i))
+      }
+      numMap(nums(i)) = i
+    }
+    Array()
+  }
+}
+
+// time complexity O(n): делаем 1 прохода по массиву: каждый элемент обрабатываем 1 раз, а операции добавления и поиска в хэш таблице O(1) получаем O(n)
+// space complexity O(n)
 
 // twoSum(Array(2, 7, 11, 15), 9) = 01
 // twoSum(Array(3, 2, 4), 6) = 12
@@ -141,7 +178,7 @@ def sum(in: Seq[Int]): Int = {
 println(sum(input))
 ```
 
-7. Посчитать все последовательности одинаковых символов Ответ выдать в виде `Seq[(Char, Int)]` (символ и число последовательных повторений)
+7. Посчитать все последовательности одинаковых символов. Ответ выдать в виде `Seq[(Char, Int)]` (символ и число последовательных повторений)
 ```scala
 val in = "Sssstriiingsss"  
   
@@ -150,12 +187,12 @@ def solution(in: String): Seq[(Char, Int)] = in.foldLeft(List.empty[(Char, Int)]
 }
 ```
 
-8. На вход `Seq[Future[String]]` Получить `Future[(Seq[String], Seq[Throwable])]` - результат агрегации выполненых Future и исключений
+8. На вход `Seq[Future[String]]`. Получить `Future[(Seq[String], Seq[Throwable])]` - результат агрегации выполненых Future и исключений
 
 ```scala
 import scala.concurrent.duration.Duration  
 import scala.concurrent.{Await, ExecutionContext, Future}  
-  
+
 implicit val ec: ExecutionContext = ExecutionContext.global  
   
 val talk = Seq(  
@@ -257,9 +294,9 @@ println(s1.sorted == s2.sorted)
 ```
 
 12. Восстановить маршрут
-
- ```scala
- [(Spb, Moscow), (Spb, Habarovsk), (Barnaul, Habarovsk)] => ["Moscow", "Spb", "Habarovsk", "Barnaul"]
+```
+ [(Spb, Moscow), (Spb, Habarovsk), (Barnaul, Habarovsk)] => 
+ ["Moscow", "Spb", "Habarovsk", "Barnaul"]
 ```
 
 1. Get list last

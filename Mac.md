@@ -1,3 +1,13 @@
+# Check IP
+- curl ipinfo.io/ip 
+- curl icanhazip.com
+
+На запись в файл влияют параметры:
+checkRebalanceTime если истекло, то пишем в файл
+TimeOut если истекло, то пишем в файл
+batchCount если прывысиил, то пишем в файл
+
+```
 
 # Shortcuts
 – `opt+-`

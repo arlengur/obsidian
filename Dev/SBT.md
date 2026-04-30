@@ -42,6 +42,8 @@ libraryDependencies += "com.lihaoyi" %% "fansi" % "0.4.0" // colored string
 // libraryDependencies += "org.scalatest" %% "scalatest" % "3.2.13" % Test // available only within test dir
 ```
 
+Символ `%%` в зависимостях говорит что СБТ возьмет версию библиотеки соответствующую верисии скала, а если писать `%`, то потом надо добавить суффикс версии `fansi_2.13`
+
 multi project build.sbt
 ```
 ThisBuild / scalaVersion := "2.13.8" // значение применяется ко всем модулям

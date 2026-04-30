@@ -10,6 +10,7 @@ Shortcuts
 Ctrl+Shift+P - show type
 Opt+Enter - Add type annotation ...
 ^+I - implement methods
+Cmd+Shift+I - download dependencies
 
 Change Code Completion Shortcuts
 Settings - Keymap - Main Menu - Code - Code Completion - Basic set to <Cmd+Space>

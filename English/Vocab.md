@@ -1,4 +1,6 @@
 - excited - взволнованный, восторженный
+- enrolment - зачисление
+- scholarship /'skɑlərʃɪp/ - стипендия
 - tiding /'taɪdɪŋ/ - весть, новость
 - detest - ненавидеть
 - detestable /dɪ'tɛstəbəl/ - отвратительный, ненавистный
@@ -43,8 +45,6 @@ the least demanding - наименее требовательный
 sounds like a ... - звучит как
 
 you beat me to it - ты победил меня в этом
-
-what a pity - какая жалость
 
 a critical/important/crutial role
 
@@ -251,6 +251,12 @@ he won't tell me about his girl
 - sloth /slɑː θ/ - лень
 - insanity /ɪn'sænɪti/ - безумие
 - sickness - болезнь, недомогание
+- curate /'kjʊəɹət/ - отбирать
+- benchmark /'bentʃmɑː k/ - эталон, ориентир
+- long-term - долгосрочный
+- notably /'nəʊtəbli/ - в частности
+- fund /'fʌnd/ - финансировать
+- yield - доходность, выход
 - Accurate /'ækjərət/ – точный, правильный
 	- synonym: precise
 	- The report wasn’t completely accurate.
@@ -582,7 +588,8 @@ you cracked me up - ты меня очень рассмешил
 - lavatory - туалет
 - cemetery - кладбище
 - room - место
-- space - пространство
+- space - пространство, помещение
+- waterfront - набережная
 - fit - уместить
 - stow - укладывать, складывать
 	- Please stow your carry-on luggage under the seat in front of you.
@@ -683,6 +690,10 @@ f-word / swearing-words
 	- He is entitled to decent working conditions
 	- we're entitled - мы имеем право
 - overhead lockers - верхние шкафчики
+- overhead - накладные расходы
+- comprise - включать, содержать
+- intermediate - промежуточный
+- pairwise disjoint - попарно непересекающиеся
 - sorry, love - прости, дорогая
 - other way around - наоборот
 	- I should be telling you what to do, not the other way around.
@@ -750,6 +761,8 @@ f-word / swearing-words
 - walk - ходить, идти
 - crouching - приседание
 - retreat /rɪ'trit/ - отступать
+- retrieve - получить
+- overdue - просрочено
 - calamity /kə'læmɪti/ - бедствие, катастрофа
 - rise to the feet - поднимать на ноги
 - rise to its feet - подняться на ноги
@@ -1364,7 +1377,7 @@ you will be always filmed - тебя всегда будут снимать
 - bring out - раскрыть, выявить, показать
 - jewel /'dʒuː .əl/ - драгоценность, драгоценный камень
 - praise - прославление
-- praiseworthy - похвальный, достойный похвалы
+	- praiseworthy - похвальный, достойный похвалы
 - discredits - опорочить
 - illumination - освещение
 - mountain range - горная цепь
@@ -1599,7 +1612,6 @@ reluctant
 - draw/get attention - привлечь внимание
 - diffusion - распространение 
 - very form - сама форма
-- host  - множество 
 - gesture /'dʒɛstʃər/ - жест, жестикуляция
 - insuperable /ɪn'sjuː pərəbəl/ - непреодолимый
 - innermost - самый внутренний, глубочвайший
@@ -1796,8 +1808,11 @@ loveliness - красота, очарование
 - beneficial - полезный
 - benefit - польза, благо, преимущество
 - tremendously - чрезвычайно
-- gain - получать, выгода, достижение
+- gain - получать, выгода, прибыль, достижение
 - regain - восстановить
+- hassle /'hæsəl/ - хлопоты, морока
+- tenant - арендатор, жилец
+- royalty - авторский гонорар
 - exposure - контакт
 - batch up - группировать
 - arguably - возможно
@@ -1903,6 +1918,9 @@ over
 - a number of reasons - ряд причин
 - truncate - обрезать
 - endless supply - бесконечный запас
+- supply /sə'plaɪ/ - поставка, предложение
+- downtown - центр города
+- district - район, округ
 - anecdote - интересная история
 - argue - спорить
 - dispatch - отправлять
@@ -2323,7 +2341,7 @@ Warm-up questions - Вопросы для разминки
 - pesky - надоедливый
 - ally - союзник
 - post‐order expression - когда оператор пишем после операнда, то есть 1 + 2 запишется как 1 2 +
-- downside - недостаток
+- downside - недостаток, минус
 - traversal - обход 
 - depth - глубина
 - torso - тело
@@ -2342,7 +2360,7 @@ Warm-up questions - Вопросы для разминки
 - increasingly /ɪn'kriː sɪŋli/ - все больше
 - drive away - прогнать
 - gale - шторм
-- host - принимать, множество
+- host - принимать, множество, размещать
 - afford - позволять себе ч-л
 - get back - вернуться
 - absorb - поглощать, усваивать
@@ -2665,9 +2683,18 @@ Warm-up questions - Вопросы для разминки
 - some days - иногда, какие-то дни
 - mystery solved - тайна раскрыта
 - ploy - уловка, трюк
+- roadmap - план действий
+- insightful - содержательный
+- evolving /ɪ'vɑlvɪŋ/ - развивающийся
+- bootcamp - интенсивная образовательная программа
+- real estate - недвижимость
+- fractional - частичный, долевой
 - What can I get you? - что я могу тебе дать?
 - suspect - подозревать
+- curriculum /kə'ɹɪkjələm/ - учебная программа
 - frank - честный
+- rank - ранг, занимать
+- campus - университетский городок
 - get out - выйти, уйти, убираться
 - you can do better - ты достоин лучшего
 - Compliments of - в подарок, в знак признательности от
@@ -2735,6 +2762,8 @@ Warm-up questions - Вопросы для разминки
 - avenge - отомстить
 - conversion - преобразование
 - to come in handy - пригодиться
+- handy - удобный
+- outro /'aʊt.roʊ/ - финал
 - account for - учитывать
 - convey - выражать, передавать
 - irrelevant - неуместный
@@ -2762,7 +2791,10 @@ Warm-up questions - Вопросы для разминки
 - extent - степень
 	- to some extent - в некоторой степени
 - traverse - двигаться
-- ensures - гарантирует
+- ensure - гарантировать
+- outline - план
+- generic - общий, универсальный
+- variable - переменный
 - extract - извлечь
 - majority - большинство
 - vast - огромный
@@ -2961,6 +2993,7 @@ Warm-up questions - Вопросы для разминки
 	- I got to stop pretending - я должен прекратить притворяние (я должен перестать притворяться)
 - gonna = going to
 - pity - жалость
+	- what a pity - какая жалость
 - doesn't that feel good - разве это не прекрасно/круто
 	- does that feel good - это не классно?!
 - out of box - в коробку не помещается, в голове не помещается
@@ -3599,7 +3632,6 @@ have someone over -
 - accuse /ə'kjuz/ - обвинять
 - safeguard /'seɪfɡɑː d/ - защищать
 - coy /kɔɪ/ - застенчивый, скромный
-- worthlessness - бесполезность
 - vain /veɪn/ - тщетный, напрасный, тщеславный
 - untrustworthy - ненадёжный, не заслуживающий доверия 
 	- I think he is shallow, vain and untrustworthy. 
@@ -3628,12 +3660,11 @@ have someone over -
 - shame - стыд, позор, застенчивость
 - caress /kə'rɛs/ - ласкать, гладить
 - chin /tʃɪn/ - подбородок
-
-Грамматика
-
-
-worth seeing/visiting
-I can't find worthy - я не могу нати достойного
+- worth /wɜː θ/ - стоимость, достойный
+	- worth seeing/visiting - стоит увидеть/посетить
+	- I can't find worthy - я не могу найти достойного
+	- worthlessness - бесполезность
+- in-demand - востребованный, пользующийся спросом
 
 with what they have
 
@@ -3862,6 +3893,9 @@ I qualify as an English translater
 - unsought - непрошенный
 - stem - исходить
 - assisting - вспомогательный
+- stun - потрясать
+- luxury - роскошный, элитный
+- high-end - высококачественный
 - stunned - потрясенный, ошеломленный
 - relish - наслаждаться
 - current /'kʌɹ.ənt/ /'kɜː rənt/ - текущий
@@ -4292,6 +4326,7 @@ get it done - сделать это
 	- I'll be done to travel with you - я больше не соглашусь на путешествие с тобой
 	- I'm done/finished - я все
 	- Can I be done? - можно я все?
+- finish - отделка
 
 
 pathetic - жалкий
@@ -4437,8 +4472,9 @@ supporting actor - роль второго плана
 
 twentyish - двадцатилетний
 
-some pitfalls - ловушка
-anticipate - предвидеть
+- pitfall /'pɪtfɔː l/ - подводный камень, ловушка
+- anticipate - предвидеть
+
 you should never ever use it - вы никогда не должны использовать это
 
 The dialogue sounded fake, the soundtrack didn't fit the scenes, and the acting looked sloppy.
@@ -4741,7 +4777,8 @@ off-putting character
 
 Worked her way to the top
 
-- appreciation /əpɹiː .ʃi'eɪ.ʃən/ - признание
+- appreciation /əpɹiː .ʃi'eɪ.ʃən/ - признание, оценка
+- sleek /sliː k/ - элегантный
 - consensus - единое мнение
 - substantiates - обосновывает
 - engage - участвовать, вовлекать

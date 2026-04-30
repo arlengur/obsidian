@@ -1,0 +1,1 @@
+ROI - An annual Return on Investment (годовая доходность инвестиций)

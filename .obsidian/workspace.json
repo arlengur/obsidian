@@ -13,6 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Dev/Golang.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Golang"
+            }
+          },
+          {
+            "id": "722365c3b4fcffb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Паттерны.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Паттерны"
+            }
+          },
+          {
+            "id": "66c88c089f29aeb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Шаблоны конкурентности.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Шаблоны конкурентности"
+            }
+          },
+          {
+            "id": "8ebbf995d5a26088",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Сети.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сети"
+            }
+          },
+          {
+            "id": "22deea7646bfdfe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "MTS/links.md",
                 "mode": "source",
                 "source": false
@@ -22,91 +78,49 @@
             }
           },
           {
-            "id": "722365c3b4fcffb8",
+            "id": "b904f3fa59bff3e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Адхокшаджа Свами/Махарадж.md",
+                "file": "MTS/Заметки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Махарадж"
+              "title": "Заметки"
             }
           },
           {
-            "id": "14d9061ace650cd4",
+            "id": "9d2665c3a5b935c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Дхама.md",
+                "file": "Dev/Golang.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Дхама"
+              "title": "Golang"
             }
           },
           {
-            "id": "99bfb5e19d5a2426",
+            "id": "d164cd02f89b06a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИСККОН/Заметки разные.md",
+                "file": "ИСККОН/Шастра-чакшуш НН.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Заметки разные"
-            }
-          },
-          {
-            "id": "97572e8fdf7ba0bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MTS/Медиация.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Медиация"
-            }
-          },
-          {
-            "id": "a9b5bce4f81376c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ИСККОН/Шастра-чакшуш НП.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Шастра-чакшуш НП"
-            }
-          },
-          {
-            "id": "8ebbf995d5a26088",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ИСККОН/Slokas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Slokas"
+              "title": "Шастра-чакшуш НН"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -152,10 +166,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sorm86_thrift",
+                "query": "replace",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -242,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ИСККОН/Шастра-чакшуш НП.md",
+                "file": "Dev/Golang.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Шастра-чакшуш НП"
+              "title": "Outline of Golang"
             }
           },
           {
@@ -270,7 +284,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -283,52 +298,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9b5bce4f81376c8",
+  "active": "9d2665c3a5b935c6",
   "lastOpenFiles": [
-    "MTS/Медиация.md",
-    "Dev/Kafka.md",
-    "Qiwi/Kafka.md",
-    "ИСККОН/Шастра-чакшуш НП.md",
-    "Адхокшаджа Свами/Махарадж.md",
-    "ИСККОН/Заметки разные.md",
-    "ИСККОН/Slokas.md",
-    "ИСККОН/Вишну-сахасранама.md",
-    "ИСККОН/Шастра-чакшуш БГ.md",
-    "MTS/links.md",
-    "MTS/Extractor.md",
+    "Dev/Шаблоны проетирования.md",
+    "Dev/Шаблоны конкурентности.md",
+    "Dev/Golang.md",
     "MTS/DevX Copilot.md",
+    "MTS/Extractor.md",
+    "MTS/links.md",
+    "MTS/Publisher.md",
     "MTS/Заметки.md",
     "MTS/Кафетерий льгот.md",
-    "ИСККОН/Bhakti Rasamrita Sindhu.md",
-    "ИСККОН/БШ БВГМ.md",
-    "ИСККОН/Бхакти-веданта.md",
-    "ИСККОН/Шастра-чакшуш ШИ.md",
-    "ИСККОН/ШИ.md",
-    "ИСККОН/Школа санкиртаны.md",
-    "ИСККОН/Школа санкиртаны 1.md",
-    "Idea.md",
-    "Mac.md",
-    "Minio.md",
-    "ИСККОН/Nilambara.md",
-    "ИСККОН/Дхама.md",
-    "Адхокшаджа Свами",
-    "Untitled.base",
-    "Resources/realloc.png",
+    "MTS/Медиация.md",
+    "MTS/СХД.md",
+    "ИСККОН/Вишну-сахасранама.md",
+    "Dev/Многопоточность.md",
+    "Dev/Паттерны.md",
+    "English/Vocab.md",
+    "ИСККОН/Шастра-чакшуш НН.md",
+    "Dev/Сети.md",
+    "Dev/Паттерны Го.md",
+    "Dev/БД.md",
+    "Dev/Kafka.md",
+    "Dev/Git&Gitlab.md",
+    "Dev/Rest vs Grpc.md",
+    "ИСККОН/Slokas.md",
+    "Dev/Задачи го.md",
+    "Qiwi/PostProcessor.md",
+    "ИСККОН/Бхакта-програм.md",
+    "Resources/idea.png",
     "Resources/Pasted image 20230903123333.png",
     "Resources/Pasted image 20240119155930.png",
     "Resources/Pasted image 20240212163753.png",
+    "Resources/Pasted image 20240212163825.png",
+    "Resources/Pasted image 20250228125200.png",
+    "Resources/Pasted image 20250422122414.png",
+    "Resources/pkg_go.png",
+    "Адхокшаджа Свами",
+    "Untitled.base",
+    "Resources/realloc.png",
     "Resources/slice1.png",
-    "Resources/slice2.png",
     "ИСККОН/Бхаджаны",
     "MTS",
-    "Resources/Pasted image 20250422122414.png",
-    "Resources/Pasted image 20250228125200.png",
     "Untitled 2",
     "Untitled 1",
     "ИСККОН/Сценарии",
     "Qiwi",
-    "Resources/type_hierarhy_hs.png",
-    "Resources/sql_joins.png",
     "Science",
     "English",
     "Untitled.canvas"

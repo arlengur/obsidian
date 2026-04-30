@@ -42,7 +42,7 @@ https://servicedesk.mts.ru/blueprints/ad750bfa-c83e-4eda-ad5a-1eff07fe751a
 006C8E88*58932
 ```
 
-Выдача токена
+Выдача токена (помогает когда отпечаток пальцев перестал работавть)
 ```
 curl -s https://mirror.mts.ru/macos/token.sh | bash
 ```
